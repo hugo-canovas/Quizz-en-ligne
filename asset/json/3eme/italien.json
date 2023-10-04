@@ -1,0 +1,64 @@
+{
+    "question": {
+        "Come si dice 'amico' in italiano ?": {
+            "1": "Amico",
+            "2": "Casa",
+            "3": "Cane",
+            "4": "Libro"
+        },
+        "Qual è il colore della bandiera italiana ?": {
+            "1": "Verde, bianco e rosso",
+            "2": "Blu e bianco",
+            "3": "Giallo e rosso",
+            "4": "Nero e bianco"
+        },
+        "Cosa significa 'grazie' in italiano ?": {
+            "1": "Grazie",
+            "2": "Ciao",
+            "3": "Arrivederci",
+            "4": "Per favore"
+        },
+        "Come si chiama la famosa torre inclinata di Pisa ?": {
+            "1": "La Torre di Pisa",
+            "2": "La Torre Eiffel",
+            "3": "La Torre di Londra",
+            "4": "La Torre di Napoli"
+        },
+        "Quale città italiana è famosa per il Colosseo ?": {
+            "1": "Roma",
+            "2": "Milano",
+            "3": "Firenze",
+            "4": "Venezia"
+        },
+        "Qual è il fiume principale che attraversa Roma ?": {
+            "1": "Il Tevere",
+            "2": "Il Po",
+            "3": "Il Danubio",
+            "4": "Il Reno"
+        },
+        "Chi è l'autore dell'opera 'La Divina Commedia' ?": {
+            "1": "Dante Alighieri",
+            "2": "Leonardo da Vinci",
+            "3": "Michelangelo",
+            "4": "Raffaello"
+        },
+        "Qual è il nome dell'isola italiana famosa per il limoncello ?": {
+            "1": "Capri",
+            "2": "Sicilia",
+            "3": "Sardegna",
+            "4": "Elba"
+        },
+        "Qual è il piatto italiano tradizionale fatto di riso, zafferano e altri ingredienti ?": {
+            "1": "Risotto alla milanese",
+            "2": "Spaghetti alla carbonara",
+            "3": "Pizza margherita",
+            "4": "Lasagne"
+        },
+        "Qual è la capitale d'Italia ?": {
+            "1": "Roma",
+            "2": "Milano",
+            "3": "Firenze",
+            "4": "Napoli"
+        }
+    }
+}

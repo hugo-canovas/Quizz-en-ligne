@@ -1,0 +1,64 @@
+{
+    "question": {
+        "Qui a été le premier président des États-Unis ?": {
+            "1": "George Washington",
+            "2": "Thomas Jefferson",
+            "3": "Abraham Lincoln",
+            "4": "John Adams"
+        },
+        "Quelle guerre a été combattue de 1914 à 1918 ?": {
+            "1": "La Première Guerre mondiale",
+            "2": "La Guerre de Sécession",
+            "3": "La Guerre d'Indépendance américaine",
+            "4": "La Guerre froide"
+        },
+        "Quel événement historique a eu lieu en 1789 en France ?": {
+            "1": "La Révolution française",
+            "2": "La Renaissance",
+            "3": "La Réforme protestante",
+            "4": "La Révolution industrielle"
+        },
+        "Qui était le dirigeant de l'Union soviétique pendant la majeure partie de la Guerre froide ?": {
+            "1": "Joseph Staline",
+            "2": "Vladimir Poutine",
+            "3": "Mikhail Gorbatchev",
+            "4": "Nikita Khrouchtchev"
+        },
+        "Quel événement historique a marqué la fin de la Guerre froide en 1989 ?": {
+            "1": "La chute du mur de Berlin",
+            "2": "La révolution cubaine",
+            "3": "L'invasion de l'Irak",
+            "4": "La Révolution orange en Ukraine"
+        },
+        "Qui était le président des États-Unis pendant la Guerre civile américaine ?": {
+            "1": "Abraham Lincoln",
+            "2": "Thomas Jefferson",
+            "3": "Andrew Johnson",
+            "4": "Ulysses S. Grant"
+        },
+        "Quel explorateur italien a découvert l'Amérique en 1492 pour le compte de l'Espagne ?": {
+            "1": "Christophe Colomb",
+            "2": "Amerigo Vespucci",
+            "3": "Ferdinand Magellan",
+            "4": "Vasco de Gama"
+        },
+        "Quel événement a marqué le début de la Première Guerre mondiale en 1914 ?": {
+            "1": "L'assassinat de l'archiduc François-Ferdinand d'Autriche à Sarajevo",
+            "2": "La bataille de Verdun",
+            "3": "Le traité de Versailles",
+            "4": "Le débarquement de Normandie"
+        },
+        "Quel empire a été dirigé par Napoléon Bonaparte ?": {
+            "1": "L'Empire français",
+            "2": "L'Empire britannique",
+            "3": "L'Empire ottoman",
+            "4": "L'Empire russe"
+        },
+        "Quel document fondateur des États-Unis a été adopté en 1776 ?": {
+            "1": "La Déclaration d'indépendance",
+            "2": "La Constitution",
+            "3": "Les Articles de la Confédération",
+            "4": "La Déclaration des droits"
+        }
+    }
+}

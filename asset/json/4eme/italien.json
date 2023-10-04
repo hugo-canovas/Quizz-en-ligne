@@ -1,0 +1,64 @@
+{
+    "question": {
+        "Quel est le mot italien pour 'maison' ?": {
+            "1": "Casa",
+            "2": "Auto",
+            "3": "Scuola",
+            "4": "Ristorante"
+        },
+        "Comment dit-on 'bonjour' en italien ?": {
+            "1": "Buongiorno",
+            "2": "Buonasera",
+            "3": "Ciao",
+            "4": "Grazie"
+        },
+        "Quel est le mot italien pour 'merci' ?": {
+            "1": "Grazie",
+            "2": "Prego",
+            "3": "Scusa",
+            "4": "Ciao"
+        },
+        "Comment dit-on 'au revoir' en italien ?": {
+            "1": "Arrivederci",
+            "2": "Ciao",
+            "3": "Buongiorno",
+            "4": "Grazie"
+        },
+        "Quel est le mot italien pour 'amour' ?": {
+            "1": "Amore",
+            "2": "Famiglia",
+            "3": "Musica",
+            "4": "Gioia"
+        },
+        "Comment dit-on 'j'aime' en italien ?": {
+            "1": "Mi piace",
+            "2": "Mi dispiace",
+            "3": "Mi chiamo",
+            "4": "Mi scuso"
+        },
+        "Quel est le mot italien pour 'soleil' ?": {
+            "1": "Sole",
+            "2": "Luna",
+            "3": "Stella",
+            "4": "Pianeta"
+        },
+        "Comment dit-on 'heure' en italien ?": {
+            "1": "Ora",
+            "2": "Giorno",
+            "3": "Settimana",
+            "4": "Mese"
+        },
+        "Quel est le mot italien pour 'nuit' ?": {
+            "1": "Notte",
+            "2": "Giorno",
+            "3": "Sera",
+            "4": "Mattina"
+        },
+        "Comment dit-on 'école' en italien ?": {
+            "1": "Scuola",
+            "2": "Casa",
+            "3": "Libro",
+            "4": "Bambino"
+        }
+    }
+}

@@ -1,0 +1,64 @@
+{
+    "question": {
+        "Quelle révolution a conduit à la chute de la monarchie en France en 1789 ?": {
+            "1": "La Révolution française",
+            "2": "La Révolution industrielle",
+            "3": "La Révolution américaine",
+            "4": "La Révolution russe"
+        },
+        "Qui était le premier président des États-Unis ?": {
+            "1": "George Washington",
+            "2": "Thomas Jefferson",
+            "3": "Abraham Lincoln",
+            "4": "John Adams"
+        },
+        "Quelle bataille célèbre a été remportée par Napoléon Bonaparte en 1805 ?": {
+            "1": "La bataille d'Austerlitz",
+            "2": "La bataille de Waterloo",
+            "3": "La bataille de Trafalgar",
+            "4": "La bataille de Gettysburg"
+        },
+        "Quelle guerre a opposé les États-Unis et le Vietnam dans les années 1960 et 1970 ?": {
+            "1": "La guerre du Vietnam",
+            "2": "La guerre de Corée",
+            "3": "La guerre froide",
+            "4": "La guerre du Golfe"
+        },
+        "Quelle grande pandémie a frappé l'Europe au 14ème siècle, tuant des millions de personnes ?": {
+            "1": "La peste noire",
+            "2": "La grippe espagnole",
+            "3": "La variole",
+            "4": "La tuberculose"
+        },
+        "Quel explorateur italien est crédité d'avoir découvert l'Amérique en 1492 ?": {
+            "1": "Christophe Colomb",
+            "2": "Marco Polo",
+            "3": "Amerigo Vespucci",
+            "4": "Ferdinand Magellan"
+        },
+        "Quel événement a marqué le début de la Première Guerre mondiale en 1914 ?": {
+            "1": "L'assassinat de l'archiduc François-Ferdinand",
+            "2": "La bataille de la Somme",
+            "3": "La chute de l'Empire ottoman",
+            "4": "Le traité de Versailles"
+        },
+        "Qui était le leader de l'Union soviétique pendant la guerre froide ?": {
+            "1": "Joseph Staline",
+            "2": "Vladimir Poutine",
+            "3": "Mikhail Gorbatchev",
+            "4": "Léon Trotsky"
+        },
+        "Quel événement a marqué la fin de l'apartheid en Afrique du Sud ?": {
+            "1": "La libération de Nelson Mandela",
+            "2": "La guerre des Boers",
+            "3": "L'indépendance de l'État libre d'Orange",
+            "4": "La révolution des claveles au Portugal"
+        },
+        "Quelle révolution a conduit à la création de la République populaire de Chine en 1949 ?": {
+            "1": "La Révolution chinoise",
+            "2": "La Révolution culturelle",
+            "3": "La Révolution russe",
+            "4": "La Révolution mexicaine"
+        }
+    }
+}

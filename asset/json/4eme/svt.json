@@ -1,0 +1,64 @@
+{
+    "question": {
+        "Quel est l'organe principal du système respiratoire humain ?": {
+            "1": "Les poumons",
+            "2": "Le cœur",
+            "3": "Le foie",
+            "4": "L'estomac"
+        },
+        "Quel processus permet aux plantes de fabriquer leur propre nourriture en utilisant la lumière du soleil ?": {
+            "1": "La photosynthèse",
+            "2": "La respiration cellulaire",
+            "3": "La fermentation",
+            "4": "La digestion"
+        },
+        "Quel est le rôle principal des globules rouges dans le sang ?": {
+            "1": "Transporter l'oxygène",
+            "2": "Combattre les infections",
+            "3": "Transporter les nutriments",
+            "4": "Produire des anticorps"
+        },
+        "Quel est l'organe chargé de la digestion chimique des aliments dans le système digestif humain ?": {
+            "1": "L'estomac",
+            "2": "Le côlon",
+            "3": "Le foie",
+            "4": "Le pancréas"
+        },
+        "Quel est le nom de la couche externe solide de la Terre ?": {
+            "1": "La croûte terrestre",
+            "2": "Le manteau",
+            "3": "Le noyau",
+            "4": "L'asthénosphère"
+        },
+        "Quelle partie de la fleur contient les organes reproducteurs mâles ?": {
+            "1": "Les étamines",
+            "2": "Le pistil",
+            "3": "Le pédoncule",
+            "4": "Les sépales"
+        },
+        "Quel est le plus grand organe du corps humain ?": {
+            "1": "La peau",
+            "2": "Le foie",
+            "3": "Le cerveau",
+            "4": "Le cœur"
+        },
+        "Quel gaz est essentiel à la photosynthèse des plantes ?": {
+            "1": "Le dioxyde de carbone (CO2)",
+            "2": "L'oxygène (O2)",
+            "3": "L'azote (N2)",
+            "4": "Le méthane (CH4)"
+        },
+        "Quel est le nom du processus par lequel les cellules du corps humain se divisent pour former de nouvelles cellules ?": {
+            "1": "La mitose",
+            "2": "La méiose",
+            "3": "La fécondation",
+            "4": "La diffusion"
+        },
+        "Quel organe est responsable de la filtration du sang et de l'élimination des déchets sous forme d'urine ?": {
+            "1": "Les reins",
+            "2": "Le foie",
+            "3": "Le cœur",
+            "4": "L'estomac"
+        }
+    }
+}

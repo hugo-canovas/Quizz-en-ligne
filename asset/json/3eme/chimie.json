@@ -1,0 +1,64 @@
+{
+    "question": {
+        "Quel est le symbole chimique de l'hydrogène ?": {
+            "1": "H",
+            "2": "O",
+            "3": "C",
+            "4": "N"
+        },
+        "Quel est le gaz le plus abondant dans l'atmosphère terrestre ?": {
+            "1": "Azote (N)",
+            "2": "Oxygène (O)",
+            "3": "Dioxyde de carbone (CO2)",
+            "4": "Hydrogène (H)"
+        },
+        "Quelle est la formule chimique de l'eau ?": {
+            "1": "H2O",
+            "2": "CO2",
+            "3": "NH3",
+            "4": "CH4"
+        },
+        "Quel élément chimique est essentiel à la formation des os et des dents ?": {
+            "1": "Calcium (Ca)",
+            "2": "Fer (Fe)",
+            "3": "Sodium (Na)",
+            "4": "Potassium (K)"
+        },
+        "Quel est le nom de la réaction chimique qui dégage de la chaleur et de la lumière ?": {
+            "1": "La combustion",
+            "2": "L'évaporation",
+            "3": "La photosynthèse",
+            "4": "La décomposition"
+        },
+        "Quel gaz est généralement utilisé pour éteindre les incendies ?": {
+            "1": "Le dioxyde de carbone (CO2)",
+            "2": "L'oxygène (O)",
+            "3": "L'azote (N)",
+            "4": "Le méthane (CH4)"
+        },
+        "Quel est le pH neutre dans une échelle de pH ?": {
+            "1": "7",
+            "2": "0",
+            "3": "14",
+            "4": "1"
+        },
+        "Quel est le nom du processus chimique par lequel les plantes convertissent la lumière en énergie ?": {
+            "1": "La photosynthèse",
+            "2": "La respiration",
+            "3": "La fermentation",
+            "4": "La décomposition"
+        },
+        "Quel est le gaz qui donne la couleur bleue au gaz de ville ?": {
+            "1": "Le méthane (CH4)",
+            "2": "Le propane (C3H8)",
+            "3": "Le butane (C4H10)",
+            "4": "Le dihydrogène (H2)"
+        },
+        "Quel élément chimique a le numéro atomique 6 ?": {
+            "1": "Le carbone (C)",
+            "2": "L'azote (N)",
+            "3": "L'oxygène (O)",
+            "4": "L'hydrogène (H)"
+        }
+    }
+}

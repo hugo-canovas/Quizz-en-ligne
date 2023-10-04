@@ -1,0 +1,64 @@
+{
+    "question": {
+        "What is the capital of France?": {
+            "1": "Paris",
+            "2": "London",
+            "3": "Berlin",
+            "4": "Madrid"
+        },
+        "Which planet is known as the 'Red Planet'?": {
+            "1": "Mars",
+            "2": "Venus",
+            "3": "Jupiter",
+            "4": "Saturn"
+        },
+        "Who wrote the play 'Romeo and Juliet'?": {
+            "1": "William Shakespeare",
+            "2": "Charles Dickens",
+            "3": "Jane Austen",
+            "4": "Mark Twain"
+        },
+        "What is the largest mammal in the world?": {
+            "1": "Blue Whale",
+            "2": "African Elephant",
+            "3": "Giraffe",
+            "4": "Polar Bear"
+        },
+        "What is the process by which plants make their own food using sunlight?": {
+            "1": "Photosynthesis",
+            "2": "Respiration",
+            "3": "Digestion",
+            "4": "Fermentation"
+        },
+        "Who is known as the father of modern physics?": {
+            "1": "Albert Einstein",
+            "2": "Isaac Newton",
+            "3": "Galileo Galilei",
+            "4": "Stephen Hawking"
+        },
+        "Which gas is responsible for the green color of leaves?": {
+            "1": "Chlorophyll",
+            "2": "Oxygen",
+            "3": "Carbon Dioxide",
+            "4": "Nitrogen"
+        },
+        "What is the largest ocean in the world?": {
+            "1": "Pacific Ocean",
+            "2": "Atlantic Ocean",
+            "3": "Indian Ocean",
+            "4": "Arctic Ocean"
+        },
+        "Who was the first woman to fly solo across the Atlantic Ocean?": {
+            "1": "Amelia Earhart",
+            "2": "Bessie Coleman",
+            "3": "Harriet Quimby",
+            "4": "Jacqueline Cochran"
+        },
+        "Which famous speech began with 'I have a dream'?": {
+            "1": "Martin Luther King Jr.'s 'I Have a Dream' speech",
+            "2": "Winston Churchill's 'We shall fight on the beaches' speech",
+            "3": "John F. Kennedy's 'Ask not what your country can do for you' speech",
+            "4": "Abraham Lincoln's 'Gettysburg Address'"
+        }
+    }
+}

@@ -1,0 +1,64 @@
+{
+    "question": {
+        "Quel est le plus grand désert du monde ?": {
+            "1": "Le désert du Sahara",
+            "2": "Le désert de Gobi",
+            "3": "Le désert d'Atacama",
+            "4": "Le désert d'Arabie"
+        },
+        "Quelle est la capitale de l'Inde ?": {
+            "1": "New Delhi",
+            "2": "Mumbai",
+            "3": "Bangalore",
+            "4": "Kolkata"
+        },
+        "Quelle est la plus grande île du monde ?": {
+            "1": "Groenland",
+            "2": "Australie",
+            "3": "Java",
+            "4": "Sumatra"
+        },
+        "Quel est le plus long fleuve du monde ?": {
+            "1": "Le Nil",
+            "2": "Le Mississippi",
+            "3": "L'Amazone",
+            "4": "Le Yangtsé"
+        },
+        "Quel pays est situé à la pointe sud du continent africain ?": {
+            "1": "L'Afrique du Sud",
+            "2": "Le Kenya",
+            "3": "L'Égypte",
+            "4": "Le Nigéria"
+        },
+        "Quelle est la plus haute montagne du monde ?": {
+            "1": "L'Everest",
+            "2": "Le Kilimandjaro",
+            "3": "Le Mont McKinley",
+            "4": "L'Aconcagua"
+        },
+        "Quelle mer est située entre l'Europe et l'Asie ?": {
+            "1": "La mer Méditerranée",
+            "2": "La mer Noire",
+            "3": "La mer Rouge",
+            "4": "La mer Caspienne"
+        },
+        "Quel est le plus grand lac d'Afrique ?": {
+            "1": "Le lac Victoria",
+            "2": "Le lac Tanganyika",
+            "3": "Le lac Malawi",
+            "4": "Le lac Turkana"
+        },
+        "Dans quel océan se trouve l'île de Madagascar ?": {
+            "1": "L'océan Indien",
+            "2": "L'océan Atlantique",
+            "3": "L'océan Pacifique",
+            "4": "L'océan Arctique"
+        },
+        "Quel est le plus grand pays d'Amérique du Sud ?": {
+            "1": "Le Brésil",
+            "2": "L'Argentine",
+            "3": "Le Pérou",
+            "4": "La Colombie"
+        }
+    }
+}

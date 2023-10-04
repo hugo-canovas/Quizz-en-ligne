@@ -1,0 +1,63 @@
+{
+    "Quel est le plus grand océan du monde ?": {
+      "1": "L'océan Pacifique",
+      "2": "L'océan Atlantique",
+      "3": "L'océan Indien",
+      "4": "L'océan Arctique"
+    },
+    "Quel est le plus long fleuve d'Afrique ?": {
+      "1": "Le Nil",
+      "2": "Le Congo",
+      "3": "Le Niger",
+      "4": "Le Zambèze"
+    },
+    "Quel pays est situé à l'extrémité sud de l'Amérique du Sud ?": {
+      "1": "L'Argentine",
+      "2": "Le Chili",
+      "3": "Le Pérou",
+      "4": "La Colombie"
+    },
+    "Quel est le plus grand désert du monde ?": {
+      "1": "Le désert du Sahara",
+      "2": "Le désert d'Atacama",
+      "3": "Le désert de Gobi",
+      "4": "Le désert d'Arabie"
+    },
+    "Quel pays est connu comme le 'pays du Soleil Levant' ?": {
+      "1": "Le Japon",
+      "2": "La Chine",
+      "3": "La Corée du Sud",
+      "4": "L'Inde"
+    },
+    "Quelle est la plus grande île du monde ?": {
+      "1": "Le Groenland",
+      "2": "L'Indonésie",
+      "3": "Le Japon",
+      "4": "Madagascar"
+    },
+    "Quel est le nom de la chaîne de montagnes qui traverse l'Europe ?": {
+      "1": "Les Alpes",
+      "2": "Les Andes",
+      "3": "Les Montagnes Rocheuses",
+      "4": "Les Appalaches"
+    },
+    "Quel est le pays le plus peuplé du monde ?": {
+      "1": "La Chine",
+      "2": "L'Inde",
+      "3": "Les États-Unis",
+      "4": "Le Brésil"
+    },
+    "Quel est le nom de la ligne imaginaire qui divise la Terre en deux hémisphères, nord et sud ?": {
+      "1": "L'équateur",
+      "2": "Le méridien de Greenwich",
+      "3": "Le tropique du Cancer",
+      "4": "Le tropique du Capricorne"
+    },
+    "Dans quel continent se trouve l'Égypte ?": {
+      "1": "L'Afrique",
+      "2": "L'Asie",
+      "3": "L'Europe",
+      "4": "L'Amérique du Nord"
+    }
+  }
+  

@@ -1,0 +1,64 @@
+{
+    "question": {
+        "Quelle est la capitale de la France ?": {
+            "1": "Paris",
+            "2": "Londres",
+            "3": "Berlin",
+            "4": "Madrid"
+        },
+        "Quel est le plus grand pays du monde en termes de superficie ?": {
+            "1": "Russie",
+            "2": "Canada",
+            "3": "Chine",
+            "4": "États-Unis"
+        },
+        "Quel est le nom de la plus longue rivière du monde ?": {
+            "1": "Le Nil",
+            "2": "L'Amazone",
+            "3": "Le Mississippi",
+            "4": "Le Yangtsé"
+        },
+        "Quel désert est le plus grand du monde ?": {
+            "1": "Le Sahara",
+            "2": "Le désert d'Arabie",
+            "3": "Le désert de Gobi",
+            "4": "Le Kalahari"
+        },
+        "Quel océan entoure l'Antarctique ?": {
+            "1": "L'océan Austral",
+            "2": "L'océan Pacifique",
+            "3": "L'océan Atlantique",
+            "4": "L'océan Indien"
+        },
+        "Quel est le pays le plus peuplé du monde ?": {
+            "1": "La Chine",
+            "2": "L'Inde",
+            "3": "Les États-Unis",
+            "4": "Le Brésil"
+        },
+        "Quelle est la plus haute montagne du monde ?": {
+            "1": "L'Everest",
+            "2": "Le K2",
+            "3": "Le Kilimandjaro",
+            "4": "Le Mont Blanc"
+        },
+        "Quel pays est situé à la pointe sud de l'Afrique ?": {
+            "1": "L'Afrique du Sud",
+            "2": "Le Kenya",
+            "3": "Le Nigeria",
+            "4": "L'Égypte"
+        },
+        "Quel est le plus grand lac d'Afrique ?": {
+            "1": "Le lac Victoria",
+            "2": "Le lac Tanganyika",
+            "3": "Le lac Malawi",
+            "4": "Le lac Turkana"
+        },
+        "Dans quel continent se trouve la forêt amazonienne ?": {
+            "1": "L'Amérique du Sud",
+            "2": "L'Afrique",
+            "3": "L'Asie",
+            "4": "L'Amérique du Nord"
+        }
+    }
+}

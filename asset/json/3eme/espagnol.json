@@ -1,0 +1,64 @@
+{
+    "question": {
+        "¿Cómo se dice 'amigo' en español?": {
+            "1": "Amigo",
+            "2": "Casa",
+            "3": "Perro",
+            "4": "Libro"
+        },
+        "¿Qué significa 'gracias' en español?": {
+            "1": "Gracias",
+            "2": "Hola",
+            "3": "Adiós",
+            "4": "Por favor"
+        },
+        "¿Cuál es el color de la bandera de Francia?": {
+            "1": "Azul, blanco y rojo",
+            "2": "Verde y amarillo",
+            "3": "Negro y blanco",
+            "4": "Rojo y blanco"
+        },
+        "¿Cómo se dice 'manzana' en español?": {
+            "1": "Manzana",
+            "2": "Perro",
+            "3": "Casa",
+            "4": "Libro"
+        },
+        "¿Cuál es el día de la semana que viene después del jueves?": {
+            "1": "Viernes",
+            "2": "Sábado",
+            "3": "Domingo",
+            "4": "Lunes"
+        },
+        "¿Qué número viene después del diecisiete?": {
+            "1": "Dieciocho",
+            "2": "Dieciséis",
+            "3": "Diecinueve",
+            "4": "Veinte"
+        },
+        "¿Cómo se llama el océano más grande del mundo?": {
+            "1": "Océano Pacífico",
+            "2": "Océano Atlántico",
+            "3": "Océano Índico",
+            "4": "Océano Ártico"
+        },
+        "¿Cuál es el mes que viene antes de noviembre?": {
+            "1": "Octubre",
+            "2": "Diciembre",
+            "3": "Enero",
+            "4": "Febrero"
+        },
+        "¿Cómo se dice 'agua' en español?": {
+            "1": "Agua",
+            "2": "Fuego",
+            "3": "Tierra",
+            "4": "Aire"
+        },
+        "¿Cuál es la capital de España?": {
+            "1": "Madrid",
+            "2": "Barcelona",
+            "3": "Sevilla",
+            "4": "Valencia"
+        }
+    }
+}

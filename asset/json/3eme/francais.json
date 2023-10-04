@@ -1,0 +1,64 @@
+{
+    "question": {
+        "Quel est le nom de l'auteur de 'Le Petit Prince' ?": {
+            "1": "Antoine de Saint-Exupéry",
+            "2": "Victor Hugo",
+            "3": "Gustave Flaubert",
+            "4": "Albert Camus"
+        },
+        "Quel est le genre littéraire de 'Roméo et Juliette' de William Shakespeare ?": {
+            "1": "Tragédie",
+            "2": "Comédie",
+            "3": "Drame historique",
+            "4": "Roman"
+        },
+        "Qui est l'auteur de 'L'Étranger' ?": {
+            "1": "Albert Camus",
+            "2": "Franz Kafka",
+            "3": "Friedrich Nietzsche",
+            "4": "Jean-Paul Sartre"
+        },
+        "Quelle œuvre de Voltaire est célèbre pour son plaidoyer pour la tolérance religieuse ?": {
+            "1": "Candide",
+            "2": "L'Éducation sentimentale",
+            "3": "Les Misérables",
+            "4": "La Chartreuse de Parme"
+        },
+        "Quel écrivain français est l'auteur de 'Les Fleurs du mal' ?": {
+            "1": "Charles Baudelaire",
+            "2": "Gustave Flaubert",
+            "3": "Marcel Proust",
+            "4": "Honoré de Balzac"
+        },
+        "Qui a écrit 'Le Comte de Monte-Cristo' ?": {
+            "1": "Alexandre Dumas",
+            "2": "Victor Hugo",
+            "3": "Gustave Flaubert",
+            "4": "Émile Zola"
+        },
+        "Quelle est la première phrase de 'À la recherche du temps perdu' de Marcel Proust ?": {
+            "1": "Longtemps, je me suis couché de bonne heure.",
+            "2": "Aujourd'hui, maman est morte.",
+            "3": "Il était une fois dans une petite ville.",
+            "4": "Il était une fois, au pays des merveilles."
+        },
+        "Qui est l'auteur de la pièce de théâtre 'Le Cid' ?": {
+            "1": "Pierre Corneille",
+            "2": "Molière",
+            "3": "Jean Racine",
+            "4": "Voltaire"
+        },
+        "Quel roman de Victor Hugo raconte l'histoire de l'ancien forçat Jean Valjean ?": {
+            "1": "Les Misérables",
+            "2": "Notre-Dame de Paris",
+            "3": "Le Dernier Jour d'un condamné",
+            "4": "Les Travailleurs de la mer"
+        },
+        "Qui a écrit 'Le Rouge et le Noir' ?": {
+            "1": "Stendhal",
+            "2": "Gustave Flaubert",
+            "3": "Honoré de Balzac",
+            "4": "Émile Zola"
+        }
+    }
+}

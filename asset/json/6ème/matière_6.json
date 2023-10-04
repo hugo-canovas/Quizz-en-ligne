@@ -1,0 +1,11 @@
+{
+    "matières" : {
+        "Français": "Français",
+        "Mathématique" : "Mathématique",
+        "Anglais" : "Anglais",
+        "Histoire" : "Histoire",
+        "Géographie" : "Géographie",
+        "Chimie" : "Chimie",
+        "SVT" : "SVT"
+    }
+}

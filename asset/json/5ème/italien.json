@@ -1,0 +1,63 @@
+{
+    "Qual è la capitale dell'Italia?": {
+      "1": "Roma",
+      "2": "Milano",
+      "3": "Firenze",
+      "4": "Napoli"
+    },
+    "Come si dice 'casa' in italiano?": {
+      "1": "Casa",
+      "2": "Macchina",
+      "3": "Libro",
+      "4": "Scuola"
+    },
+    "Chi è l'autore della famosa opera 'La Divina Commedia'?": {
+      "1": "Dante Alighieri",
+      "2": "Leonardo da Vinci",
+      "3": "Machiavelli",
+      "4": "Petrarca"
+    },
+    "Quale giorno della settimana segue il giovedì?": {
+      "1": "Venerdì",
+      "2": "Sabato",
+      "3": "Domenica",
+      "4": "Mercoledì"
+    },
+    "Qual è il fiume più lungo d'Italia?": {
+      "1": "Po",
+      "2": "Tevere",
+      "3": "Arno",
+      "4": "Adige"
+    },
+    "Cosa significa 'Ciao' in italiano?": {
+      "1": "Salve",
+      "2": "Arrivederci",
+      "3": "Buongiorno",
+      "4": "Addio"
+    },
+    "Chi è l'autore de 'Romeo e Giulietta', una famosa tragedia romantica?": {
+      "1": "William Shakespeare",
+      "2": "Gabriele D'Annunzio",
+      "3": "Alessandro Manzoni",
+      "4": "Giacomo Leopardi"
+    },
+    "Qual è la moneta ufficiale dell'Italia?": {
+      "1": "Euro",
+      "2": "Lira",
+      "3": "Dollaro",
+      "4": "Sterlina"
+    },
+    "Quale famoso vulcano italiano si trova vicino a Napoli?": {
+      "1": "Vesuvio",
+      "2": "Stromboli",
+      "3": "Etna",
+      "4": "Vulcano"
+    },
+    "Come si dice 'sole' in italiano?": {
+      "1": "Sole",
+      "2": "Luna",
+      "3": "Stella",
+      "4": "Pianeta"
+    }
+  }
+  

@@ -1,63 +1,84 @@
 {
-    "Qual è la capitale dell'Italia?": {
-      "1": "Roma",
-      "2": "Milano",
-      "3": "Firenze",
-      "4": "Napoli"
+  "questionnaire": [
+    {
+      "question": "Qual è la capitale dell'Italia?",
+      "answers": ["Roma", "Milano", "Firenze", "Napoli"],
+      "correctAnswer": "Roma",
+      "explanation": "Roma è la capitale dell'Italia.",
+      "correctMessage": "Corretto!",
+      "wrongMessage": "Prova ancora!"
     },
-    "Come si dice 'casa' in italiano?": {
-      "1": "Casa",
-      "2": "Macchina",
-      "3": "Libro",
-      "4": "Scuola"
+    {
+      "question": "Come si dice 'casa' in italiano?",
+      "answers": ["Casa", "Macchina", "Libro", "Scuola"],
+      "correctAnswer": "Casa",
+      "explanation": "'Casa' si dice 'casa' in italiano.",
+      "correctMessage": "Corretto!",
+      "wrongMessage": "Prova ancora!"
     },
-    "Chi è l'autore della famosa opera 'La Divina Commedia'?": {
-      "1": "Dante Alighieri",
-      "2": "Leonardo da Vinci",
-      "3": "Machiavelli",
-      "4": "Petrarca"
+    {
+      "question": "Chi è l'autore della famosa opera 'La Divina Commedia'?",
+      "answers": ["Dante Alighieri", "Leonardo da Vinci", "Machiavelli", "Petrarca"],
+      "correctAnswer": "Dante Alighieri",
+      "explanation": "Dante Alighieri è l'autore de 'La Divina Commedia'.",
+      "correctMessage": "Corretto!",
+      "wrongMessage": "Prova ancora!"
     },
-    "Quale giorno della settimana segue il giovedì?": {
-      "1": "Venerdì",
-      "2": "Sabato",
-      "3": "Domenica",
-      "4": "Mercoledì"
+    {
+      "question": "Quale giorno della settimana segue il giovedì?",
+      "answers": ["Venerdì", "Sabato", "Domenica", "Mercoledì"],
+      "correctAnswer": "Venerdì",
+      "explanation": "Venerdì segue il giovedì nella settimana.",
+      "correctMessage": "Corretto!",
+      "wrongMessage": "Prova ancora!"
     },
-    "Qual è il fiume più lungo d'Italia?": {
-      "1": "Po",
-      "2": "Tevere",
-      "3": "Arno",
-      "4": "Adige"
+    {
+      "question": "Qual è il fiume più lungo d'Italia?",
+      "answers": ["Po", "Tevere", "Arno", "Adige"],
+      "correctAnswer": "Po",
+      "explanation": "Il fiume Po è il più lungo d'Italia.",
+      "correctMessage": "Corretto!",
+      "wrongMessage": "Prova ancora!"
     },
-    "Cosa significa 'Ciao' in italiano?": {
-      "1": "Salve",
-      "2": "Arrivederci",
-      "3": "Buongiorno",
-      "4": "Addio"
+    {
+      "question": "Cosa significa 'Ciao' in italiano?",
+      "answers": ["Salve", "Arrivederci", "Buongiorno", "Addio"],
+      "correctAnswer": "Salve",
+      "explanation": "'Ciao' significa 'Salve' in italiano.",
+      "correctMessage": "Corretto!",
+      "wrongMessage": "Prova ancora!"
     },
-    "Chi è l'autore de 'Romeo e Giulietta', una famosa tragedia romantica?": {
-      "1": "William Shakespeare",
-      "2": "Gabriele D'Annunzio",
-      "3": "Alessandro Manzoni",
-      "4": "Giacomo Leopardi"
+    {
+      "question": "Chi è l'autore de 'Romeo e Giulietta', una famosa tragedia romantica?",
+      "answers": ["William Shakespeare", "Gabriele D'Annunzio", "Alessandro Manzoni", "Giacomo Leopardi"],
+      "correctAnswer": "William Shakespeare",
+      "explanation": "William Shakespeare è l'autore de 'Romeo e Giulietta'.",
+      "correctMessage": "Corretto!",
+      "wrongMessage": "Prova ancora!"
     },
-    "Qual è la moneta ufficiale dell'Italia?": {
-      "1": "Euro",
-      "2": "Lira",
-      "3": "Dollaro",
-      "4": "Sterlina"
+    {
+      "question": "Qual è la moneta ufficiale dell'Italia?",
+      "answers": ["Euro", "Lira", "Dollaro", "Sterlina"],
+      "correctAnswer": "Euro",
+      "explanation": "L'Euro è la moneta ufficiale dell'Italia.",
+      "correctMessage": "Corretto!",
+      "wrongMessage": "Prova ancora!"
     },
-    "Quale famoso vulcano italiano si trova vicino a Napoli?": {
-      "1": "Vesuvio",
-      "2": "Stromboli",
-      "3": "Etna",
-      "4": "Vulcano"
+    {
+      "question": "Quale famoso vulcano italiano si trova vicino a Napoli?",
+      "answers": ["Vesuvio", "Stromboli", "Etna", "Vulcano"],
+      "correctAnswer": "Vesuvio",
+      "explanation": "Il Vesuvio è il famoso vulcano vicino a Napoli.",
+      "correctMessage": "Corretto!",
+      "wrongMessage": "Prova ancora!"
     },
-    "Come si dice 'sole' in italiano?": {
-      "1": "Sole",
-      "2": "Luna",
-      "3": "Stella",
-      "4": "Pianeta"
+    {
+      "question": "Come si dice 'sole' in italiano?",
+      "answers": ["Sole", "Luna", "Stella", "Pianeta"],
+      "correctAnswer": "Sole",
+      "explanation": "'Sole' si dice 'sole' in italiano.",
+      "correctMessage": "Corretto!",
+      "wrongMessage": "Prova ancora!"
     }
-  }
-  
+  ]
+}

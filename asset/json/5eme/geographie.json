@@ -1,63 +1,84 @@
 {
-    "Quelle est la capitale de la France ?": {
-      "1": "Paris",
-      "2": "Londres",
-      "3": "Berlin",
-      "4": "Madrid"
+  "questionnaire": [
+    {
+      "question": "Quelle est la capitale de la France ?",
+      "answers": ["Paris", "Londres", "Berlin", "Madrid"],
+      "correctAnswer": "Paris",
+      "explanation": "La capitale de la France est Paris.",
+      "correctMessage": "Correct !",
+      "wrongMessage": "Essaie encore !"
     },
-    "Quelle est la plus grande île du monde ?": {
-      "1": "Groenland",
-      "2": "Australie",
-      "3": "Sumatra",
-      "4": "Java"
+    {
+      "question": "Quelle est la plus grande île du monde ?",
+      "answers": ["Groenland", "Australie", "Sumatra", "Java"],
+      "correctAnswer": "Groenland",
+      "explanation": "La plus grande île du monde est le Groenland.",
+      "correctMessage": "Correct !",
+      "wrongMessage": "Essaie encore !"
     },
-    "Quel est le plus long fleuve du monde ?": {
-      "1": "Le Nil",
-      "2": "L'Amazone",
-      "3": "Le Mississippi",
-      "4": "Le Yangtsé"
+    {
+      "question": "Quel est le plus long fleuve du monde ?",
+      "answers": ["Le Nil", "L'Amazone", "Le Mississippi", "Le Yangtsé"],
+      "correctAnswer": "Le Nil",
+      "explanation": "Le Nil est le plus long fleuve du monde.",
+      "correctMessage": "Correct !",
+      "wrongMessage": "Essaie encore !"
     },
-    "Dans quel continent se trouve le désert du Sahara ?": {
-      "1": "Afrique",
-      "2": "Asie",
-      "3": "Amérique du Sud",
-      "4": "Australie"
+    {
+      "question": "Dans quel continent se trouve le désert du Sahara ?",
+      "answers": ["Afrique", "Asie", "Amérique du Sud", "Australie"],
+      "correctAnswer": "Afrique",
+      "explanation": "Le désert du Sahara se trouve en Afrique.",
+      "correctMessage": "Correct !",
+      "wrongMessage": "Essaie encore !"
     },
-    "Quelle est la plus haute montagne du monde ?": {
-      "1": "L'Everest",
-      "2": "Le K2",
-      "3": "Le Mont Blanc",
-      "4": "Le Kilimandjaro"
+    {
+      "question": "Quelle est la plus haute montagne du monde ?",
+      "answers": ["L'Everest", "Le K2", "Le Mont Blanc", "Le Kilimandjaro"],
+      "correctAnswer": "L'Everest",
+      "explanation": "L'Everest est la plus haute montagne du monde.",
+      "correctMessage": "Correct !",
+      "wrongMessage": "Essaie encore !"
     },
-    "Quel océan entoure l'Antarctique ?": {
-      "1": "L'océan Antarctique",
-      "2": "L'océan Atlantique",
-      "3": "L'océan Pacifique",
-      "4": "L'océan Indien"
+    {
+      "question": "Quel océan entoure l'Antarctique ?",
+      "answers": ["L'océan Antarctique", "L'océan Atlantique", "L'océan Pacifique", "L'océan Indien"],
+      "correctAnswer": "L'océan Antarctique",
+      "explanation": "L'océan Antarctique entoure l'Antarctique.",
+      "correctMessage": "Correct !",
+      "wrongMessage": "Essaie encore !"
     },
-    "Quel pays est connu comme 'le pays du Soleil Levant' ?": {
-      "1": "Le Japon",
-      "2": "La Chine",
-      "3": "La Corée du Sud",
-      "4": "L'Inde"
+    {
+      "question": "Quel pays est connu comme 'le pays du Soleil Levant' ?",
+      "answers": ["Le Japon", "La Chine", "La Corée du Sud", "L'Inde"],
+      "correctAnswer": "Le Japon",
+      "explanation": "Le Japon est connu comme 'le pays du Soleil Levant'.",
+      "correctMessage": "Correct !",
+      "wrongMessage": "Essaie encore !"
     },
-    "Quelle est la plus grande chaîne de montagnes du monde ?": {
-      "1": "L'Himalaya",
-      "2": "Les Andes",
-      "3": "Les Rocheuses",
-      "4": "Les Alpes"
+    {
+      "question": "Quelle est la plus grande chaîne de montagnes du monde ?",
+      "answers": ["L'Himalaya", "Les Andes", "Les Rocheuses", "Les Alpes"],
+      "correctAnswer": "L'Himalaya",
+      "explanation": "L'Himalaya est la plus grande chaîne de montagnes du monde.",
+      "correctMessage": "Correct !",
+      "wrongMessage": "Essaie encore !"
     },
-    "Quel est le plus grand lac d'Afrique ?": {
-      "1": "Le lac Victoria",
-      "2": "Le lac Tanganyika",
-      "3": "Le lac Malawi",
-      "4": "Le lac Turkana"
+    {
+      "question": "Quel est le plus grand lac d'Afrique ?",
+      "answers": ["Le lac Victoria", "Le lac Tanganyika", "Le lac Malawi", "Le lac Turkana"],
+      "correctAnswer": "Le lac Victoria",
+      "explanation": "Le lac Victoria est le plus grand lac d'Afrique.",
+      "correctMessage": "Correct !",
+      "wrongMessage": "Essaie encore !"
     },
-    "Quelle est la plus grande île d'Europe ?": {
-      "1": "La Grande-Bretagne",
-      "2": "L'Islande",
-      "3": "La Sicile",
-      "4": "La Crète"
+    {
+      "question": "Quelle est la plus grande île d'Europe ?",
+      "answers": ["La Grande-Bretagne", "L'Islande", "La Sicile", "La Crète"],
+      "correctAnswer": "La Grande-Bretagne",
+      "explanation": "La Grande-Bretagne est la plus grande île d'Europe.",
+      "correctMessage": "Correct !",
+      "wrongMessage": "Essaie encore !"
     }
-  }
-  
+  ]
+}

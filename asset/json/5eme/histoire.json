@@ -1,63 +1,84 @@
 {
-    "Quel événement historique a marqué la fin de la guerre civile américaine ?": {
-      "1": "L'Appomattox Court House",
-      "2": "La bataille de Gettysburg",
-      "3": "La bataille d'Antietam",
-      "4": "La bataille de Bull Run"
+  "questionnaire": [
+    {
+      "question": "Quel événement historique a marqué la fin de la guerre civile américaine ?",
+      "answers": ["L'Appomattox Court House", "La bataille de Gettysburg", "La bataille d'Antietam", "La bataille de Bull Run"],
+      "correctAnswer": "L'Appomattox Court House",
+      "explanation": "L'Appomattox Court House a marqué la fin de la guerre civile américaine.",
+      "correctMessage": "Correct !",
+      "wrongMessage": "Essaie encore !"
     },
-    "Quel empereur romain est connu pour avoir construit un mur en Angleterre pour protéger la frontière nord de l'Empire romain ?": {
-      "1": "Hadrien",
-      "2": "Jules César",
-      "3": "Auguste",
-      "4": "Néron"
+    {
+      "question": "Quel empereur romain est connu pour avoir construit un mur en Angleterre pour protéger la frontière nord de l'Empire romain ?",
+      "answers": ["Hadrien", "Jules César", "Auguste", "Néron"],
+      "correctAnswer": "Hadrien",
+      "explanation": "L'empereur romain Hadrien a construit un mur en Angleterre.",
+      "correctMessage": "Correct !",
+      "wrongMessage": "Essaie encore !"
     },
-    "Qui a été le premier président des États-Unis ?": {
-      "1": "George Washington",
-      "2": "Thomas Jefferson",
-      "3": "John Adams",
-      "4": "Benjamin Franklin"
+    {
+      "question": "Qui a été le premier président des États-Unis ?",
+      "answers": ["George Washington", "Thomas Jefferson", "John Adams", "Benjamin Franklin"],
+      "correctAnswer": "George Washington",
+      "explanation": "George Washington a été le premier président des États-Unis.",
+      "correctMessage": "Correct !",
+      "wrongMessage": "Essaie encore !"
     },
-    "Quel événement historique a déclenché la Première Guerre mondiale en 1914 ?": {
-      "1": "L'assassinat de l'archiduc François-Ferdinand",
-      "2": "La révolution russe",
-      "3": "La déclaration de guerre de l'Allemagne à la France",
-      "4": "La guerre civile espagnole"
+    {
+      "question": "Quel événement historique a déclenché la Première Guerre mondiale en 1914 ?",
+      "answers": ["L'assassinat de l'archiduc François-Ferdinand", "La révolution russe", "La déclaration de guerre de l'Allemagne à la France", "La guerre civile espagnole"],
+      "correctAnswer": "L'assassinat de l'archiduc François-Ferdinand",
+      "explanation": "L'assassinat de l'archiduc François-Ferdinand a déclenché la Première Guerre mondiale.",
+      "correctMessage": "Correct !",
+      "wrongMessage": "Essaie encore !"
     },
-    "Quel explorateur italien est célèbre pour avoir découvert l'Amérique en 1492 ?": {
-      "1": "Christophe Colomb",
-      "2": "Marco Polo",
-      "3": "Amerigo Vespucci",
-      "4": "Vasco de Gama"
+    {
+      "question": "Quel explorateur italien est célèbre pour avoir découvert l'Amérique en 1492 ?",
+      "answers": ["Christophe Colomb", "Marco Polo", "Amerigo Vespucci", "Vasco de Gama"],
+      "correctAnswer": "Christophe Colomb",
+      "explanation": "Christophe Colomb est célèbre pour avoir découvert l'Amérique en 1492.",
+      "correctMessage": "Correct !",
+      "wrongMessage": "Essaie encore !"
     },
-    "Quel est le nom du document fondateur des États-Unis qui a été adopté en 1776 et déclare l'indépendance du pays ?": {
-      "1": "La Déclaration d'Indépendance",
-      "2": "La Constitution",
-      "3": "L'Acte de Proclamation",
-      "4": "Le Traité de Paris"
+    {
+      "question": "Quel est le nom du document fondateur des États-Unis qui a été adopté en 1776 et déclare l'indépendance du pays ?",
+      "answers": ["La Déclaration d'Indépendance", "La Constitution", "L'Acte de Proclamation", "Le Traité de Paris"],
+      "correctAnswer": "La Déclaration d'Indépendance",
+      "explanation": "La Déclaration d'Indépendance a été adoptée en 1776.",
+      "correctMessage": "Correct !",
+      "wrongMessage": "Essaie encore !"
     },
-    "Quelle reine d'Égypte est célèbre pour sa liaison avec Jules César et Marc Antoine ?": {
-      "1": "Cléopâtre",
-      "2": "Néfertiti",
-      "3": "Hatshepsout",
-      "4": "Isis"
+    {
+      "question": "Quelle reine d'Égypte est célèbre pour sa liaison avec Jules César et Marc Antoine ?",
+      "answers": ["Cléopâtre", "Néfertiti", "Hatshepsout", "Isis"],
+      "correctAnswer": "Cléopâtre",
+      "explanation": "Cléopâtre est célèbre pour sa liaison avec Jules César et Marc Antoine.",
+      "correctMessage": "Correct !",
+      "wrongMessage": "Essaie encore !"
     },
-    "Quel dirigeant allemand est responsable de l'holocauste pendant la Seconde Guerre mondiale ?": {
-      "1": "Adolf Hitler",
-      "2": "Joseph Staline",
-      "3": "Benito Mussolini",
-      "4": "Hirohito"
+    {
+      "question": "Quel dirigeant allemand est responsable de l'holocauste pendant la Seconde Guerre mondiale ?",
+      "answers": ["Adolf Hitler", "Joseph Staline", "Benito Mussolini", "Hirohito"],
+      "correctAnswer": "Adolf Hitler",
+      "explanation": "Adolf Hitler est responsable de l'holocauste pendant la Seconde Guerre mondiale.",
+      "correctMessage": "Correct !",
+      "wrongMessage": "Essaie encore !"
     },
-    "Quel événement historique a marqué la fin de l'Empire romain d'Occident en 476 ?": {
-      "1": "La chute de Rome",
-      "2": "La bataille d'Actium",
-      "3": "L'invasion des Huns",
-      "4": "L'abdication de Romulus Augustule"
+    {
+      "question": "Quel événement historique a marqué la fin de l'Empire romain d'Occident en 476 ?",
+      "answers": ["La chute de Rome", "La bataille d'Actium", "L'invasion des Huns", "L'abdication de Romulus Augustule"],
+      "correctAnswer": "L'abdication de Romulus Augustule",
+      "explanation": "L'Empire romain d'Occident a pris fin avec l'abdication de Romulus Augustule en 476.",
+      "correctMessage": "Correct !",
+      "wrongMessage": "Essaie encore !"
     },
-    "Quel roi de France a été exécuté pendant la Révolution française en 1793 ?": {
-      "1": "Louis XVI",
-      "2": "Napoléon Bonaparte",
-      "3": "Louis XIV",
-      "4": "Charles X"
+    {
+      "question": "Quel roi de France a été exécuté pendant la Révolution française en 1793 ?",
+      "answers": ["Louis XVI", "Napoléon Bonaparte", "Louis XIV", "Charles X"],
+      "correctAnswer": "Louis XVI",
+      "explanation": "Louis XVI a été exécuté pendant la Révolution française en 1793.",
+      "correctMessage": "Correct !",
+      "wrongMessage": "Essaie encore !"
     }
-  }
-  
+  ]
+}

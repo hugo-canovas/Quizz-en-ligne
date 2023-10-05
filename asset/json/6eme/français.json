@@ -1,64 +1,89 @@
 {
-  
-
-    "Quel est le pluriel de 'chat' ?": {
-      "1": "chats",
-      "2": "chatz",
-      "3": "chatounet",
-      "4": "chatte"
+  "questionnaire": [
+    {
+      "question": "Quel est le pluriel de 'chat' ?",
+      "answers": ["chats", "chatz", "chatounet", "chatte"],
+      "correctAnswer": "chats",
+      "explanation": "Le pluriel de 'chat' est 'chats'.",
+      "correctMessage": "Correct !",
+      "wrongMessage": "Essaie encore !"
     },
-    "Quel est le verbe conjugué à la 3e personne du singulier dans la phrase 'Elle danse joyeusement' ?": {
-      "1": "danse",
-      "2": "elle",
-      "3": "joyeusement",
-      "4": "la"
+    {
+      "question": "Quel est le verbe conjugué à la 3e personne du singulier dans la phrase 'Elle danse joyeusement' ?",
+      "answers": ["danse", "elle", "joyeusement", "la"],
+      "correctAnswer": "danse",
+      "explanation": "Le verbe conjugué à la 3e personne du singulier est 'danse' dans la phrase.",
+      "correctMessage": "Correct !",
+      "wrongMessage": "Essaie encore !"
     },
-    "Quel est le pluriel de 'chien' ?": {
-      "1": "chiens",
-      "2": "chienne",
-      "3": "chier",
-      "4": "chante"
+    {
+      "question": "Quel est le pluriel de 'chien' ?",
+      "answers": ["chiens", "chienne", "chier", "chante"],
+      "correctAnswer": "chiens",
+      "explanation": "Le pluriel de 'chien' est 'chiens'.",
+      "correctMessage": "Correct !",
+      "wrongMessage": "Essaie encore !"
     },
-    "Dans quelle phrase le mot 'vélo' est-il utilisé comme un nom ?": {
-      "1": "Il adore faire du vélo.",
-      "2": "Elle a couru très vite.",
-      "3": "Ils mangent du gâteau.",
-      "4": "J'ai sauté très haut."
+    {
+      "question": "Dans quelle phrase le mot 'vélo' est-il utilisé comme un nom ?",
+      "answers": ["Il adore faire du vélo.", "Elle a couru très vite.", "Ils mangent du gâteau.", "J'ai sauté très haut."],
+      "correctAnswer": "Il adore faire du vélo.",
+      "explanation": "La phrase 'Il adore faire du vélo.' utilise 'vélo' comme un nom.",
+      "correctMessage": "Correct !",
+      "wrongMessage": "Essaie encore !"
     },
-    "Quel est le pronom personnel sujet de la 2e personne du pluriel ?": {
-      "1": "Vous",
-      "2": "Je",
-      "3": "Il",
-      "4": "Elles"
+    {
+      "question": "Quel est le pronom personnel sujet de la 2e personne du pluriel ?",
+      "answers": ["Vous", "Je", "Il", "Elles"],
+      "correctAnswer": "Vous",
+      "explanation": "Le pronom personnel sujet de la 2e personne du pluriel est 'Vous'.",
+      "correctMessage": "Correct !",
+      "wrongMessage": "Essaie encore !"
     },
-    "Donne un synonyme du mot 'intelligent'.": {
-      "1": "Malin",
-      "2": "Lent",
-      "3": "Triste",
-      "4": "Rapide"
+    {
+      "question": "Donne un synonyme du mot 'intelligent'.",
+      "answers": ["Malin", "Lent", "Triste", "Rapide"],
+      "correctAnswer": "Malin",
+      "explanation": "'Malin' est un synonyme du mot 'intelligent'.",
+      "correctMessage": "Correct !",
+      "wrongMessage": "Essaie encore !"
     },
-    "Quelle est la forme négative de la phrase 'Il aime le chocolat.' ?": {
-      "1": "Il n'aime pas le chocolat.",
-      "2": "Il aime beaucoup le chocolat.",
-      "3": "Il aime le chocolat blanc.",
-      "4": "Il aime le chocolat noir."
+    {
+      "question": "Quelle est la forme négative de la phrase 'Il aime le chocolat.' ?",
+      "answers": [
+        "Il n'aime pas le chocolat.",
+        "Il aime beaucoup le chocolat.",
+        "Il aime le chocolat blanc.",
+        "Il aime le chocolat noir."
+      ],
+      "correctAnswer": "Il n'aime pas le chocolat.",
+      "explanation": "La forme négative de la phrase est 'Il n'aime pas le chocolat.'",
+      "correctMessage": "Correct !",
+      "wrongMessage": "Essaie encore !"
     },
-    "Quel est l'article défini masculin singulier ?": {
-      "1": "Le",
-      "2": "La",
-      "3": "Les",
-      "4": "Un"
+    {
+      "question": "Quel est l'article défini masculin singulier ?",
+      "answers": ["Le", "La", "Les", "Un"],
+      "correctAnswer": "Le",
+      "explanation": "L'article défini masculin singulier est 'Le'.",
+      "correctMessage": "Correct !",
+      "wrongMessage": "Essaie encore !"
     },
-    "Trouve l'adjectif qualificatif dans la phrase 'Le chat noir est rapide.'": {
-      "1": "noir",
-      "2": "chat",
-      "3": "est",
-      "4": "le"
+    {
+      "question": "Trouve l'adjectif qualificatif dans la phrase 'Le chat noir est rapide.'",
+      "answers": ["noir", "chat", "est", "le"],
+      "correctAnswer": "noir",
+      "explanation": "'Noir' est l'adjectif qualificatif dans la phrase.",
+      "correctMessage": "Correct !",
+      "wrongMessage": "Essaie encore !"
     },
-    "Quel est le verbe à l'infinitif dans la phrase 'Elle veut chanter une chanson.' ?": {
-      "1": "chanter",
-      "2": "veut",
-      "3": "une",
-      "4": "chanson"
+    {
+      "question": "Quel est le verbe à l'infinitif dans la phrase 'Elle veut chanter une chanson.' ?",
+      "answers": ["chanter", "veut", "une", "chanson"],
+      "correctAnswer": "chanter",
+      "explanation": "Le verbe à l'infinitif est 'chanter' dans la phrase.",
+      "correctMessage": "Correct !",
+      "wrongMessage": "Essaie encore !"
     }
-  }
+  ]
+}

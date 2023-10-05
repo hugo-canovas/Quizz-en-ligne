@@ -1,11 +1,13 @@
 {
     "matieres": [
         "Français",
-        "Mathématique",
+        "Mathematique",
         "Anglais",
         "Histoire",
-        "Géographie",
+        "Geographie",
         "Chimie",
-        "SVT"
+        "SVT",
+        "Espagnol",
+        "Italien"
     ]
 }

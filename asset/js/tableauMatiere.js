@@ -1,14 +1,17 @@
 import { addElement } from "./modules/addElement.js";
 
+let url = new URL(window.location.href);
+let classe = url.searchParams.get('classe');
+
 document.addEventListener("DOMContentLoaded", function () {
-    fetch("asset/json/6eme/matiere_6.json")
+    fetch(`asset/json/${classe}/matiere.json`)
     .then(response => response.json())
     .then(response => {
         let matieres = response.matieres;
         let container = document.getElementById('matieres');
 
             matieres.map(matiere => {
-                let card = addElement('a', ["w-32", "h-32", "border-2", "flex", "justify-center", "items-center"], {href:`#${matiere}`}, `${matiere}`);
+                let card = addElement('a', ["w-32", "h-32", "border-2", "flex", "justify-center", "items-center"], {href:`questionnaire.html?classe=${classe}&matiere=${matiere}`}, `${matiere}`);
                 container.appendChild(card);
             });
            

@@ -7,9 +7,9 @@ const tableauClasses = [
     "3eme"
 ]
 
-let container = document.getElementById('test');
+let container = document.getElementById('classes');
 
 tableauClasses.map(item => {
-    let card = addElement('div', [], {}, `${item}`);
+    let card = addElement('a', ["flex", "w-32", "h-32", "bg-blue-500","justify-center", "items-center", "text-center"], { href:"#" }, `${item}`);
     container.appendChild(card);
 })

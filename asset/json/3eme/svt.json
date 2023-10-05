@@ -1,64 +1,135 @@
 {
-    "question": {
-        "Quel est le rôle principal des mitochondries dans une cellule ?": {
-            "1": "Production d'énergie (ATP)",
-            "2": "Synthèse des protéines",
-            "3": "Stockage des nutriments",
-            "4": "Détoxification des déchets"
-        },
-        "Quelle est la fonction principale des chloroplastes dans une cellule végétale ?": {
-            "1": "Photosynthèse",
-            "2": "Respiration cellulaire",
-            "3": "Digestion des nutriments",
-            "4": "Réplication de l'ADN"
-        },
-        "Quel est le processus par lequel le sang transporte l'oxygène des poumons vers les cellules du corps ?": {
-            "1": "La circulation sanguine",
-            "2": "La respiration cellulaire",
-            "3": "La digestion",
-            "4": "La coagulation"
-        },
-        "Quelle partie du cerveau est responsable de la coordination des mouvements et de l'équilibre ?": {
-            "1": "Le cervelet",
-            "2": "Le cortex cérébral",
-            "3": "L'hippocampe",
-            "4": "L'hypothalamus"
-        },
-        "Quel organe est responsable de la production d'insuline dans le corps humain ?": {
-            "1": "Le pancréas",
-            "2": "Le foie",
-            "3": "Les reins",
-            "4": "Les poumons"
-        },
-        "Quel est le nom de la couche externe de la Terre qui comprend la croûte terrestre et la partie supérieure du manteau ?": {
-            "1": "La lithosphère",
-            "2": "L'asthénosphère",
-            "3": "La mésosphère",
-            "4": "L'hydrosphère"
-        },
-        "Quelle est la principale source d'énergie dans le processus de photosynthèse des plantes ?": {
-            "1": "La lumière du soleil",
-            "2": "Le gaz carbonique",
-            "3": "L'eau",
-            "4": "L'oxygène"
-        },
-        "Quel est le rôle des reins dans le corps humain ?": {
-            "1": "Élimination des déchets et régulation de la balance hydrique",
-            "2": "Production d'enzymes digestives",
-            "3": "Filtration de l'air inhalé",
-            "4": "Régulation de la glycémie"
-        },
-        "Quel type de roche est formé par le refroidissement rapide de la lave volcanique ?": {
-            "1": "La roche volcanique (roche ignée)",
-            "2": "La roche sédimentaire",
-            "3": "La roche métamorphique",
-            "4": "La roche cristalline"
-        },
-        "Quelle est la principale fonction du système respiratoire humain ?": {
-            "1": "Échange de gaz (oxygène et dioxyde de carbone) avec le sang",
-            "2": "Digestion des aliments",
-            "3": "Élimination des déchets",
-            "4": "Équilibre de l'eau dans le corps"
-        }
-    }
-}
+    "questionnaire": [
+      {
+        "question": "Quel est le rôle principal des mitochondries dans une cellule ?",
+        "answers": [
+          "Production d'énergie (ATP)",
+          "Synthèse des protéines",
+          "Stockage des nutriments",
+          "Détoxification des déchets"
+        ],
+        "correctAnswer": "Production d'énergie (ATP)",
+        "explanation": "Les mitochondries sont les centrales énergétiques des cellules, produisant de l'ATP lors de la respiration cellulaire.",
+        "correctMessage": "Bien joué!",
+        "wrongMessage": "Continuez d'essayer!"
+      },
+      {
+        "question": "Quelle est la fonction principale des chloroplastes dans une cellule végétale ?",
+        "answers": [
+          "Photosynthèse",
+          "Respiration cellulaire",
+          "Digestion des nutriments",
+          "Réplication de l'ADN"
+        ],
+        "correctAnswer": "Photosynthèse",
+        "explanation": "Les chloroplastes sont responsables de la photosynthèse, convertissant la lumière du soleil en énergie pour les plantes.",
+        "correctMessage": "Bravo!",
+        "wrongMessage": "Continuez d'essayer!"
+      },
+      {
+        "question": "Quel est le processus par lequel le sang transporte l'oxygène des poumons vers les cellules du corps ?",
+        "answers": [
+          "La circulation sanguine",
+          "La respiration cellulaire",
+          "La digestion",
+          "La coagulation"
+        ],
+        "correctAnswer": "La circulation sanguine",
+        "explanation": "La circulation sanguine transporte l'oxygène des poumons vers les cellules et élimine le dioxyde de carbone.",
+        "correctMessage": "Correct!",
+        "wrongMessage": "Keep trying!"
+      },
+      {
+        "question": "Quelle partie du cerveau est responsable de la coordination des mouvements et de l'équilibre ?",
+        "answers": [
+          "Le cervelet",
+          "Le cortex cérébral",
+          "L'hippocampe",
+          "L'hypothalamus"
+        ],
+        "correctAnswer": "Le cervelet",
+        "explanation": "Le cervelet joue un rôle crucial dans la coordination des mouvements et le maintien de l'équilibre.",
+        "correctMessage": "Bien joué!",
+        "wrongMessage": "Continuez d'essayer!"
+      },
+      {
+        "question": "Quel organe est responsable de la production d'insuline dans le corps humain ?",
+        "answers": [
+          "Le pancréas",
+          "Le foie",
+          "Les reins",
+          "Les poumons"
+        ],
+        "correctAnswer": "Le pancréas",
+        "explanation": "Le pancréas produit l'insuline, une hormone régulant la glycémie.",
+        "correctMessage": "Bravo!",
+        "wrongMessage": "Continuez d'essayer!"
+      },
+      {
+        "question": "Quel est le nom de la couche externe de la Terre qui comprend la croûte terrestre et la partie supérieure du manteau ?",
+        "answers": [
+          "La lithosphère",
+          "L'asthénosphère",
+          "La mésosphère",
+          "L'hydrosphère"
+        ],
+        "correctAnswer": "La lithosphère",
+        "explanation": "La lithosphère comprend la croûte terrestre et la partie rigide du manteau, formant la surface externe de la Terre.",
+        "correctMessage": "Correct!",
+        "wrongMessage": "Keep trying!"
+      },
+      {
+        "question": "Quelle est la principale source d'énergie dans le processus de photosynthèse des plantes ?",
+        "answers": [
+          "La lumière du soleil",
+          "Le gaz carbonique",
+          "L'eau",
+          "L'oxygène"
+        ],
+        "correctAnswer": "La lumière du soleil",
+        "explanation": "La photosynthèse utilise la lumière du soleil pour convertir le dioxyde de carbone et l'eau en glucose.",
+        "correctMessage": "Bien joué!",
+        "wrongMessage": "Continuez d'essayer!"
+      },
+      {
+        "question": "Quel est le rôle des reins dans le corps humain ?",
+        "answers": [
+          "Élimination des déchets et régulation de la balance hydrique",
+          "Production d'enzymes digestives",
+          "Filtration de l'air inhalé",
+          "Régulation de la glycémie"
+        ],
+        "correctAnswer": "Élimination des déchets et régulation de la balance hydrique",
+        "explanation": "Les reins éliminent les déchets du sang et régulent l'équilibre hydrique et électrolytique.",
+        "correctMessage": "Bravo!",
+        "wrongMessage": "Continuez d'essayer!"
+      },
+      {
+        "question": "Quel type de roche est formé par le refroidissement rapide de la lave volcanique ?",
+        "answers": [
+          "La roche volcanique (roche ignée)",
+          "La roche sédimentaire",
+          "La roche métamorphique",
+          "La roche cristalline"
+        ],
+        "correctAnswer": "La roche volcanique (roche ignée)",
+        "explanation": "Le refroidissement rapide de la lave volcanique forme des roches ignées, comme le basalte.",
+        "correctMessage": "Bien joué!",
+        "wrongMessage": "Continuez d'essayer!"
+      },
+      {
+        "question": "Quelle est la principale fonction du système respiratoire humain ?",
+        "answers": [
+          "Échange de gaz (oxygène et dioxyde de carbone) avec le sang",
+          "Digestion des aliments",
+          "Élimination des déchets",
+          "Équilibre de l'eau dans le corps"
+        ],
+        "correctAnswer": "Échange de gaz (oxygène et dioxyde de carbone) avec le sang",
+        "explanation": "Le système respiratoire facilite l'échange de gaz, fournissant de l'oxygène et éliminant le dioxyde de carbone.",
+        "correctMessage": "Bravo!",
+        "wrongMessage": "Continuez d'essayer!"
+      }
+    ]
+  }
+  

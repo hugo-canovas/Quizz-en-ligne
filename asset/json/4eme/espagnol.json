@@ -1,64 +1,85 @@
 {
-    "question": {
-        "Comment dit-on 'ami' en espagnol ?": {
-            "1": "Amigo",
-            "2": "Casa",
-            "3": "Perro",
-            "4": "Libro"
-        },
-        "Que signifie 'gracias' en espagnol ?": {
-            "1": "Merci",
-            "2": "Bonjour",
-            "3": "Au revoir",
-            "4": "S'il vous plaît"
-        },
-        "Quelle est la couleur du drapeau de l'Espagne ?": {
-            "1": "Rouge et jaune",
-            "2": "Bleu et blanc",
-            "3": "Vert et blanc",
-            "4": "Noir et blanc"
-        },
-        "Comment dit-on 'pomme' en espagnol ?": {
-            "1": "Manzana",
-            "2": "Perro",
-            "3": "Casa",
-            "4": "Libro"
-        },
-        "Quel jour de la semaine vient après jeudi ?": {
-            "1": "Vendredi",
-            "2": "Samedi",
-            "3": "Dimanche",
-            "4": "Lundi"
-        },
-        "Quel nombre vient après quinze ?": {
-            "1": "Seize",
-            "2": "Quatorze",
-            "3": "Dix-sept",
-            "4": "Trente"
-        },
-        "Comment s'appelle l'océan à l'est de l'Amérique du Nord ?": {
-            "1": "Atlantique",
-            "2": "Pacifique",
-            "3": "Indien",
-            "4": "Arctique"
-        },
-        "Quel mois vient avant décembre ?": {
-            "1": "Novembre",
-            "2": "Janvier",
-            "3": "Février",
-            "4": "Mars"
-        },
-        "Comment dit-on 'eau' en espagnol ?": {
-            "1": "Agua",
-            "2": "Fuego",
-            "3": "Tierra",
-            "4": "Aire"
-        },
-        "Quelle est la capitale du Mexique ?": {
-            "1": "Mexico",
-            "2": "Madrid",
-            "3": "Buenos Aires",
-            "4": "Lima"
-        }
-    }
-}
+    "questionnaire": [
+      {
+        "question": "Comment dit-on 'ami' en espagnol ?",
+        "answers": ["Amigo", "Casa", "Perro", "Libro"],
+        "correctAnswer": "Amigo",
+        "explanation": "Amigo se traduce como 'ami' en español.",
+        "correctMessage": "¡Correcto!",
+        "wrongMessage": "¡Sigue intentándolo!"
+      },
+      {
+        "question": "Que signifie 'gracias' en espagnol ?",
+        "answers": ["Merci", "Bonjour", "Au revoir", "S'il vous plaît"],
+        "correctAnswer": "Merci",
+        "explanation": "'Gracias' se traduce como 'merci' en español.",
+        "correctMessage": "¡Correcto!",
+        "wrongMessage": "¡Sigue intentándolo!"
+      },
+      {
+        "question": "Quelle est la couleur du drapeau de l'Espagne ?",
+        "answers": ["Rouge et jaune", "Bleu et blanc", "Vert et blanc", "Noir et blanc"],
+        "correctAnswer": "Rouge et jaune",
+        "explanation": "La couleur du drapeau de l'Espagne est rouge et jaune.",
+        "correctMessage": "¡Correcto!",
+        "wrongMessage": "¡Sigue intentándolo!"
+      },
+      {
+        "question": "Comment dit-on 'pomme' en espagnol ?",
+        "answers": ["Manzana", "Perro", "Casa", "Libro"],
+        "correctAnswer": "Manzana",
+        "explanation": "'Manzana' se traduce como 'pomme' en español.",
+        "correctMessage": "¡Correcto!",
+        "wrongMessage": "¡Sigue intentándolo!"
+      },
+      {
+        "question": "Quel jour de la semaine vient après jeudi ?",
+        "answers": ["Vendredi", "Samedi", "Dimanche", "Lundi"],
+        "correctAnswer": "Vendredi",
+        "explanation": "Vendredi vient après jeudi.",
+        "correctMessage": "¡Correcto!",
+        "wrongMessage": "¡Sigue intentándolo!"
+      },
+      {
+        "question": "Quel nombre vient après quinze ?",
+        "answers": ["Seize", "Quatorze", "Dix-sept", "Trente"],
+        "correctAnswer": "Seize",
+        "explanation": "Seize vient après quinze.",
+        "correctMessage": "¡Correcto!",
+        "wrongMessage": "¡Sigue intentándolo!"
+      },
+      {
+        "question": "Comment s'appelle l'océan à l'est de l'Amérique du Nord ?",
+        "answers": ["Atlantique", "Pacifique", "Indien", "Arctique"],
+        "correctAnswer": "Atlantique",
+        "explanation": "L'océan à l'est de l'Amérique du Nord est l'Atlantique.",
+        "correctMessage": "¡Correcto!",
+        "wrongMessage": "¡Sigue intentándolo!"
+      },
+      {
+        "question": "Quel mois vient avant décembre ?",
+        "answers": ["Novembre", "Janvier", "Février", "Mars"],
+        "correctAnswer": "Novembre",
+        "explanation": "Novembre vient avant décembre.",
+        "correctMessage": "¡Correcto!",
+        "wrongMessage": "¡Sigue intentándolo!"
+      },
+      {
+        "question": "Comment dit-on 'eau' en espagnol ?",
+        "answers": ["Agua", "Fuego", "Tierra", "Aire"],
+        "correctAnswer": "Agua",
+        "explanation": "'Agua' se traduce como 'eau' en español.",
+        "correctMessage": "¡Correcto!",
+        "wrongMessage": "¡Sigue intentándolo!"
+      },
+      {
+        "question": "Quelle est la capitale du Mexique ?",
+        "answers": ["Mexico", "Madrid", "Buenos Aires", "Lima"],
+        "correctAnswer": "Mexico",
+        "explanation": "La capitale du Mexique est Mexico.",
+        "correctMessage": "¡Correcto!",
+        "wrongMessage": "¡Sigue intentándolo!"
+      }
+    ]
+  }
+  

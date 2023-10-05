@@ -1,64 +1,85 @@
 {
-    "question": {
-        "Quel est le plus grand désert du monde ?": {
-            "1": "Le désert du Sahara",
-            "2": "Le désert de Gobi",
-            "3": "Le désert d'Atacama",
-            "4": "Le désert d'Arabie"
-        },
-        "Quelle est la capitale de l'Inde ?": {
-            "1": "New Delhi",
-            "2": "Mumbai",
-            "3": "Bangalore",
-            "4": "Kolkata"
-        },
-        "Quelle est la plus grande île du monde ?": {
-            "1": "Groenland",
-            "2": "Australie",
-            "3": "Java",
-            "4": "Sumatra"
-        },
-        "Quel est le plus long fleuve du monde ?": {
-            "1": "Le Nil",
-            "2": "Le Mississippi",
-            "3": "L'Amazone",
-            "4": "Le Yangtsé"
-        },
-        "Quel pays est situé à la pointe sud du continent africain ?": {
-            "1": "L'Afrique du Sud",
-            "2": "Le Kenya",
-            "3": "L'Égypte",
-            "4": "Le Nigéria"
-        },
-        "Quelle est la plus haute montagne du monde ?": {
-            "1": "L'Everest",
-            "2": "Le Kilimandjaro",
-            "3": "Le Mont McKinley",
-            "4": "L'Aconcagua"
-        },
-        "Quelle mer est située entre l'Europe et l'Asie ?": {
-            "1": "La mer Méditerranée",
-            "2": "La mer Noire",
-            "3": "La mer Rouge",
-            "4": "La mer Caspienne"
-        },
-        "Quel est le plus grand lac d'Afrique ?": {
-            "1": "Le lac Victoria",
-            "2": "Le lac Tanganyika",
-            "3": "Le lac Malawi",
-            "4": "Le lac Turkana"
-        },
-        "Dans quel océan se trouve l'île de Madagascar ?": {
-            "1": "L'océan Indien",
-            "2": "L'océan Atlantique",
-            "3": "L'océan Pacifique",
-            "4": "L'océan Arctique"
-        },
-        "Quel est le plus grand pays d'Amérique du Sud ?": {
-            "1": "Le Brésil",
-            "2": "L'Argentine",
-            "3": "Le Pérou",
-            "4": "La Colombie"
-        }
-    }
-}
+    "questionnaire": [
+      {
+        "question": "Quel est le plus grand désert du monde ?",
+        "answers": ["Le désert du Sahara", "Le désert de Gobi", "Le désert d'Atacama", "Le désert d'Arabie"],
+        "correctAnswer": "Le désert du Sahara",
+        "explanation": "Le désert du Sahara est le plus grand désert du monde.",
+        "correctMessage": "Correct !",
+        "wrongMessage": "Essaie encore !"
+      },
+      {
+        "question": "Quelle est la capitale de l'Inde ?",
+        "answers": ["New Delhi", "Mumbai", "Bangalore", "Kolkata"],
+        "correctAnswer": "New Delhi",
+        "explanation": "La capitale de l'Inde est New Delhi.",
+        "correctMessage": "Correct !",
+        "wrongMessage": "Essaie encore !"
+      },
+      {
+        "question": "Quelle est la plus grande île du monde ?",
+        "answers": ["Groenland", "Australie", "Java", "Sumatra"],
+        "correctAnswer": "Groenland",
+        "explanation": "Le Groenland est la plus grande île du monde.",
+        "correctMessage": "Correct !",
+        "wrongMessage": "Essaie encore !"
+      },
+      {
+        "question": "Quel est le plus long fleuve du monde ?",
+        "answers": ["Le Nil", "Le Mississippi", "L'Amazone", "Le Yangtsé"],
+        "correctAnswer": "Le Nil",
+        "explanation": "Le Nil est le plus long fleuve du monde.",
+        "correctMessage": "Correct !",
+        "wrongMessage": "Essaie encore !"
+      },
+      {
+        "question": "Quel pays est situé à la pointe sud du continent africain ?",
+        "answers": ["L'Afrique du Sud", "Le Kenya", "L'Égypte", "Le Nigéria"],
+        "correctAnswer": "L'Afrique du Sud",
+        "explanation": "L'Afrique du Sud est située à la pointe sud du continent africain.",
+        "correctMessage": "Correct !",
+        "wrongMessage": "Essaie encore !"
+      },
+      {
+        "question": "Quelle est la plus haute montagne du monde ?",
+        "answers": ["L'Everest", "Le Kilimandjaro", "Le Mont McKinley", "L'Aconcagua"],
+        "correctAnswer": "L'Everest",
+        "explanation": "L'Everest est la plus haute montagne du monde.",
+        "correctMessage": "Correct !",
+        "wrongMessage": "Essaie encore !"
+      },
+      {
+        "question": "Quelle mer est située entre l'Europe et l'Asie ?",
+        "answers": ["La mer Méditerranée", "La mer Noire", "La mer Rouge", "La mer Caspienne"],
+        "correctAnswer": "La mer Noire",
+        "explanation": "La mer Noire est située entre l'Europe et l'Asie.",
+        "correctMessage": "Correct !",
+        "wrongMessage": "Essaie encore !"
+      },
+      {
+        "question": "Quel est le plus grand lac d'Afrique ?",
+        "answers": ["Le lac Victoria", "Le lac Tanganyika", "Le lac Malawi", "Le lac Turkana"],
+        "correctAnswer": "Le lac Victoria",
+        "explanation": "Le lac Victoria est le plus grand lac d'Afrique.",
+        "correctMessage": "Correct !",
+        "wrongMessage": "Essaie encore !"
+      },
+      {
+        "question": "Dans quel océan se trouve l'île de Madagascar ?",
+        "answers": ["L'océan Indien", "L'océan Atlantique", "L'océan Pacifique", "L'océan Arctique"],
+        "correctAnswer": "L'océan Indien",
+        "explanation": "L'île de Madagascar se trouve dans l'océan Indien.",
+        "correctMessage": "Correct !",
+        "wrongMessage": "Essaie encore !"
+      },
+      {
+        "question": "Quel est le plus grand pays d'Amérique du Sud ?",
+        "answers": ["Le Brésil", "L'Argentine", "Le Pérou", "La Colombie"],
+        "correctAnswer": "Le Brésil",
+        "explanation": "Le Brésil est le plus grand pays d'Amérique du Sud.",
+        "correctMessage": "Correct !",
+        "wrongMessage": "Essaie encore !"
+      }
+    ]
+  }
+  

@@ -1,64 +1,90 @@
 {
-    "question": {
-        "Quel est le nom de l'auteur de 'Le Petit Prince' ?": {
-            "1": "Antoine de Saint-Exupéry",
-            "2": "Victor Hugo",
-            "3": "Gustave Flaubert",
-            "4": "Albert Camus"
-        },
-        "Quel est le genre littéraire de 'Roméo et Juliette' de William Shakespeare ?": {
-            "1": "Tragédie",
-            "2": "Comédie",
-            "3": "Drame historique",
-            "4": "Roman"
-        },
-        "Qui est l'auteur de 'L'Étranger' ?": {
-            "1": "Albert Camus",
-            "2": "Franz Kafka",
-            "3": "Friedrich Nietzsche",
-            "4": "Jean-Paul Sartre"
-        },
-        "Quelle œuvre de Voltaire est célèbre pour son plaidoyer pour la tolérance religieuse ?": {
-            "1": "Candide",
-            "2": "L'Éducation sentimentale",
-            "3": "Les Misérables",
-            "4": "La Chartreuse de Parme"
-        },
-        "Quel écrivain français est l'auteur de 'Les Fleurs du mal' ?": {
-            "1": "Charles Baudelaire",
-            "2": "Gustave Flaubert",
-            "3": "Marcel Proust",
-            "4": "Honoré de Balzac"
-        },
-        "Qui a écrit 'Le Comte de Monte-Cristo' ?": {
-            "1": "Alexandre Dumas",
-            "2": "Victor Hugo",
-            "3": "Gustave Flaubert",
-            "4": "Émile Zola"
-        },
-        "Quelle est la première phrase de 'À la recherche du temps perdu' de Marcel Proust ?": {
-            "1": "Longtemps, je me suis couché de bonne heure.",
-            "2": "Aujourd'hui, maman est morte.",
-            "3": "Il était une fois dans une petite ville.",
-            "4": "Il était une fois, au pays des merveilles."
-        },
-        "Qui est l'auteur de la pièce de théâtre 'Le Cid' ?": {
-            "1": "Pierre Corneille",
-            "2": "Molière",
-            "3": "Jean Racine",
-            "4": "Voltaire"
-        },
-        "Quel roman de Victor Hugo raconte l'histoire de l'ancien forçat Jean Valjean ?": {
-            "1": "Les Misérables",
-            "2": "Notre-Dame de Paris",
-            "3": "Le Dernier Jour d'un condamné",
-            "4": "Les Travailleurs de la mer"
-        },
-        "Qui a écrit 'Le Rouge et le Noir' ?": {
-            "1": "Stendhal",
-            "2": "Gustave Flaubert",
-            "3": "Honoré de Balzac",
-            "4": "Émile Zola"
-        }
-    }
-}
+    "questionnaire": [
+      {
+        "question": "Quel est le nom de l'auteur de 'Le Petit Prince' ?",
+        "answers": ["Antoine de Saint-Exupéry", "Victor Hugo", "Gustave Flaubert", "Albert Camus"],
+        "correctAnswer": "Antoine de Saint-Exupéry",
+        "explanation": "Antoine de Saint-Exupéry est l'auteur bien connu de 'Le Petit Prince.'",
+        "correctMessage": "Well done!",
+        "wrongMessage": "Never give up, and try again."
+      },
+      {
+        "question": "Quel est le genre littéraire de 'Roméo et Juliette' de William Shakespeare ?",
+        "answers": ["Tragédie", "Comédie", "Drame historique", "Roman"],
+        "correctAnswer": "Tragédie",
+        "explanation": "'Roméo et Juliette' est une tragédie célèbre de William Shakespeare.",
+        "correctMessage": "Well done!",
+        "wrongMessage": "Never give up, and try again."
+      },
+      {
+        "question": "Qui est l'auteur de 'L'Étranger' ?",
+        "answers": ["Albert Camus", "Franz Kafka", "Friedrich Nietzsche", "Jean-Paul Sartre"],
+        "correctAnswer": "Albert Camus",
+        "explanation": "'L'Étranger' a été écrit par Albert Camus, un écrivain existentialiste français.",
+        "correctMessage": "Well done!",
+        "wrongMessage": "Never give up, and try again."
+      },
+      {
+        "question": "Quelle œuvre de Voltaire est célèbre pour son plaidoyer pour la tolérance religieuse ?",
+        "answers": ["Candide", "L'Éducation sentimentale", "Les Misérables", "La Chartreuse de Parme"],
+        "correctAnswer": "Candide",
+        "explanation": "'Candide' est une œuvre de Voltaire qui critique l'optimisme déraisonnable et plaide pour la tolérance religieuse.",
+        "correctMessage": "Well done!",
+        "wrongMessage": "Never give up, and try again."
+      },
+      {
+        "question": "Quel écrivain français est l'auteur de 'Les Fleurs du mal' ?",
+        "answers": ["Charles Baudelaire", "Gustave Flaubert", "Marcel Proust", "Honoré de Balzac"],
+        "correctAnswer": "Charles Baudelaire",
+        "explanation": "'Les Fleurs du mal' sont un recueil de poèmes écrit par Charles Baudelaire, un poète symboliste français.",
+        "correctMessage": "Well done!",
+        "wrongMessage": "Never give up, and try again."
+      },
+      {
+        "question": "Qui a écrit 'Le Comte de Monte-Cristo' ?",
+        "answers": ["Alexandre Dumas", "Victor Hugo", "Gustave Flaubert", "Émile Zola"],
+        "correctAnswer": "Alexandre Dumas",
+        "explanation": "'Le Comte de Monte-Cristo' a été écrit par Alexandre Dumas, un romancier français renommé.",
+        "correctMessage": "Well done!",
+        "wrongMessage": "Never give up, and try again."
+      },
+      {
+        "question": "Quelle est la première phrase de 'À la recherche du temps perdu' de Marcel Proust ?",
+        "answers": [
+          "Longtemps, je me suis couché de bonne heure.",
+          "Aujourd'hui, maman est morte.",
+          "Il était une fois dans une petite ville.",
+          "Il était une fois, au pays des merveilles."
+        ],
+        "correctAnswer": "Longtemps, je me suis couché de bonne heure.",
+        "explanation": "La première phrase de 'À la recherche du temps perdu' est : 'Longtemps, je me suis couché de bonne heure.'",
+        "correctMessage": "Well done!",
+        "wrongMessage": "Never give up, and try again."
+      },
+      {
+        "question": "Qui est l'auteur de la pièce de théâtre 'Le Cid' ?",
+        "answers": ["Pierre Corneille", "Molière", "Jean Racine", "Voltaire"],
+        "correctAnswer": "Pierre Corneille",
+        "explanation": "'Le Cid' est une pièce de théâtre classique écrite par Pierre Corneille, dramaturge français du XVIIe siècle.",
+        "correctMessage": "Well done!",
+        "wrongMessage": "Never give up, and try again."
+      },
+      {
+        "question": "Quel roman de Victor Hugo raconte l'histoire de l'ancien forçat Jean Valjean ?",
+        "answers": ["Les Misérables", "Notre-Dame de Paris", "Le Dernier Jour d'un condamné", "Les Travailleurs de la mer"],
+        "correctAnswer": "Les Misérables",
+        "explanation": "'Les Misérables' est un roman de Victor Hugo qui suit l'histoire de Jean Valjean, un ancien forçat.",
+        "correctMessage": "Well done!",
+        "wrongMessage": "Never give up, and try again."
+      },
+      {
+        "question": "Qui a écrit 'Le Rouge et le Noir' ?",
+        "answers": ["Stendhal", "Gustave Flaubert", "Honoré de Balzac", "Émile Zola"],
+        "correctAnswer": "Stendhal",
+        "explanation": "'Le Rouge et le Noir' est un roman de Stendhal, un écrivain français du XIXe siècle.",
+        "correctMessage": "Well done!",
+        "wrongMessage": "Never give up, and try again."
+      }
+    ]
+  }
+  

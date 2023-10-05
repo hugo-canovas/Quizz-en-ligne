@@ -1,64 +1,90 @@
 {
-    "question": {
-        "What is the capital of France?": {
-            "1": "Paris",
-            "2": "London",
-            "3": "Berlin",
-            "4": "Madrid"
-        },
-        "Which planet is known as the 'Red Planet'?": {
-            "1": "Mars",
-            "2": "Venus",
-            "3": "Jupiter",
-            "4": "Saturn"
-        },
-        "Who wrote the play 'Romeo and Juliet'?": {
-            "1": "William Shakespeare",
-            "2": "Charles Dickens",
-            "3": "Jane Austen",
-            "4": "Mark Twain"
-        },
-        "What is the largest mammal in the world?": {
-            "1": "Blue Whale",
-            "2": "African Elephant",
-            "3": "Giraffe",
-            "4": "Polar Bear"
-        },
-        "What is the process by which plants make their own food using sunlight?": {
-            "1": "Photosynthesis",
-            "2": "Respiration",
-            "3": "Digestion",
-            "4": "Fermentation"
-        },
-        "Who is known as the father of modern physics?": {
-            "1": "Albert Einstein",
-            "2": "Isaac Newton",
-            "3": "Galileo Galilei",
-            "4": "Stephen Hawking"
-        },
-        "Which gas is responsible for the green color of leaves?": {
-            "1": "Chlorophyll",
-            "2": "Oxygen",
-            "3": "Carbon Dioxide",
-            "4": "Nitrogen"
-        },
-        "What is the largest ocean in the world?": {
-            "1": "Pacific Ocean",
-            "2": "Atlantic Ocean",
-            "3": "Indian Ocean",
-            "4": "Arctic Ocean"
-        },
-        "Who was the first woman to fly solo across the Atlantic Ocean?": {
-            "1": "Amelia Earhart",
-            "2": "Bessie Coleman",
-            "3": "Harriet Quimby",
-            "4": "Jacqueline Cochran"
-        },
-        "Which famous speech began with 'I have a dream'?": {
-            "1": "Martin Luther King Jr.'s 'I Have a Dream' speech",
-            "2": "Winston Churchill's 'We shall fight on the beaches' speech",
-            "3": "John F. Kennedy's 'Ask not what your country can do for you' speech",
-            "4": "Abraham Lincoln's 'Gettysburg Address'"
-        }
-    }
-}
+    "questionnaire": [
+      {
+        "question": "What is the capital of France?",
+        "answers": ["Paris", "London", "Berlin", "Madrid"],
+        "correctAnswer": "Paris",
+        "explanation": "Paris is the capital of France.",
+        "correctMessage": "Well done!",
+        "wrongMessage": "Never give up, and try again."
+      },
+      {
+        "question": "Which planet is known as the 'Red Planet'?",
+        "answers": ["Mars", "Venus", "Jupiter", "Saturn"],
+        "correctAnswer": "Mars",
+        "explanation": "Mars is known as the 'Red Planet' due to its reddish appearance.",
+        "correctMessage": "Well done!",
+        "wrongMessage": "Never give up, and try again."
+      },
+      {
+        "question": "Who wrote the play 'Romeo and Juliet'?",
+        "answers": ["William Shakespeare", "Charles Dickens", "Jane Austen", "Mark Twain"],
+        "correctAnswer": "William Shakespeare",
+        "explanation": "William Shakespeare wrote the famous play 'Romeo and Juliet.'",
+        "correctMessage": "Well done!",
+        "wrongMessage": "Never give up, and try again."
+      },
+      {
+        "question": "What is the largest mammal in the world?",
+        "answers": ["Blue Whale", "African Elephant", "Giraffe", "Polar Bear"],
+        "correctAnswer": "Blue Whale",
+        "explanation": "The Blue Whale is the largest mammal in the world.",
+        "correctMessage": "Well done!",
+        "wrongMessage": "Never give up, and try again."
+      },
+      {
+        "question": "What is the process by which plants make their own food using sunlight?",
+        "answers": ["Photosynthesis", "Respiration", "Digestion", "Fermentation"],
+        "correctAnswer": "Photosynthesis",
+        "explanation": "Photosynthesis is the process by which plants make their own food using sunlight.",
+        "correctMessage": "Well done!",
+        "wrongMessage": "Never give up, and try again."
+      },
+      {
+        "question": "Who is known as the father of modern physics?",
+        "answers": ["Albert Einstein", "Isaac Newton", "Galileo Galilei", "Stephen Hawking"],
+        "correctAnswer": "Albert Einstein",
+        "explanation": "Albert Einstein is known as the father of modern physics.",
+        "correctMessage": "Well done!",
+        "wrongMessage": "Never give up, and try again."
+      },
+      {
+        "question": "Which gas is responsible for the green color of leaves?",
+        "answers": ["Chlorophyll", "Oxygen", "Carbon Dioxide", "Nitrogen"],
+        "correctAnswer": "Chlorophyll",
+        "explanation": "Chlorophyll is the green pigment responsible for the green color of leaves.",
+        "correctMessage": "Well done!",
+        "wrongMessage": "Never give up, and try again."
+      },
+      {
+        "question": "What is the largest ocean in the world?",
+        "answers": ["Pacific Ocean", "Atlantic Ocean", "Indian Ocean", "Arctic Ocean"],
+        "correctAnswer": "Pacific Ocean",
+        "explanation": "The Pacific Ocean is the largest ocean in the world.",
+        "correctMessage": "Well done!",
+        "wrongMessage": "Never give up, and try again."
+      },
+      {
+        "question": "Who was the first woman to fly solo across the Atlantic Ocean?",
+        "answers": ["Amelia Earhart", "Bessie Coleman", "Harriet Quimby", "Jacqueline Cochran"],
+        "correctAnswer": "Amelia Earhart",
+        "explanation": "Amelia Earhart was the first woman to fly solo across the Atlantic Ocean.",
+        "correctMessage": "Well done!",
+        "wrongMessage": "Never give up, and try again."
+      },
+      {
+        "question": "Which famous speech began with 'I have a dream'?",
+        "answers": [
+          "Martin Luther King Jr.'s 'I Have a Dream' speech",
+          "Winston Churchill's 'We shall fight on the beaches' speech",
+          "John F. Kennedy's 'Ask not what your country can do for you' speech",
+          "Abraham Lincoln's 'Gettysburg Address'"
+        ],
+        "correctAnswer": "Martin Luther King Jr.'s 'I Have a Dream' speech",
+        "explanation": "The famous speech 'I Have a Dream' was delivered by Martin Luther King Jr.",
+        "correctMessage": "Well done!",
+        "wrongMessage": "Never give up, and try again."
+      }
+    ]
+  }
+  

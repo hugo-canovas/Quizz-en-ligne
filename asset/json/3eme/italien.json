@@ -1,64 +1,85 @@
 {
-    "question": {
-        "Come si dice 'amico' in italiano ?": {
-            "1": "Amico",
-            "2": "Casa",
-            "3": "Cane",
-            "4": "Libro"
-        },
-        "Qual è il colore della bandiera italiana ?": {
-            "1": "Verde, bianco e rosso",
-            "2": "Blu e bianco",
-            "3": "Giallo e rosso",
-            "4": "Nero e bianco"
-        },
-        "Cosa significa 'grazie' in italiano ?": {
-            "1": "Grazie",
-            "2": "Ciao",
-            "3": "Arrivederci",
-            "4": "Per favore"
-        },
-        "Come si chiama la famosa torre inclinata di Pisa ?": {
-            "1": "La Torre di Pisa",
-            "2": "La Torre Eiffel",
-            "3": "La Torre di Londra",
-            "4": "La Torre di Napoli"
-        },
-        "Quale città italiana è famosa per il Colosseo ?": {
-            "1": "Roma",
-            "2": "Milano",
-            "3": "Firenze",
-            "4": "Venezia"
-        },
-        "Qual è il fiume principale che attraversa Roma ?": {
-            "1": "Il Tevere",
-            "2": "Il Po",
-            "3": "Il Danubio",
-            "4": "Il Reno"
-        },
-        "Chi è l'autore dell'opera 'La Divina Commedia' ?": {
-            "1": "Dante Alighieri",
-            "2": "Leonardo da Vinci",
-            "3": "Michelangelo",
-            "4": "Raffaello"
-        },
-        "Qual è il nome dell'isola italiana famosa per il limoncello ?": {
-            "1": "Capri",
-            "2": "Sicilia",
-            "3": "Sardegna",
-            "4": "Elba"
-        },
-        "Qual è il piatto italiano tradizionale fatto di riso, zafferano e altri ingredienti ?": {
-            "1": "Risotto alla milanese",
-            "2": "Spaghetti alla carbonara",
-            "3": "Pizza margherita",
-            "4": "Lasagne"
-        },
-        "Qual è la capitale d'Italia ?": {
-            "1": "Roma",
-            "2": "Milano",
-            "3": "Firenze",
-            "4": "Napoli"
-        }
-    }
-}
+    "questionnaire": [
+      {
+        "question": "Come si dice 'amico' in italiano ?",
+        "answers": ["Amico", "Casa", "Cane", "Libro"],
+        "correctAnswer": "Amico",
+        "explanation": "'Amico' si traduce in italiano come 'friend'.",
+        "correctMessage": "Ottimo lavoro!",
+        "wrongMessage": "Non mollare, riprova."
+      },
+      {
+        "question": "Qual è il colore della bandiera italiana ?",
+        "answers": ["Verde, bianco e rosso", "Blu e bianco", "Giallo e rosso", "Nero e bianco"],
+        "correctAnswer": "Verde, bianco e rosso",
+        "explanation": "Il tricolore italiano è composto dai colori verde, bianco e rosso.",
+        "correctMessage": "Ottimo lavoro!",
+        "wrongMessage": "Non mollare, riprova."
+      },
+      {
+        "question": "Cosa significa 'grazie' in italiano ?",
+        "answers": ["Grazie", "Ciao", "Arrivederci", "Per favore"],
+        "correctAnswer": "Grazie",
+        "explanation": "'Grazie' significa 'thank you' in italiano.",
+        "correctMessage": "Ottimo lavoro!",
+        "wrongMessage": "Non mollare, riprova."
+      },
+      {
+        "question": "Come si chiama la famosa torre inclinata di Pisa ?",
+        "answers": ["La Torre di Pisa", "La Torre Eiffel", "La Torre di Londra", "La Torre di Napoli"],
+        "correctAnswer": "La Torre di Pisa",
+        "explanation": "La famosa torre inclinata si chiama 'La Torre di Pisa'.",
+        "correctMessage": "Ottimo lavoro!",
+        "wrongMessage": "Non mollare, riprova."
+      },
+      {
+        "question": "Quale città italiana è famosa per il Colosseo ?",
+        "answers": ["Roma", "Milano", "Firenze", "Venezia"],
+        "correctAnswer": "Roma",
+        "explanation": "Il Colosseo è situato a Roma, la capitale italiana.",
+        "correctMessage": "Ottimo lavoro!",
+        "wrongMessage": "Non mollare, riprova."
+      },
+      {
+        "question": "Qual è il fiume principale che attraversa Roma ?",
+        "answers": ["Il Tevere", "Il Po", "Il Danubio", "Il Reno"],
+        "correctAnswer": "Il Tevere",
+        "explanation": "Il fiume principale che attraversa Roma è il Tevere.",
+        "correctMessage": "Ottimo lavoro!",
+        "wrongMessage": "Non mollare, riprova."
+      },
+      {
+        "question": "Chi è l'autore dell'opera 'La Divina Commedia' ?",
+        "answers": ["Dante Alighieri", "Leonardo da Vinci", "Michelangelo", "Raffaello"],
+        "correctAnswer": "Dante Alighieri",
+        "explanation": "L'opera 'La Divina Commedia' è stata scritta da Dante Alighieri.",
+        "correctMessage": "Ottimo lavoro!",
+        "wrongMessage": "Non mollare, riprova."
+      },
+      {
+        "question": "Qual è il nome dell'isola italiana famosa per il limoncello ?",
+        "answers": ["Capri", "Sicilia", "Sardegna", "Elba"],
+        "correctAnswer": "Capri",
+        "explanation": "L'isola famosa per il limoncello è Capri.",
+        "correctMessage": "Ottimo lavoro!",
+        "wrongMessage": "Non mollare, riprova."
+      },
+      {
+        "question": "Qual è il piatto italiano tradizionale fatto di riso, zafferano e altri ingredienti ?",
+        "answers": ["Risotto alla milanese", "Spaghetti alla carbonara", "Pizza margherita", "Lasagne"],
+        "correctAnswer": "Risotto alla milanese",
+        "explanation": "Il risotto alla milanese è un piatto italiano tradizionale fatto di riso, zafferano e altri ingredienti.",
+        "correctMessage": "Ottimo lavoro!",
+        "wrongMessage": "Non mollare, riprova."
+      },
+      {
+        "question": "Qual è la capitale d'Italia ?",
+        "answers": ["Roma", "Milano", "Firenze", "Napoli"],
+        "correctAnswer": "Roma",
+        "explanation": "La capitale d'Italia è Roma.",
+        "correctMessage": "Ottimo lavoro!",
+        "wrongMessage": "Non mollare, riprova."
+      }
+    ]
+  }
+  

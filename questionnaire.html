@@ -7,47 +7,47 @@
     <script type="module" src="./asset/js/questionnaire.js"></script>
     <title>Questionnaire</title>
 </head>
-<body class="bg-gray-100 flex justify-center items-center flex-col">
+<body class="bg-gray-100 flex justify-center items-center flex-col">      
     <div class="flex justify-center items-center mt-8">
         <!-- titre de la question -->
         <div class="bg-white w-96 p-4 rounded-lg shadow-md">
-            <h1 class="text-xl font-semibold text-center mb-4">Question 1 : Quelle est la capitale de la France ?</h1>
+            <h1 id="quiz-container" class="text-xl font-semibold text-center mb-4"></h1>
         </div>
     </div>
-
-    <!-- réponse  -->
-    <div class="grid grid-cols-4 gap-4 max-w-screen-md mx-auto mt-8">
-        <div class="bg-blue-500 p-4 rounded-lg cursor-pointer hover:bg-blue-600">
-            <label>
-                <input type="radio" name="question1" value="Paris" class="hidden">
-                <span class="text-white">Paris</span>
-            </label>
-        </div>
-        <div class="bg-green-500 p-4 rounded-lg cursor-pointer hover:bg-green-600">
-            <label>
-                <input type="radio" name="question1" value="Londres" class="hidden">
-                <span class="text-white">Londres</span>
-            </label>
-        </div>
-        <div class="bg-red-500 p-4 rounded-lg cursor-pointer hover:bg-red-600">
-            <label>
-                <input type="radio" name="question1" value="Berlin" class="hidden">
-                <span class="text-white">Berlin</span>
-            </label>
-        </div>
-        <div class="bg-yellow-500 p-4 rounded-lg cursor-pointer hover:bg-yellow-600">
-            <label>
-                <input type="radio" name="question1" value="Madrid" class="hidden">
-                <span class="text-white">Madrid</span>
-            </label>
-        </div>
-      </div>
-        <div class="flex-col space-y-4 justify-center mt-4">
-            <div>Explication</div>
-            <div>Well done</div>
-        </div>
-    <button class="bg-blue-500 text-white py-2 px-5 rounded-full hover:bg-blue-600 focus:outline-none focus:bg-blue-600 mt-8">Suivant</button>
-
-
 </body>
-</html
+</html>
+
+
+
+<!-- réponse  -->
+<div class="grid grid-cols-4 gap-4 max-w-screen-md mx-auto mt-8">
+    <div class="bg-blue-500 p-4 rounded-lg cursor-pointer hover:bg-blue-600">
+        <label>
+            <input type="radio" name="question1" value="Paris" class="hidden">
+            <span class="text-white">Paris</span>
+        </label>
+    </div>
+    <div class="bg-green-500 p-4 rounded-lg cursor-pointer hover:bg-green-600">
+        <label>
+            <input type="radio" name="question1" value="Londres" class="hidden">
+            <span class="text-white">Londres</span>
+        </label>
+    </div>
+    <div class="bg-red-500 p-4 rounded-lg cursor-pointer hover:bg-red-600">
+        <label>
+            <input type="radio" name="question1" value="Berlin" class="hidden">
+            <span class="text-white">Berlin</span>
+        </label>
+    </div>
+    <div class="bg-yellow-500 p-4 rounded-lg cursor-pointer hover:bg-yellow-600">
+        <label>
+            <input type="radio" name="question1" value="Madrid" class="hidden">
+            <span class="text-white">Madrid</span>
+        </label>
+    </div>
+  </div>
+    <div class="flex-col space-y-4 justify-center mt-4">
+        <div>Explication</div>
+        <div>Well done</div>
+    </div>
+<button class="bg-blue-500 text-white py-2 px-5 rounded-full hover:bg-blue-600 focus:outline-none focus:bg-blue-600 mt-8" id="btn-next">Suivant</button>

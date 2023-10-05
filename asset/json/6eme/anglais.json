@@ -1,63 +1,84 @@
 {
-    "What is the English word for 'maison' ?": {
-      "1": "House",
-      "2": "Car",
-      "3": "Tree",
-      "4": "Book"
+  "questionnaire": [
+    {
+      "question": "What is the English word for 'maison' ?",
+      "answers": ["House", "Car", "Tree", "Book"],
+      "correctAnswer": "House",
+      "explanation": "'Maison' in English is 'House.'",
+      "correctMessage": "Correct!",
+      "wrongMessage": "Try again!"
     },
-    "How do you say 'bonjour' in English?": {
-      "1": "Hello",
-      "2": "Goodbye",
-      "3": "Thank you",
-      "4": "Yes"
+    {
+      "question": "How do you say 'bonjour' in English?",
+      "answers": ["Hello", "Goodbye", "Thank you", "Yes"],
+      "correctAnswer": "Hello",
+      "explanation": "'Bonjour' in English is 'Hello.'",
+      "correctMessage": "Correct!",
+      "wrongMessage": "Try again!"
     },
-    "Which of the following is a color?": {
-      "1": "Blue",
-      "2": "Table",
-      "3": "Run",
-      "4": "Jump"
+    {
+      "question": "Which of the following is a color?",
+      "answers": ["Blue", "Table", "Run", "Jump"],
+      "correctAnswer": "Blue",
+      "explanation": "'Blue' is a color.",
+      "correctMessage": "Correct!",
+      "wrongMessage": "Try again!"
     },
-    "What is the opposite of 'big'?": {
-      "1": "Small",
-      "2": "Tall",
-      "3": "Fast",
-      "4": "Heavy"
+    {
+      "question": "What is the opposite of 'big'?",
+      "answers": ["Small", "Tall", "Fast", "Heavy"],
+      "correctAnswer": "Small",
+      "explanation": "The opposite of 'big' is 'Small.'",
+      "correctMessage": "Correct!",
+      "wrongMessage": "Try again!"
     },
-    "Complete the sentence: 'I ____ a cat.'": {
-      "1": "have",
-      "2": "is",
-      "3": "am",
-      "4": "play"
+    {
+      "question": "Complete the sentence: 'I ____ a cat.'",
+      "answers": ["have", "is", "am", "play"],
+      "correctAnswer": "have",
+      "explanation": "The correct sentence is 'I have a cat.'",
+      "correctMessage": "Correct!",
+      "wrongMessage": "Try again!"
     },
-    "How many days are there in a week?": {
-      "1": "7",
-      "2": "5",
-      "3": "10",
-      "4": "6"
+    {
+      "question": "How many days are there in a week?",
+      "answers": ["7", "5", "10", "6"],
+      "correctAnswer": "7",
+      "explanation": "There are 7 days in a week.",
+      "correctMessage": "Correct!",
+      "wrongMessage": "Try again!"
     },
-    "Which of the following is a fruit?": {
-      "1": "Apple",
-      "2": "Chair",
-      "3": "Shoes",
-      "4": "Table"
+    {
+      "question": "Which of the following is a fruit?",
+      "answers": ["Apple", "Chair", "Shoes", "Table"],
+      "correctAnswer": "Apple",
+      "explanation": "'Apple' is a fruit.",
+      "correctMessage": "Correct!",
+      "wrongMessage": "Try again!"
     },
-    "What is the English word for 'arbre' ?": {
-      "1": "Tree",
-      "2": "House",
-      "3": "Car",
-      "4": "Book"
+    {
+      "question": "What is the English word for 'arbre' ?",
+      "answers": ["Tree", "House", "Car", "Book"],
+      "correctAnswer": "Tree",
+      "explanation": "'Arbre' in English is 'Tree.'",
+      "correctMessage": "Correct!",
+      "wrongMessage": "Try again!"
     },
-    "What do you say when you're pleased with something in English?": {
-      "1": "Thank you",
-      "2": "Goodbye",
-      "3": "Hello",
-      "4": "Yes"
+    {
+      "question": "What do you say when you're pleased with something in English?",
+      "answers": ["Thank you", "Goodbye", "Hello", "Yes"],
+      "correctAnswer": "Thank you",
+      "explanation": "When pleased, you say 'Thank you' in English.",
+      "correctMessage": "Correct!",
+      "wrongMessage": "Try again!"
     },
-    "Which of the following is an animal?": {
-      "1": "Dog",
-      "2": "Chair",
-      "3": "Table",
-      "4": "Book"
+    {
+      "question": "Which of the following is an animal?",
+      "answers": ["Dog", "Chair", "Table", "Book"],
+      "correctAnswer": "Dog",
+      "explanation": "'Dog' is an animal.",
+      "correctMessage": "Correct!",
+      "wrongMessage": "Try again!"
     }
-  }
-  
+  ]
+}

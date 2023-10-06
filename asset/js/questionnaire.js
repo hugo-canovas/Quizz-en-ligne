@@ -73,7 +73,6 @@ function getQuestionRandomly(questionnaire) {
 function applyNextQuestion(questionnaire) {
   // Vérifier que le questionnaire n'est pas vide, si vide, alors faire un return
   if (questionnaire.length === 0) {
-    console.log("Fin du jeu");
   //  return;
   }
 
@@ -96,7 +95,6 @@ async function main() {
   btnNext.addEventListener("click", () => {
     if (isGameOver(questionnaire)) {
       // TODO : Gérer la fin du jeu
-      console.log("Fin du jeu");
       btnNext.innerHTML = "Terminer";
       btnNext.addEventListener('click', () => {
         document.location.href= `debrief.html?score=${score}`;

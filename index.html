@@ -3,18 +3,18 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="./asset/css/style.css">
     <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.16/dist/tailwind.min.css" rel="stylesheet">
     <title>Quizz : Collège</title>
 </head>
-<body>
-    
-    <h1 class="text-center text-3xl">Classes</h1>
-        <div class="w-screen h-screen flex justify-center">
-        <div class="flex flex-col items-center justify-center sm:flex-row space-around sm:space-x-4" id="classes">
+<body class="bg-gray-100">
+    <div class="container mx-auto p-8">
+        <h1 class="text-center text-3xl font-bold mb-8">Classes</h1>
+        <div class="flex flex-wrap justify-center">
+            <a href="classe.html?classe=6eme" class="w-64 h-64 bg-blue-500 rounded-lg text-white text-center text-2xl font-semibold p-4 m-4 hover:bg-blue-600 hover:shadow-md transition duration-300 ease-in-out flex items-center justify-center">6ème</a>
+            <a href="classe.html?classe=5eme" class="w-64 h-64 bg-green-500 rounded-lg text-white text-center text-2xl font-semibold p-4 m-4 hover:bg-green-600 hover:shadow-md transition duration-300 ease-in-out flex items-center justify-center">5ème</a>
+            <a href="classe.html?classe=4eme" class="w-64 h-64 bg-red-500 rounded-lg text-white text-center text-2xl font-semibold p-4 m-4 hover:bg-red-600 hover:shadow-md transition duration-300 ease-in-out flex items-center justify-center">4ème</a>
+            <a href="classe.html?classe=3eme" class="w-64 h-64 bg-yellow-500 rounded-lg text-white text-center text-2xl font-semibold p-4 m-4 hover:bg-yellow-600 hover:shadow-md transition duration-300 ease-in-out flex items-center justify-center">3ème</a>
         </div>
-        </div>
-<script type="module" src="./asset/js/tableauClasses.js"></script>
-
+    </div>
 </body>
 </html>

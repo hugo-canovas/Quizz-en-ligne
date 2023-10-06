@@ -6,9 +6,10 @@ const matiere = url.searchParams.get("matiere");
 
 const quizContainer = document.getElementById("quiz-container");
 const btnNext = document.getElementById("btn-next");
-const responseContainer = document.getElementById('blockResponse');
-const messageContainer = document.getElementById('message');
-const explicationContainer = document.getElementById('explication');
+const responseContainer = document.getElementById("blockResponse");
+const blockAnswers = document.getElementById("blockAnswers");
+const messageContainer = document.getElementById("message");
+const explicationContainer = document.getElementById("explication");
 let score = 0;
 
 async function getQuestionsAndResponsesBySubject(subject) {
@@ -38,14 +39,19 @@ function getQuestionRandomly(questionnaire) {
   messageContainer.innerHTML = "";
   explicationContainer.innerHTML = "";
 
-  answers.map(item => {
-    let cardResponse = addElement('button', ["border-2", "p-4", "rounded-lg", "hover:bg-blue-600"], {value:`${item}`}, `${item}`);
-    cardResponse.addEventListener('click', function() {
+  answers.map((item) => {
+    let blockAnswers = addElement(
+      "button",
+      ["p-4", "m-4", "rounded-lg", "hover:bg-blue-600", "bg-white"],
+      { value: `${item}` },
+      `${item}`
+    );
+    blockAnswers.addEventListener("click", function () {
       if (!questionAnswered) {
-        handleButtonClick(cardResponse);
+        handleButtonClick(blockAnswers);
       }
     });
-    responseContainer.appendChild(cardResponse);
+    responseContainer.appendChild(blockAnswers);
   });
 
   function handleButtonClick(clickedButton) {
@@ -54,31 +60,36 @@ function getQuestionRandomly(questionnaire) {
     if (clickedButton.value == correctAnswer) {
       messageContainer.innerHTML = correctMessage;
       explicationContainer.innerHTML = explanation;
+      clickedButton.style.backgroundColor = "#4CAF50";
+      clickedButton.style.color = '#ffffff';
       score++;
     } else {
       messageContainer.innerHTML = wrongMessage;
       explicationContainer.innerHTML = explanation;
+      clickedButton.style.backgroundColor = "#F44336";
+      clickedButton.style.color = '#ffffff';
+      const correctButton = Array.from(
+        responseContainer.querySelectorAll("button")
+      ).find((button) => button.value == correctAnswer);
+      if (correctButton) {
+        correctButton.style.backgroundColor = "#4CAF50";
+        correctButton.style.color = '#ffffff';
+      }
     }
-
-    // clickedButton.style.cursor = 'not-allowed';
-    // clickedButton.disabled = true;
   }
 
   questionnaire.splice(i, 1);
   return question;
 }
 
-
-
 function applyNextQuestion(questionnaire) {
   // Vérifier que le questionnaire n'est pas vide, si vide, alors faire un return
   if (questionnaire.length === 0) {
-  //  return;
+    //  return;
   }
 
   let nextQuestion = getQuestionRandomly(questionnaire);
   quizContainer.innerHTML = nextQuestion.question;
-  
 }
 
 function isGameOver(questionnaire) {
@@ -96,9 +107,9 @@ async function main() {
     if (isGameOver(questionnaire)) {
       // TODO : Gérer la fin du jeu
       btnNext.innerHTML = "Terminer";
-      btnNext.addEventListener('click', () => {
-        document.location.href= `debrief.html?score=${score}`;
-      })  
+      btnNext.addEventListener("click", () => {
+        document.location.href = `debrief.html?score=${score}`;
+      });
     } else {
       applyNextQuestion(questionnaire);
     }
@@ -106,4 +117,3 @@ async function main() {
 }
 
 main();
-

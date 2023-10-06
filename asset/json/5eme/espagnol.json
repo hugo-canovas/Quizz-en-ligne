@@ -1,0 +1,84 @@
+{
+  "questionnaire": [
+    {
+      "question": "Quelle est la langue officielle de l'Espagne ?",
+      "answers": ["Espagnol", "Catalan", "Basque", "Galicien"],
+      "correctAnswer": "Espagnol",
+      "explanation": "L'espagnol est la langue officielle de l'Espagne.",
+      "correctMessage": "Correct !",
+      "wrongMessage": "Essaie encore !"
+    },
+    {
+      "question": "Comment dit-on 'bonjour' en espagnol ?",
+      "answers": ["Hola", "Adiós", "Buenos días", "Gracias"],
+      "correctAnswer": "Hola",
+      "explanation": "En espagnol, 'Hola' signifie 'bonjour'.",
+      "correctMessage": "Correct !",
+      "wrongMessage": "Essaie encore !"
+    },
+    {
+      "question": "Quel est le nom du célèbre peintre espagnol connu pour ses œuvres cubistes ?",
+      "answers": ["Pablo Picasso", "Salvador Dalí", "Diego Rivera", "Frida Kahlo"],
+      "correctAnswer": "Pablo Picasso",
+      "explanation": "Pablo Picasso est le célèbre peintre espagnol connu pour ses œuvres cubistes.",
+      "correctMessage": "Correct !",
+      "wrongMessage": "Essaie encore !"
+    },
+    {
+      "question": "Quel est le mot espagnol pour 'merci' ?",
+      "answers": ["Gracias", "Por favor", "Hola", "Adiós"],
+      "correctAnswer": "Gracias",
+      "explanation": "'Gracias' est le mot espagnol pour 'merci'.",
+      "correctMessage": "Correct !",
+      "wrongMessage": "Essaie encore !"
+    },
+    {
+      "question": "Comment dit-on 'maison' en espagnol ?",
+      "answers": ["Casa", "Carro", "Árbol", "Libro"],
+      "correctAnswer": "Casa",
+      "explanation": "En espagnol, 'Casa' signifie 'maison'.",
+      "correctMessage": "Correct !",
+      "wrongMessage": "Essaie encore !"
+    },
+    {
+      "question": "Quelle est la capitale de l'Espagne ?",
+      "answers": ["Madrid", "Barcelone", "Valence", "Séville"],
+      "correctAnswer": "Madrid",
+      "explanation": "Madrid est la capitale de l'Espagne.",
+      "correctMessage": "Correct !",
+      "wrongMessage": "Essaie encore !"
+    },
+    {
+      "question": "Comment dit-on 'je t'aime' en espagnol ?",
+      "answers": ["Te quiero", "Te amo", "Te odio", "Te gusta"],
+      "correctAnswer": "Te amo",
+      "explanation": "En espagnol, 'Te amo' signifie 'je t'aime'.",
+      "correctMessage": "Correct !",
+      "wrongMessage": "Essaie encore !"
+    },
+    {
+      "question": "Quel est le nom de la danse espagnole traditionnelle souvent accompagnée de castagnettes ?",
+      "answers": ["Flamenco", "Salsa", "Tango", "Cha-cha-cha"],
+      "correctAnswer": "Flamenco",
+      "explanation": "Le Flamenco est la danse espagnole traditionnelle souvent accompagnée de castagnettes.",
+      "correctMessage": "Correct !",
+      "wrongMessage": "Essaie encore !"
+    },
+    {
+      "question": "Quel est le nom de la fête espagnole qui célèbre la victoire chrétienne sur les Maures ?",
+      "answers": ["La Reconquista", "La Fiesta de San Fermín", "La Tomatina", "La Feria de Abril"],
+      "correctAnswer": "La Reconquista",
+      "explanation": "La Reconquista est la fête espagnole qui célèbre la victoire chrétienne sur les Maures.",
+      "correctMessage": "Correct !",
+      "wrongMessage": "Essaie encore !"
+    },
+    {
+      "question": "Comment dit-on 'école' en espagnol ?",
+      "answers": ["Escuela", "Trabajo", "Casa", "Comida"],
+      "correctAnswer": "Escuela",
+      "explanation": "En espagnol, 'Escuela' signifie 'école'.",
+      "correctMessage": "Correct !",
+      "wrongMessage": "Essaie encore !"
+    }
+  ]
+}

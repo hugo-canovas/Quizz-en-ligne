@@ -1,64 +1,85 @@
 {
-    "question": {
-        "¿Cómo se dice 'amigo' en español?": {
-            "1": "Amigo",
-            "2": "Casa",
-            "3": "Perro",
-            "4": "Libro"
-        },
-        "¿Qué significa 'gracias' en español?": {
-            "1": "Gracias",
-            "2": "Hola",
-            "3": "Adiós",
-            "4": "Por favor"
-        },
-        "¿Cuál es el color de la bandera de Francia?": {
-            "1": "Azul, blanco y rojo",
-            "2": "Verde y amarillo",
-            "3": "Negro y blanco",
-            "4": "Rojo y blanco"
-        },
-        "¿Cómo se dice 'manzana' en español?": {
-            "1": "Manzana",
-            "2": "Perro",
-            "3": "Casa",
-            "4": "Libro"
-        },
-        "¿Cuál es el día de la semana que viene después del jueves?": {
-            "1": "Viernes",
-            "2": "Sábado",
-            "3": "Domingo",
-            "4": "Lunes"
-        },
-        "¿Qué número viene después del diecisiete?": {
-            "1": "Dieciocho",
-            "2": "Dieciséis",
-            "3": "Diecinueve",
-            "4": "Veinte"
-        },
-        "¿Cómo se llama el océano más grande del mundo?": {
-            "1": "Océano Pacífico",
-            "2": "Océano Atlántico",
-            "3": "Océano Índico",
-            "4": "Océano Ártico"
-        },
-        "¿Cuál es el mes que viene antes de noviembre?": {
-            "1": "Octubre",
-            "2": "Diciembre",
-            "3": "Enero",
-            "4": "Febrero"
-        },
-        "¿Cómo se dice 'agua' en español?": {
-            "1": "Agua",
-            "2": "Fuego",
-            "3": "Tierra",
-            "4": "Aire"
-        },
-        "¿Cuál es la capital de España?": {
-            "1": "Madrid",
-            "2": "Barcelona",
-            "3": "Sevilla",
-            "4": "Valencia"
-        }
-    }
-}
+    "questionnaire": [
+      {
+        "question": "¿Cómo se dice 'amigo' en español?",
+        "answers": ["Amigo", "Casa", "Perro", "Libro"],
+        "correctAnswer": "Amigo",
+        "explanation": "En español, 'amigo' se traduce como 'friend' en inglés.",
+        "correctMessage": "¡Bien hecho!",
+        "wrongMessage": "¡No te rindas, inténtalo de nuevo!"
+      },
+      {
+        "question": "¿Qué significa 'gracias' en español?",
+        "answers": ["Gracias", "Hola", "Adiós", "Por favor"],
+        "correctAnswer": "Gracias",
+        "explanation": "'Gracias' en español significa 'thank you' en inglés.",
+        "correctMessage": "¡Bien hecho!",
+        "wrongMessage": "¡No te rindas, inténtalo de nuevo!"
+      },
+      {
+        "question": "¿Cuál es el color de la bandera de Francia?",
+        "answers": ["Azul, blanco y rojo", "Verde y amarillo", "Negro y blanco", "Rojo y blanco"],
+        "correctAnswer": "Azul, blanco y rojo",
+        "explanation": "La bandera de Francia tiene los colores azul, blanco y rojo.",
+        "correctMessage": "¡Bien hecho!",
+        "wrongMessage": "¡No te rindas, inténtalo de nuevo!"
+      },
+      {
+        "question": "¿Cómo se dice 'manzana' en español?",
+        "answers": ["Manzana", "Perro", "Casa", "Libro"],
+        "correctAnswer": "Manzana",
+        "explanation": "'Manzana' en español se traduce como 'apple' en inglés.",
+        "correctMessage": "¡Bien hecho!",
+        "wrongMessage": "¡No te rindas, inténtalo de nuevo!"
+      },
+      {
+        "question": "¿Cuál es el día de la semana que viene después del jueves?",
+        "answers": ["Viernes", "Sábado", "Domingo", "Lunes"],
+        "correctAnswer": "Viernes",
+        "explanation": "El día que viene después del jueves es el viernes.",
+        "correctMessage": "¡Bien hecho!",
+        "wrongMessage": "¡No te rindas, inténtalo de nuevo!"
+      },
+      {
+        "question": "¿Qué número viene después del diecisiete?",
+        "answers": ["Dieciocho", "Dieciséis", "Diecinueve", "Veinte"],
+        "correctAnswer": "Dieciocho",
+        "explanation": "El número que viene después del diecisiete es el dieciocho.",
+        "correctMessage": "¡Bien hecho!",
+        "wrongMessage": "¡No te rindas, inténtalo de nuevo!"
+      },
+      {
+        "question": "¿Cómo se llama el océano más grande del mundo?",
+        "answers": ["Océano Pacífico", "Océano Atlántico", "Océano Índico", "Océano Ártico"],
+        "correctAnswer": "Océano Pacífico",
+        "explanation": "El océano más grande del mundo es el Océano Pacífico.",
+        "correctMessage": "¡Bien hecho!",
+        "wrongMessage": "¡No te rindas, inténtalo de nuevo!"
+      },
+      {
+        "question": "¿Cuál es el mes que viene antes de noviembre?",
+        "answers": ["Octubre", "Diciembre", "Enero", "Febrero"],
+        "correctAnswer": "Octubre",
+        "explanation": "El mes que viene antes de noviembre es octubre.",
+        "correctMessage": "¡Bien hecho!",
+        "wrongMessage": "¡No te rindas, inténtalo de nuevo!"
+      },
+      {
+        "question": "¿Cómo se dice 'agua' en español?",
+        "answers": ["Agua", "Fuego", "Tierra", "Aire"],
+        "correctAnswer": "Agua",
+        "explanation": "'Agua' en español se traduce como 'water' en inglés.",
+        "correctMessage": "¡Bien hecho!",
+        "wrongMessage": "¡No te rindas, inténtalo de nuevo!"
+      },
+      {
+        "question": "¿Cuál es la capital de España?",
+        "answers": ["Madrid", "Barcelona", "Sevilla", "Valencia"],
+        "correctAnswer": "Madrid",
+        "explanation": "La capital de España es Madrid.",
+        "correctMessage": "¡Bien hecho!",
+        "wrongMessage": "¡No te rindas, inténtalo de nuevo!"
+      }
+    ]
+  }
+  

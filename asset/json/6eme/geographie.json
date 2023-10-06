@@ -1,0 +1,84 @@
+{
+  "questionnaire": [
+    {
+      "question": "Quel est le plus grand océan du monde ?",
+      "answers": ["L'océan Pacifique", "L'océan Atlantique", "L'océan Indien", "L'océan Arctique"],
+      "correctAnswer": "L'océan Pacifique",
+      "explanation": "L'océan Pacifique est le plus grand océan du monde.",
+      "correctMessage": "Correct !",
+      "wrongMessage": "Essaie encore !"
+    },
+    {
+      "question": "Quel est le plus long fleuve d'Afrique ?",
+      "answers": ["Le Nil", "Le Congo", "Le Niger", "Le Zambèze"],
+      "correctAnswer": "Le Nil",
+      "explanation": "Le Nil est le plus long fleuve d'Afrique.",
+      "correctMessage": "Correct !",
+      "wrongMessage": "Essaie encore !"
+    },
+    {
+      "question": "Quel pays est situé à l'extrémité sud de l'Amérique du Sud ?",
+      "answers": ["L'Argentine", "Le Chili", "Le Pérou", "La Colombie"],
+      "correctAnswer": "Le Chili",
+      "explanation": "Le Chili est situé à l'extrémité sud de l'Amérique du Sud.",
+      "correctMessage": "Correct !",
+      "wrongMessage": "Essaie encore !"
+    },
+    {
+      "question": "Quel est le plus grand désert du monde ?",
+      "answers": ["Le désert du Sahara", "Le désert d'Atacama", "Le désert de Gobi", "Le désert d'Arabie"],
+      "correctAnswer": "Le désert du Sahara",
+      "explanation": "Le désert du Sahara est le plus grand désert du monde.",
+      "correctMessage": "Correct !",
+      "wrongMessage": "Essaie encore !"
+    },
+    {
+      "question": "Quel pays est connu comme le 'pays du Soleil Levant' ?",
+      "answers": ["Le Japon", "La Chine", "La Corée du Sud", "L'Inde"],
+      "correctAnswer": "Le Japon",
+      "explanation": "Le Japon est connu comme le 'pays du Soleil Levant'.",
+      "correctMessage": "Correct !",
+      "wrongMessage": "Essaie encore !"
+    },
+    {
+      "question": "Quelle est la plus grande île du monde ?",
+      "answers": ["Le Groenland", "L'Indonésie", "Le Japon", "Madagascar"],
+      "correctAnswer": "Le Groenland",
+      "explanation": "Le Groenland est la plus grande île du monde.",
+      "correctMessage": "Correct !",
+      "wrongMessage": "Essaie encore !"
+    },
+    {
+      "question": "Quel est le nom de la chaîne de montagnes qui traverse l'Europe ?",
+      "answers": ["Les Alpes", "Les Andes", "Les Montagnes Rocheuses", "Les Appalaches"],
+      "correctAnswer": "Les Alpes",
+      "explanation": "Les Alpes sont la chaîne de montagnes qui traverse l'Europe.",
+      "correctMessage": "Correct !",
+      "wrongMessage": "Essaie encore !"
+    },
+    {
+      "question": "Quel est le pays le plus peuplé du monde ?",
+      "answers": ["La Chine", "L'Inde", "Les États-Unis", "Le Brésil"],
+      "correctAnswer": "La Chine",
+      "explanation": "La Chine est le pays le plus peuplé du monde.",
+      "correctMessage": "Correct !",
+      "wrongMessage": "Essaie encore !"
+    },
+    {
+      "question": "Quel est le nom de la ligne imaginaire qui divise la Terre en deux hémisphères, nord et sud ?",
+      "answers": ["L'équateur", "Le méridien de Greenwich", "Le tropique du Cancer", "Le tropique du Capricorne"],
+      "correctAnswer": "L'équateur",
+      "explanation": "L'équateur est la ligne imaginaire qui divise la Terre en deux hémisphères, nord et sud.",
+      "correctMessage": "Correct !",
+      "wrongMessage": "Essaie encore !"
+    },
+    {
+      "question": "Dans quel continent se trouve l'Égypte ?",
+      "answers": ["L'Afrique", "L'Asie", "L'Europe", "L'Amérique du Nord"],
+      "correctAnswer": "L'Afrique",
+      "explanation": "L'Égypte se trouve en Afrique.",
+      "correctMessage": "Correct !",
+      "wrongMessage": "Essaie encore !"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "questionnaire": [
+    {
+      "question": "Quel est le symbole chimique de l'oxygène ?",
+      "answers": ["O", "O2", "H2O", "C"],
+      "correctAnswer": "O",
+      "explanation": "Le symbole chimique de l'oxygène est 'O'.",
+      "correctMessage": "Correct !",
+      "wrongMessage": "Essaie encore !"
+    },
+    {
+      "question": "Quel est le nombre d'atomes dans une molécule d'eau (H2O) ?",
+      "answers": ["3", "2", "1", "0"],
+      "correctAnswer": "3",
+      "explanation": "Il y a trois atomes dans une molécule d'eau (H2O).",
+      "correctMessage": "Correct !",
+      "wrongMessage": "Essaie encore !"
+    },
+    {
+      "question": "Quelle est la formule chimique du dioxyde de carbone ?",
+      "answers": ["CO2", "O2", "H2O", "N2"],
+      "correctAnswer": "CO2",
+      "explanation": "La formule chimique du dioxyde de carbone est 'CO2'.",
+      "correctMessage": "Correct !",
+      "wrongMessage": "Essaie encore !"
+    },
+    {
+      "question": "Quel est le gaz le plus abondant dans l'atmosphère terrestre ?",
+      "answers": ["Azote", "Oxygène", "Dioxyde de carbone", "Hydrogène"],
+      "correctAnswer": "Azote",
+      "explanation": "L'azote est le gaz le plus abondant dans l'atmosphère terrestre.",
+      "correctMessage": "Correct !",
+      "wrongMessage": "Essaie encore !"
+    },
+    {
+      "question": "Quel est le nom de la réaction chimique qui combine le dioxygène et un combustible pour produire de l'énergie ?",
+      "answers": ["La combustion", "La photosynthèse", "L'oxydation", "La réduction"],
+      "correctAnswer": "La combustion",
+      "explanation": "La combustion est la réaction chimique qui produit de l'énergie en combinant du dioxygène avec un combustible.",
+      "correctMessage": "Correct !",
+      "wrongMessage": "Essaie encore !"
+    },
+    {
+      "question": "Quel élément chimique a le symbole 'H' ?",
+      "answers": ["Hydrogène", "Hélium", "Carbone", "Azote"],
+      "correctAnswer": "Hydrogène",
+      "explanation": "L'élément chimique avec le symbole 'H' est l'hydrogène.",
+      "correctMessage": "Correct !",
+      "wrongMessage": "Essaie encore !"
+    },
+    {
+      "question": "Quelle est la formule chimique du chlorure de sodium, communément appelé sel de table ?",
+      "answers": ["NaCl", "H2O", "CO2", "C6H12O6"],
+      "correctAnswer": "NaCl",
+      "explanation": "La formule chimique du chlorure de sodium, ou sel de table, est 'NaCl'.",
+      "correctMessage": "Correct !",
+      "wrongMessage": "Essaie encore !"
+    },
+    {
+      "question": "Quel est le processus de transformation d'un solide en liquide sous l'effet de la chaleur ?",
+      "answers": ["La fusion", "La sublimation", "L'évaporation", "La condensation"],
+      "correctAnswer": "La fusion",
+      "explanation": "La fusion est le processus de transformation d'un solide en liquide sous l'effet de la chaleur.",
+      "correctMessage": "Correct !",
+      "wrongMessage": "Essaie encore !"
+    },
+    {
+      "question": "Quel est le nom du tableau périodique des éléments où les éléments chimiques sont organisés en fonction de leurs propriétés ?",
+      "answers": ["Tableau périodique", "Tableau de Mendeleïev", "Tableau des isotopes", "Tableau des composés"],
+      "correctAnswer": "Tableau périodique",
+      "explanation": "Le tableau périodique organise les éléments chimiques en fonction de leurs propriétés.",
+      "correctMessage": "Correct !",
+      "wrongMessage": "Essaie encore !"
+    },
+    {
+      "question": "Quel est le processus de séparation des composants d'un mélange en fonction de leur point d'ébullition ?",
+      "answers": ["La distillation", "La filtration", "La dissolution", "La cristallisation"],
+      "correctAnswer": "La distillation",
+      "explanation": "La distillation est le processus de séparation des composants d'un mélange en fonction de leur point d'ébullition.",
+      "correctMessage": "Correct !",
+      "wrongMessage": "Essaie encore !"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "questionnaire": [
+    {
+      "question": "What is the English word for 'maison' ?",
+      "answers": ["House", "Car", "Tree", "Book"],
+      "correctAnswer": "House",
+      "explanation": "'Maison' in English is 'House.'",
+      "correctMessage": "Correct!",
+      "wrongMessage": "Try again!"
+    },
+    {
+      "question": "How do you say 'bonjour' in English?",
+      "answers": ["Hello", "Goodbye", "Thank you", "Yes"],
+      "correctAnswer": "Hello",
+      "explanation": "'Bonjour' in English is 'Hello.'",
+      "correctMessage": "Correct!",
+      "wrongMessage": "Try again!"
+    },
+    {
+      "question": "Which of the following is a color?",
+      "answers": ["Blue", "Table", "Run", "Jump"],
+      "correctAnswer": "Blue",
+      "explanation": "'Blue' is a color.",
+      "correctMessage": "Correct!",
+      "wrongMessage": "Try again!"
+    },
+    {
+      "question": "What is the opposite of 'big'?",
+      "answers": ["Small", "Tall", "Fast", "Heavy"],
+      "correctAnswer": "Small",
+      "explanation": "The opposite of 'big' is 'Small.'",
+      "correctMessage": "Correct!",
+      "wrongMessage": "Try again!"
+    },
+    {
+      "question": "Complete the sentence: 'I ____ a cat.'",
+      "answers": ["have", "is", "am", "play"],
+      "correctAnswer": "have",
+      "explanation": "The correct sentence is 'I have a cat.'",
+      "correctMessage": "Correct!",
+      "wrongMessage": "Try again!"
+    },
+    {
+      "question": "How many days are there in a week?",
+      "answers": ["7", "5", "10", "6"],
+      "correctAnswer": "7",
+      "explanation": "There are 7 days in a week.",
+      "correctMessage": "Correct!",
+      "wrongMessage": "Try again!"
+    },
+    {
+      "question": "Which of the following is a fruit?",
+      "answers": ["Apple", "Chair", "Shoes", "Table"],
+      "correctAnswer": "Apple",
+      "explanation": "'Apple' is a fruit.",
+      "correctMessage": "Correct!",
+      "wrongMessage": "Try again!"
+    },
+    {
+      "question": "What is the English word for 'arbre' ?",
+      "answers": ["Tree", "House", "Car", "Book"],
+      "correctAnswer": "Tree",
+      "explanation": "'Arbre' in English is 'Tree.'",
+      "correctMessage": "Correct!",
+      "wrongMessage": "Try again!"
+    },
+    {
+      "question": "What do you say when you're pleased with something in English?",
+      "answers": ["Thank you", "Goodbye", "Hello", "Yes"],
+      "correctAnswer": "Thank you",
+      "explanation": "When pleased, you say 'Thank you' in English.",
+      "correctMessage": "Correct!",
+      "wrongMessage": "Try again!"
+    },
+    {
+      "question": "Which of the following is an animal?",
+      "answers": ["Dog", "Chair", "Table", "Book"],
+      "correctAnswer": "Dog",
+      "explanation": "'Dog' is an animal.",
+      "correctMessage": "Correct!",
+      "wrongMessage": "Try again!"
+    }
+  ]
+}

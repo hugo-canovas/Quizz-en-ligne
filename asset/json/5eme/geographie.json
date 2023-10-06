@@ -1,0 +1,84 @@
+{
+  "questionnaire": [
+    {
+      "question": "Quelle est la capitale de la France ?",
+      "answers": ["Paris", "Londres", "Berlin", "Madrid"],
+      "correctAnswer": "Paris",
+      "explanation": "La capitale de la France est Paris.",
+      "correctMessage": "Correct !",
+      "wrongMessage": "Essaie encore !"
+    },
+    {
+      "question": "Quelle est la plus grande île du monde ?",
+      "answers": ["Groenland", "Australie", "Sumatra", "Java"],
+      "correctAnswer": "Groenland",
+      "explanation": "La plus grande île du monde est le Groenland.",
+      "correctMessage": "Correct !",
+      "wrongMessage": "Essaie encore !"
+    },
+    {
+      "question": "Quel est le plus long fleuve du monde ?",
+      "answers": ["Le Nil", "L'Amazone", "Le Mississippi", "Le Yangtsé"],
+      "correctAnswer": "Le Nil",
+      "explanation": "Le Nil est le plus long fleuve du monde.",
+      "correctMessage": "Correct !",
+      "wrongMessage": "Essaie encore !"
+    },
+    {
+      "question": "Dans quel continent se trouve le désert du Sahara ?",
+      "answers": ["Afrique", "Asie", "Amérique du Sud", "Australie"],
+      "correctAnswer": "Afrique",
+      "explanation": "Le désert du Sahara se trouve en Afrique.",
+      "correctMessage": "Correct !",
+      "wrongMessage": "Essaie encore !"
+    },
+    {
+      "question": "Quelle est la plus haute montagne du monde ?",
+      "answers": ["L'Everest", "Le K2", "Le Mont Blanc", "Le Kilimandjaro"],
+      "correctAnswer": "L'Everest",
+      "explanation": "L'Everest est la plus haute montagne du monde.",
+      "correctMessage": "Correct !",
+      "wrongMessage": "Essaie encore !"
+    },
+    {
+      "question": "Quel océan entoure l'Antarctique ?",
+      "answers": ["L'océan Antarctique", "L'océan Atlantique", "L'océan Pacifique", "L'océan Indien"],
+      "correctAnswer": "L'océan Antarctique",
+      "explanation": "L'océan Antarctique entoure l'Antarctique.",
+      "correctMessage": "Correct !",
+      "wrongMessage": "Essaie encore !"
+    },
+    {
+      "question": "Quel pays est connu comme 'le pays du Soleil Levant' ?",
+      "answers": ["Le Japon", "La Chine", "La Corée du Sud", "L'Inde"],
+      "correctAnswer": "Le Japon",
+      "explanation": "Le Japon est connu comme 'le pays du Soleil Levant'.",
+      "correctMessage": "Correct !",
+      "wrongMessage": "Essaie encore !"
+    },
+    {
+      "question": "Quelle est la plus grande chaîne de montagnes du monde ?",
+      "answers": ["L'Himalaya", "Les Andes", "Les Rocheuses", "Les Alpes"],
+      "correctAnswer": "L'Himalaya",
+      "explanation": "L'Himalaya est la plus grande chaîne de montagnes du monde.",
+      "correctMessage": "Correct !",
+      "wrongMessage": "Essaie encore !"
+    },
+    {
+      "question": "Quel est le plus grand lac d'Afrique ?",
+      "answers": ["Le lac Victoria", "Le lac Tanganyika", "Le lac Malawi", "Le lac Turkana"],
+      "correctAnswer": "Le lac Victoria",
+      "explanation": "Le lac Victoria est le plus grand lac d'Afrique.",
+      "correctMessage": "Correct !",
+      "wrongMessage": "Essaie encore !"
+    },
+    {
+      "question": "Quelle est la plus grande île d'Europe ?",
+      "answers": ["La Grande-Bretagne", "L'Islande", "La Sicile", "La Crète"],
+      "correctAnswer": "La Grande-Bretagne",
+      "explanation": "La Grande-Bretagne est la plus grande île d'Europe.",
+      "correctMessage": "Correct !",
+      "wrongMessage": "Essaie encore !"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "questionnaire": [
+    {
+      "question": "Qual è la capitale dell'Italia?",
+      "answers": ["Roma", "Milano", "Firenze", "Napoli"],
+      "correctAnswer": "Roma",
+      "explanation": "Roma è la capitale dell'Italia.",
+      "correctMessage": "Corretto!",
+      "wrongMessage": "Prova ancora!"
+    },
+    {
+      "question": "Come si dice 'casa' in italiano?",
+      "answers": ["Casa", "Macchina", "Libro", "Scuola"],
+      "correctAnswer": "Casa",
+      "explanation": "'Casa' si dice 'casa' in italiano.",
+      "correctMessage": "Corretto!",
+      "wrongMessage": "Prova ancora!"
+    },
+    {
+      "question": "Chi è l'autore della famosa opera 'La Divina Commedia'?",
+      "answers": ["Dante Alighieri", "Leonardo da Vinci", "Machiavelli", "Petrarca"],
+      "correctAnswer": "Dante Alighieri",
+      "explanation": "Dante Alighieri è l'autore de 'La Divina Commedia'.",
+      "correctMessage": "Corretto!",
+      "wrongMessage": "Prova ancora!"
+    },
+    {
+      "question": "Quale giorno della settimana segue il giovedì?",
+      "answers": ["Venerdì", "Sabato", "Domenica", "Mercoledì"],
+      "correctAnswer": "Venerdì",
+      "explanation": "Venerdì segue il giovedì nella settimana.",
+      "correctMessage": "Corretto!",
+      "wrongMessage": "Prova ancora!"
+    },
+    {
+      "question": "Qual è il fiume più lungo d'Italia?",
+      "answers": ["Po", "Tevere", "Arno", "Adige"],
+      "correctAnswer": "Po",
+      "explanation": "Il fiume Po è il più lungo d'Italia.",
+      "correctMessage": "Corretto!",
+      "wrongMessage": "Prova ancora!"
+    },
+    {
+      "question": "Cosa significa 'Ciao' in italiano?",
+      "answers": ["Salve", "Arrivederci", "Buongiorno", "Addio"],
+      "correctAnswer": "Salve",
+      "explanation": "'Ciao' significa 'Salve' in italiano.",
+      "correctMessage": "Corretto!",
+      "wrongMessage": "Prova ancora!"
+    },
+    {
+      "question": "Chi è l'autore de 'Romeo e Giulietta', una famosa tragedia romantica?",
+      "answers": ["William Shakespeare", "Gabriele D'Annunzio", "Alessandro Manzoni", "Giacomo Leopardi"],
+      "correctAnswer": "William Shakespeare",
+      "explanation": "William Shakespeare è l'autore de 'Romeo e Giulietta'.",
+      "correctMessage": "Corretto!",
+      "wrongMessage": "Prova ancora!"
+    },
+    {
+      "question": "Qual è la moneta ufficiale dell'Italia?",
+      "answers": ["Euro", "Lira", "Dollaro", "Sterlina"],
+      "correctAnswer": "Euro",
+      "explanation": "L'Euro è la moneta ufficiale dell'Italia.",
+      "correctMessage": "Corretto!",
+      "wrongMessage": "Prova ancora!"
+    },
+    {
+      "question": "Quale famoso vulcano italiano si trova vicino a Napoli?",
+      "answers": ["Vesuvio", "Stromboli", "Etna", "Vulcano"],
+      "correctAnswer": "Vesuvio",
+      "explanation": "Il Vesuvio è il famoso vulcano vicino a Napoli.",
+      "correctMessage": "Corretto!",
+      "wrongMessage": "Prova ancora!"
+    },
+    {
+      "question": "Come si dice 'sole' in italiano?",
+      "answers": ["Sole", "Luna", "Stella", "Pianeta"],
+      "correctAnswer": "Sole",
+      "explanation": "'Sole' si dice 'sole' in italiano.",
+      "correctMessage": "Corretto!",
+      "wrongMessage": "Prova ancora!"
+    }
+  ]
+}

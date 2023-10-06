@@ -1,0 +1,84 @@
+{
+  "questionnaire": [
+    {
+      "question": "Combien font 7 x 8 ?",
+      "answers": ["56", "64", "48", "72"],
+      "correctAnswer": "56",
+      "explanation": "7 x 8 = 56.",
+      "correctMessage": "Correct !",
+      "wrongMessage": "Essaie encore !"
+    },
+    {
+      "question": "Quelle est la somme de 125 + 38 ?",
+      "answers": ["163", "193", "143", "212"],
+      "correctAnswer": "163",
+      "explanation": "125 + 38 = 163.",
+      "correctMessage": "Correct !",
+      "wrongMessage": "Essaie encore !"
+    },
+    {
+      "question": "Si un rectangle a une longueur de 10 cm et une largeur de 5 cm, quelle est sa superficie ?",
+      "answers": ["50 cm²", "25 cm²", "15 cm²", "100 cm²"],
+      "correctAnswer": "50 cm²",
+      "explanation": "La superficie d'un rectangle est calculée en multipliant sa longueur par sa largeur. Dans ce cas, 10 cm x 5 cm = 50 cm².",
+      "correctMessage": "Correct !",
+      "wrongMessage": "Essaie encore !"
+    },
+    {
+      "question": "Quel est le périmètre d'un carré de côté 9 cm ?",
+      "answers": ["36 cm", "18 cm", "27 cm", "81 cm"],
+      "correctAnswer": "36 cm",
+      "explanation": "Le périmètre d'un carré est calculé en multipliant la longueur d'un côté par 4. Dans ce cas, 9 cm x 4 = 36 cm.",
+      "correctMessage": "Correct !",
+      "wrongMessage": "Essaie encore !"
+    },
+    {
+      "question": "Si un paquet de crayons coûte 4 euros et que j'en achète 5, combien vais-je payer au total ?",
+      "answers": ["20 euros", "10 euros", "15 euros", "25 euros"],
+      "correctAnswer": "20 euros",
+      "explanation": "Le coût total est calculé en multipliant le coût d'un paquet par le nombre de paquets. Dans ce cas, 4 euros x 5 = 20 euros.",
+      "correctMessage": "Correct !",
+      "wrongMessage": "Essaie encore !"
+    },
+    {
+      "question": "Quel est le résultat de 28 divisé par 4 ?",
+      "answers": ["7", "8", "6", "9"],
+      "correctAnswer": "7",
+      "explanation": "28 divisé par 4 égale 7.",
+      "correctMessage": "Correct !",
+      "wrongMessage": "Essaie encore !"
+    },
+    {
+      "question": "Si j'ai 3 pommes et j'en donne 2 à mon ami, combien de pommes me reste-t-il ?",
+      "answers": ["1 pomme", "2 pommes", "3 pommes", "0 pomme"],
+      "correctAnswer": "1 pomme",
+      "explanation": "Si tu en donnes 2 sur tes 3 pommes, il te reste 1 pomme.",
+      "correctMessage": "Correct !",
+      "wrongMessage": "Essaie encore !"
+    },
+    {
+      "question": "Quel est le nombre précédent de 57 ?",
+      "answers": ["56", "58", "55", "59"],
+      "correctAnswer": "56",
+      "explanation": "Le nombre précédent de 57 est 56.",
+      "correctMessage": "Correct !",
+      "wrongMessage": "Essaie encore !"
+    },
+    {
+      "question": "Si un train parcourt 240 kilomètres en 3 heures, quelle est sa vitesse moyenne en kilomètres par heure ?",
+      "answers": ["80 km/h", "120 km/h", "60 km/h", "40 km/h"],
+      "correctAnswer": "80 km/h",
+      "explanation": "La vitesse moyenne est calculée en divisant la distance totale parcourue par le temps. Dans ce cas, 240 km ÷ 3 h = 80 km/h.",
+      "correctMessage": "Correct !",
+      "wrongMessage": "Essaie encore !"
+    },
+    {
+      "question": "Combien font 15% de 80 ?",
+      "answers": ["12", "8", "16", "10"],
+      "correctAnswer": "12",
+      "explanation": "Pour trouver 15% d'un nombre, multiplie le nombre par 0,15. Dans ce cas, 80 x 0,15 = 12.",
+      "correctMessage": "Correct !",
+      "wrongMessage": "Essaie encore !"
+    }
+  ]
+}

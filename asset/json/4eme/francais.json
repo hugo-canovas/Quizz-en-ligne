@@ -1,64 +1,105 @@
 {
-    "question": {
-        "Quelle est la figure de style qui consiste à attribuer des qualités humaines à un objet inanimé ?": {
-            "1": "La personnification",
-            "2": "La métaphore",
-            "3": "L'allitération",
-            "4": "La litote"
-        },
-        "Quel est le nom de l'auteur de 'L'Étranger' ?": {
-            "1": "Albert Camus",
-            "2": "Victor Hugo",
-            "3": "Marcel Proust",
-            "4": "Jean-Paul Sartre"
-        },
-        "Quel est le synonyme de 'chagrin' ?": {
-            "1": "Tristesse",
-            "2": "Joie",
-            "3": "Colère",
-            "4": "Surprise"
-        },
-        "Quel est l'antonyme de 'vaste' ?": {
-            "1": "Étroit",
-            "2": "Large",
-            "3": "Immense",
-            "4": "Ouvert"
-        },
-        "Dans quelle phrase l'adjectif est-il placé après le nom ?": {
-            "1": "La maison blanche est grande.",
-            "2": "Le grand chien dort.",
-            "3": "Les oiseaux chantent joyeusement.",
-            "4": "Elle porte une robe bleue."
-        },
-        "Quel est le verbe conjugué à la troisième personne du pluriel dans la phrase 'Ils mangent des fruits.' ?": {
-            "1": "Mangent",
-            "2": "Mange",
-            "3": "Manges",
-            "4": "Mangé"
-        },
-        "Quel est le nom du point de vue narratif où le narrateur est un personnage de l'histoire ?": {
-            "1": "Point de vue interne",
-            "2": "Point de vue omniscient",
-            "3": "Point de vue à la deuxième personne",
-            "4": "Point de vue à la troisième personne"
-        },
-        "Quelle est la forme de négation correcte pour la phrase 'Il a mangé tout le gâteau.' ?": {
-            "1": "Il n'a pas mangé tout le gâteau.",
-            "2": "Il n'a mangé pas tout le gâteau.",
-            "3": "Il a mangé pas tout le gâteau.",
-            "4": "Il mangé n'a pas tout le gâteau."
-        },
-        "Quel est le nom de l'élément qui introduit une action dans une phrase ?": {
-            "1": "Le verbe",
-            "2": "Le sujet",
-            "3": "L'adjectif",
-            "4": "Le complément d'objet direct"
-        },
-        "Quelle est la fonction du point-virgule dans une phrase ?": {
-            "1": "Séparer des éléments d'une liste lorsque ces éléments contiennent déjà des virgules.",
-            "2": "Indiquer la fin de la phrase.",
-            "3": "Séparer deux propositions indépendantes.",
-            "4": "Signaler une question."
-        }
-    }
-}
+    "questionnaire": [
+      {
+        "question": "Quelle est la figure de style qui consiste à attribuer des qualités humaines à un objet inanimé ?",
+        "answers": ["La personnification", "La métaphore", "L'allitération", "La litote"],
+        "correctAnswer": "La personnification",
+        "explanation": "La personnification consiste à attribuer des qualités humaines à un objet inanimé.",
+        "correctMessage": "Correct !",
+        "wrongMessage": "Essaie encore !"
+      },
+      {
+        "question": "Quel est le nom de l'auteur de 'L'Étranger' ?",
+        "answers": ["Albert Camus", "Victor Hugo", "Marcel Proust", "Jean-Paul Sartre"],
+        "correctAnswer": "Albert Camus",
+        "explanation": "'L'Étranger' a été écrit par Albert Camus.",
+        "correctMessage": "Correct !",
+        "wrongMessage": "Essaie encore !"
+      },
+      {
+        "question": "Quel est le synonyme de 'chagrin' ?",
+        "answers": ["Tristesse", "Joie", "Colère", "Surprise"],
+        "correctAnswer": "Tristesse",
+        "explanation": "'Chagrin' est synonyme de 'tristesse'.",
+        "correctMessage": "Correct !",
+        "wrongMessage": "Essaie encore !"
+      },
+      {
+        "question": "Quel est l'antonyme de 'vaste' ?",
+        "answers": ["Étroit", "Large", "Immense", "Ouvert"],
+        "correctAnswer": "Étroit",
+        "explanation": "'Étroit' est l'antonyme de 'vaste'.",
+        "correctMessage": "Correct !",
+        "wrongMessage": "Essaie encore !"
+      },
+      {
+        "question": "Dans quelle phrase l'adjectif est-il placé après le nom ?",
+        "answers": [
+          "La maison blanche est grande.",
+          "Le grand chien dort.",
+          "Les oiseaux chantent joyeusement.",
+          "Elle porte une robe bleue."
+        ],
+        "correctAnswer": "Elle porte une robe bleue.",
+        "explanation": "Dans 'Elle porte une robe bleue.', l'adjectif 'bleue' est placé après le nom.",
+        "correctMessage": "Correct !",
+        "wrongMessage": "Essaie encore !"
+      },
+      {
+        "question": "Quel est le verbe conjugué à la troisième personne du pluriel dans la phrase 'Ils mangent des fruits.' ?",
+        "answers": ["Mangent", "Mange", "Manges", "Mangé"],
+        "correctAnswer": "Mangent",
+        "explanation": "Le verbe conjugué à la troisième personne du pluriel est 'mangent' dans 'Ils mangent des fruits.'.",
+        "correctMessage": "Correct !",
+        "wrongMessage": "Essaie encore !"
+      },
+      {
+        "question": "Quel est le nom du point de vue narratif où le narrateur est un personnage de l'histoire ?",
+        "answers": [
+          "Point de vue interne",
+          "Point de vue omniscient",
+          "Point de vue à la deuxième personne",
+          "Point de vue à la troisième personne"
+        ],
+        "correctAnswer": "Point de vue interne",
+        "explanation": "Le point de vue interne est celui où le narrateur est un personnage de l'histoire.",
+        "correctMessage": "Correct !",
+        "wrongMessage": "Essaie encore !"
+      },
+      {
+        "question": "Quelle est la forme de négation correcte pour la phrase 'Il a mangé tout le gâteau.' ?",
+        "answers": [
+          "Il n'a pas mangé tout le gâteau.",
+          "Il n'a mangé pas tout le gâteau.",
+          "Il a mangé pas tout le gâteau.",
+          "Il mangé n'a pas tout le gâteau."
+        ],
+        "correctAnswer": "Il n'a pas mangé tout le gâteau.",
+        "explanation": "La forme correcte de négation est 'Il n'a pas mangé tout le gâteau.'.",
+        "correctMessage": "Correct !",
+        "wrongMessage": "Essaie encore !"
+      },
+      {
+        "question": "Quel est le nom de l'élément qui introduit une action dans une phrase ?",
+        "answers": ["Le verbe", "Le sujet", "L'adjectif", "Le complément d'objet direct"],
+        "correctAnswer": "Le verbe",
+        "explanation": "Le verbe introduit une action dans une phrase.",
+        "correctMessage": "Correct !",
+        "wrongMessage": "Essaie encore !"
+      },
+      {
+        "question": "Quelle est la fonction du point-virgule dans une phrase ?",
+        "answers": [
+          "Séparer des éléments d'une liste lorsque ces éléments contiennent déjà des virgules.",
+          "Indiquer la fin de la phrase.",
+          "Séparer deux propositions indépendantes.",
+          "Signaler une question."
+        ],
+        "correctAnswer": "Séparer des éléments d'une liste lorsque ces éléments contiennent déjà des virgules.",
+        "explanation": "Le point-virgule est utilisé pour séparer des éléments d'une liste lorsque ces éléments contiennent déjà des virgules.",
+        "correctMessage": "Correct !",
+        "wrongMessage": "Essaie encore !"
+      }
+    ]
+  }
+  

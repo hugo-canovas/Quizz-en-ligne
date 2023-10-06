@@ -1,0 +1,84 @@
+{
+  "questionnaire": [
+    {
+      "question": "Quel est le nom de l'organe qui pompe le sang dans le corps humain ?",
+      "answers": ["Le cœur", "Le foie", "Les poumons", "Le cerveau"],
+      "correctAnswer": "Le cœur",
+      "explanation": "Le cœur est l'organe responsable de la circulation du sang dans le corps humain.",
+      "correctMessage": "Correct!",
+      "wrongMessage": "Essaie encore!"
+    },
+    {
+      "question": "Quelle partie du corps humain est chargée de la digestion des aliments ?",
+      "answers": ["L'estomac", "Le cerveau", "Les reins", "Le pancréas"],
+      "correctAnswer": "L'estomac",
+      "explanation": "L'estomac est l'organe où commence le processus de digestion des aliments.",
+      "correctMessage": "Correct!",
+      "wrongMessage": "Essaie encore!"
+    },
+    {
+      "question": "Quel gaz les plantes absorbent-elles de l'air pour produire leur propre nourriture lors de la photosynthèse ?",
+      "answers": ["Dioxyde de carbone (CO2)", "Oxygène (O2)", "Azote (N2)", "Hydrogène (H2)"],
+      "correctAnswer": "Dioxyde de carbone (CO2)",
+      "explanation": "Les plantes absorbent le dioxyde de carbone de l'air lors de la photosynthèse.",
+      "correctMessage": "Correct!",
+      "wrongMessage": "Essaie encore!"
+    },
+    {
+      "question": "Quel est le plus grand organe du corps humain ?",
+      "answers": ["La peau", "Le foie", "Le cerveau", "Le cœur"],
+      "correctAnswer": "La peau",
+      "explanation": "La peau est le plus grand organe du corps humain, assurant diverses fonctions, dont la protection.",
+      "correctMessage": "Correct!",
+      "wrongMessage": "Essaie encore!"
+    },
+    {
+      "question": "Quel est le nom du processus par lequel les plantes perdent de l'eau sous forme de vapeur par leurs feuilles ?",
+      "answers": ["La transpiration", "La respiration", "La digestion", "L'absorption"],
+      "correctAnswer": "La transpiration",
+      "explanation": "La transpiration est le processus par lequel les plantes perdent de l'eau sous forme de vapeur par leurs feuilles.",
+      "correctMessage": "Correct!",
+      "wrongMessage": "Essaie encore!"
+    },
+    {
+      "question": "Quel est le nom de l'organe responsable de la production de l'urine dans le corps humain ?",
+      "answers": ["Les reins", "Le foie", "L'estomac", "Le cœur"],
+      "correctAnswer": "Les reins",
+      "explanation": "Les reins sont responsables de la production de l'urine dans le corps humain.",
+      "correctMessage": "Correct!",
+      "wrongMessage": "Essaie encore!"
+    },
+    {
+      "question": "Quelle est la fonction principale des poumons dans le système respiratoire ?",
+      "answers": ["L'échange de gaz", "La digestion", "La filtration du sang", "La régulation de la température corporelle"],
+      "correctAnswer": "L'échange de gaz",
+      "explanation": "Les poumons sont responsables de l'échange de gaz, en particulier de l'oxygène et du dioxyde de carbone.",
+      "correctMessage": "Correct!",
+      "wrongMessage": "Essaie encore!"
+    },
+    {
+      "question": "Quel est le nom du processus par lequel les plantes utilisent la lumière du soleil pour produire de la nourriture ?",
+      "answers": ["La photosynthèse", "La respiration", "La transpiration", "L'absorption"],
+      "correctAnswer": "La photosynthèse",
+      "explanation": "La photosynthèse est le processus par lequel les plantes utilisent la lumière du soleil pour produire de la nourriture.",
+      "correctMessage": "Correct!",
+      "wrongMessage": "Essaie encore!"
+    },
+    {
+      "question": "Quel organe du système circulatoire transporte l'oxygène dans le sang vers les cellules du corps ?",
+      "answers": ["Les globules rouges", "Les poumons", "Le cerveau", "Le foie"],
+      "correctAnswer": "Les globules rouges",
+      "explanation": "Les globules rouges transportent l'oxygène dans le sang vers les cellules du corps.",
+      "correctMessage": "Correct!",
+      "wrongMessage": "Essaie encore!"
+    },
+    {
+      "question": "Quelle est la substance responsable de la couleur des feuilles des plantes ?",
+      "answers": ["La chlorophylle", "La cellulose", "La lignine", "La mélanine"],
+      "correctAnswer": "La chlorophylle",
+      "explanation": "La chlorophylle est la substance responsable de la couleur verte des feuilles des plantes.",
+      "correctMessage": "Correct!",
+      "wrongMessage": "Essaie encore!"
+    }
+  ]
+}

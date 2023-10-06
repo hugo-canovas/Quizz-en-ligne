@@ -1,0 +1,84 @@
+{
+  "questionnaire": [
+    {
+      "question": "Quelle est la somme de 6/8 et 2/8 ?",
+      "answers": ["8/8", "7/8", "1/8", "2/4"],
+      "correctAnswer": "8/8",
+      "explanation": "La somme de 6/8 et 2/8 est 8/8.",
+      "correctMessage": "Correct!",
+      "wrongMessage": "Essaie encore!"
+    },
+    {
+      "question": "Si un rectangle a une longueur de 12 cm et une largeur de 5 cm, quelle est sa superficie ?",
+      "answers": ["60 cm²", "17 cm²", "24 cm²", "30 cm²"],
+      "correctAnswer": "60 cm²",
+      "explanation": "La superficie d'un rectangle est calculée en multipliant longueur par largeur, soit 12 cm * 5 cm = 60 cm².",
+      "correctMessage": "Correct!",
+      "wrongMessage": "Essaie encore!"
+    },
+    {
+      "question": "Résolvez l'équation : 2x - 3 = 9.",
+      "answers": ["x = 6", "x = 9", "x = 12", "x = 5"],
+      "correctAnswer": "x = 6",
+      "explanation": "En ajoutant 3 des deux côtés et en divisant par 2, on trouve que x = 6.",
+      "correctMessage": "Correct!",
+      "wrongMessage": "Essaie encore!"
+    },
+    {
+      "question": "Si un triangle a une base de 8 cm et une hauteur de 6 cm, quelle est sa superficie ?",
+      "answers": ["24 cm²", "14 cm²", "20 cm²", "48 cm²"],
+      "correctAnswer": "24 cm²",
+      "explanation": "La superficie d'un triangle est calculée en multipliant la base par la hauteur et en divisant par 2, soit (8 cm * 6 cm) / 2 = 24 cm².",
+      "correctMessage": "Correct!",
+      "wrongMessage": "Essaie encore!"
+    },
+    {
+      "question": "Quelle est la valeur de 5^3 (5 élevé à la puissance 3) ?",
+      "answers": ["125", "15", "500", "75"],
+      "correctAnswer": "125",
+      "explanation": "5^3 signifie 5 * 5 * 5, ce qui donne 125.",
+      "correctMessage": "Correct!",
+      "wrongMessage": "Essaie encore!"
+    },
+    {
+      "question": "Quelle est la différence entre 9/12 et 3/12 ?",
+      "answers": ["6/12", "3/4", "1/4", "1/12"],
+      "correctAnswer": "6/12",
+      "explanation": "La différence entre 9/12 et 3/12 est 6/12.",
+      "correctMessage": "Correct!",
+      "wrongMessage": "Essaie encore!"
+    },
+    {
+      "question": "Quel est le périmètre d'un carré de côté 7 cm ?",
+      "answers": ["28 cm", "49 cm", "14 cm", "21 cm"],
+      "correctAnswer": "28 cm",
+      "explanation": "Le périmètre d'un carré est calculé en multipliant la longueur du côté par 4, soit 7 cm * 4 = 28 cm.",
+      "correctMessage": "Correct!",
+      "wrongMessage": "Essaie encore!"
+    },
+    {
+      "question": "Résolvez l'équation : 3y + 2 = 11.",
+      "answers": ["y = 3", "y = 9", "y = 2", "y = 4"],
+      "correctAnswer": "y = 3",
+      "explanation": "En soustrayant 2 des deux côtés et en divisant par 3, on trouve que y = 3.",
+      "correctMessage": "Correct!",
+      "wrongMessage": "Essaie encore!"
+    },
+    {
+      "question": "Quelle est la somme de 3/5 et 2/5 ?",
+      "answers": ["5/5", "6/5", "1/5", "4/5"],
+      "correctAnswer": "5/5",
+      "explanation": "La somme de 3/5 et 2/5 est 5/5.",
+      "correctMessage": "Correct!",
+      "wrongMessage": "Essaie encore!"
+    },
+    {
+      "question": "Si un cercle a un rayon de 4 cm, quelle est sa circonférence (approximative) ?",
+      "answers": ["25.12 cm", "12.56 cm", "8 cm", "16 cm"],
+      "correctAnswer": "25.12 cm",
+      "explanation": "La circonférence d'un cercle est calculée en utilisant la formule C = 2πr, où r est le rayon. Pour un rayon de 4 cm, la circonférence est environ 25.12 cm.",
+      "correctMessage": "Correct!",
+      "wrongMessage": "Essaie encore!"
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+    "questionnaire": [
+      {
+        "question": "Quelle est la somme de 25 et 13 ?",
+        "answers": ["38", "42", "30", "28"],
+        "correctAnswer": "38",
+        "explanation": "La somme de 25 et 13 est 38.",
+        "correctMessage": "Correct !",
+        "wrongMessage": "Essaie encore !"
+      },
+      {
+        "question": "Si x = 4 et y = 7, quelle est la valeur de x + y ?",
+        "answers": ["11", "12", "9", "15"],
+        "correctAnswer": "11",
+        "explanation": "Si x = 4 et y = 7, alors x + y = 11.",
+        "correctMessage": "Correct !",
+        "wrongMessage": "Essaie encore !"
+      },
+      {
+        "question": "Combien de côtés a un triangle ?",
+        "answers": ["3", "4", "5", "6"],
+        "correctAnswer": "3",
+        "explanation": "Un triangle a 3 côtés.",
+        "correctMessage": "Correct !",
+        "wrongMessage": "Essaie encore !"
+      },
+      {
+        "question": "Quel est le périmètre d'un rectangle de longueur 8 cm et de largeur 5 cm ?",
+        "answers": ["26 cm", "40 cm", "13 cm", "48 cm"],
+        "correctAnswer": "26 cm",
+        "explanation": "Le périmètre d'un rectangle est la somme de tous ses côtés, soit 2 × (longueur + largeur). Pour ce rectangle, c'est 2 × (8 cm + 5 cm) = 26 cm.",
+        "correctMessage": "Correct !",
+        "wrongMessage": "Essaie encore !"
+      },
+      {
+        "question": "Si 3x = 15, quelle est la valeur de x ?",
+        "answers": ["5", "10", "3", "8"],
+        "correctAnswer": "5",
+        "explanation": "Si 3x = 15, alors x = 15 / 3 = 5.",
+        "correctMessage": "Correct !",
+        "wrongMessage": "Essaie encore !"
+      },
+      {
+        "question": "Quelle est la valeur de π (pi) ?",
+        "answers": ["3,14159265359", "2,71828182846", "1,61803398875", "4,66920160910"],
+        "correctAnswer": "3,14159265359",
+        "explanation": "La valeur de π (pi) est environ 3,14159265359.",
+        "correctMessage": "Correct !",
+        "wrongMessage": "Essaie encore !"
+      },
+      {
+        "question": "Combien de degrés y a-t-il dans un angle droit ?",
+        "answers": ["90 degrés", "180 degrés", "45 degrés", "360 degrés"],
+        "correctAnswer": "90 degrés",
+        "explanation": "Un angle droit a 90 degrés.",
+        "correctMessage": "Correct !",
+        "wrongMessage": "Essaie encore !"
+      },
+      {
+        "question": "Si a = 6 et b = 2, quelle est la valeur de a × b ?",
+        "answers": ["12", "8", "10", "14"],
+        "correctAnswer": "12",
+        "explanation": "La valeur de a × b est 6 × 2 = 12.",
+        "correctMessage": "Correct !",
+        "wrongMessage": "Essaie encore !"
+      },
+      {
+        "question": "Quelle est la racine carrée de 49 ?",
+        "answers": ["7", "6", "5", "8"],
+        "correctAnswer": "7",
+        "explanation": "La racine carrée de 49 est 7, car 7 × 7 = 49.",
+        "correctMessage": "Correct !",
+        "wrongMessage": "Essaie encore !"
+      },
+      {
+        "question": "Si un rectangle a une longueur de 10 cm et une largeur de 4 cm, quelle est sa superficie ?",
+        "answers": ["40 cm²", "20 cm²", "14 cm²", "36 cm²"],
+        "correctAnswer": "40 cm²",
+        "explanation": "La superficie d'un rectangle est le produit de sa longueur et de sa largeur, soit 10 cm × 4 cm = 40 cm².",
+        "correctMessage": "Correct !",
+        "wrongMessage": "Essaie encore !"
+      }
+    ]
+  }
+  

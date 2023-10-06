@@ -1,0 +1,84 @@
+{
+  "questionnaire": [
+    {
+      "question": "Quel est le nom de l'auteur de 'Le Petit Prince' ?",
+      "answers": ["Antoine de Saint-Exupéry", "Victor Hugo", "Jules Verne", "Marcel Proust"],
+      "correctAnswer": "Antoine de Saint-Exupéry",
+      "explanation": "Antoine de Saint-Exupéry est l'auteur de 'Le Petit Prince'.",
+      "correctMessage": "Correct !",
+      "wrongMessage": "Essaie encore !"
+    },
+    {
+      "question": "Dans quelle œuvre littéraire peut-on trouver le personnage de Jean Valjean ?",
+      "answers": ["Les Misérables", "Le Comte de Monte-Cristo", "Madame Bovary", "Le Rouge et le Noir"],
+      "correctAnswer": "Les Misérables",
+      "explanation": "Le personnage de Jean Valjean apparaît dans 'Les Misérables'.",
+      "correctMessage": "Correct !",
+      "wrongMessage": "Essaie encore !"
+    },
+    {
+      "question": "Quel est le nom du héros de 'L'Ile au trésor' de Robert Louis Stevenson ?",
+      "answers": ["Jim Hawkins", "Robin des Bois", "Tarzan", "Robinson Crusoé"],
+      "correctAnswer": "Jim Hawkins",
+      "explanation": "Jim Hawkins est le héros de 'L'Ile au trésor' de Robert Louis Stevenson.",
+      "correctMessage": "Correct !",
+      "wrongMessage": "Essaie encore !"
+    },
+    {
+      "question": "Quel roman de Mark Twain raconte les aventures de Tom Sawyer ?",
+      "answers": ["Les Aventures de Tom Sawyer", "Le Prince et le Pauvre", "Les Aventures de Huckleberry Finn", "Le Tour du monde en quatre-vingts jours"],
+      "correctAnswer": "Les Aventures de Tom Sawyer",
+      "explanation": "Les Aventures de Tom Sawyer racontent les aventures de Tom Sawyer.",
+      "correctMessage": "Correct !",
+      "wrongMessage": "Essaie encore !"
+    },
+    {
+      "question": "Quel écrivain français est l'auteur de 'Le Petit Nicolas' ?",
+      "answers": ["René Goscinny", "Antoine de Saint-Exupéry", "Roald Dahl", "J.K. Rowling"],
+      "correctAnswer": "René Goscinny",
+      "explanation": "René Goscinny est l'auteur de 'Le Petit Nicolas'.",
+      "correctMessage": "Correct !",
+      "wrongMessage": "Essaie encore !"
+    },
+    {
+      "question": "Qui est l'auteur de 'L'Odyssée', l'un des plus anciens récits de l'Antiquité grecque ?",
+      "answers": ["Homère", "Virgile", "Eschyle", "Socrate"],
+      "correctAnswer": "Homère",
+      "explanation": "'L'Odyssée' a été écrit par Homère.",
+      "correctMessage": "Correct !",
+      "wrongMessage": "Essaie encore !"
+    },
+    {
+      "question": "Quel est le nom du personnage principal dans 'Le Malade Imaginaire' de Molière ?",
+      "answers": ["Argan", "Tartuffe", "Alceste", "Harpagon"],
+      "correctAnswer": "Argan",
+      "explanation": "Argan est le personnage principal dans 'Le Malade Imaginaire' de Molière.",
+      "correctMessage": "Correct !",
+      "wrongMessage": "Essaie encore !"
+    },
+    {
+      "question": "Qui est l'auteur du roman 'Vingt mille lieues sous les mers' ?",
+      "answers": ["Jules Verne", "Émile Zola", "Gustave Flaubert", "Guy de Maupassant"],
+      "correctAnswer": "Jules Verne",
+      "explanation": "'Vingt mille lieues sous les mers' a été écrit par Jules Verne.",
+      "correctMessage": "Correct !",
+      "wrongMessage": "Essaie encore !"
+    },
+    {
+      "question": "Quel roman d'Alexandre Dumas raconte les aventures d'Edmond Dantès ?",
+      "answers": ["Le Comte de Monte-Cristo", "Les Trois Mousquetaires", "Le Vicomte de Bragelonne", "La Tulipe noire"],
+      "correctAnswer": "Le Comte de Monte-Cristo",
+      "explanation": "Le Comte de Monte-Cristo raconte les aventures d'Edmond Dantès.",
+      "correctMessage": "Correct !",
+      "wrongMessage": "Essaie encore !"
+    },
+    {
+      "question": "Dans quelle pièce de théâtre de William Shakespeare trouve-t-on le personnage de Roméo ?",
+      "answers": ["Roméo et Juliette", "Hamlet", "Macbeth", "Othello"],
+      "correctAnswer": "Roméo et Juliette",
+      "explanation": "Le personnage de Roméo se trouve dans 'Roméo et Juliette' de William Shakespeare.",
+      "correctMessage": "Correct !",
+      "wrongMessage": "Essaie encore !"
+    }
+  ]
+}

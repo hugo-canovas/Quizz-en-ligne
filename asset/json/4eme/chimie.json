@@ -1,64 +1,85 @@
 {
-    "question": {
-        "Quel est le symbole chimique de l'oxygène ?": {
-            "1": "O",
-            "2": "H",
-            "3": "C",
-            "4": "N"
-        },
-        "Quel est le gaz le plus abondant dans l'atmosphère terrestre ?": {
-            "1": "Azote (N)",
-            "2": "Oxygène (O)",
-            "3": "Dioxyde de carbone (CO2)",
-            "4": "Hydrogène (H)"
-        },
-        "Quelle est la formule chimique de l'eau ?": {
-            "1": "H2O",
-            "2": "CO2",
-            "3": "NH3",
-            "4": "CH4"
-        },
-        "Quel élément chimique est essentiel à la formation des os et des dents ?": {
-            "1": "Calcium (Ca)",
-            "2": "Fer (Fe)",
-            "3": "Sodium (Na)",
-            "4": "Potassium (K)"
-        },
-        "Quel est le nom de la réaction chimique qui dégage de la chaleur et de la lumière ?": {
-            "1": "La combustion",
-            "2": "L'évaporation",
-            "3": "La photosynthèse",
-            "4": "La décomposition"
-        },
-        "Quel gaz est généralement utilisé pour éteindre les incendies ?": {
-            "1": "Le dioxyde de carbone (CO2)",
-            "2": "L'oxygène (O)",
-            "3": "L'azote (N)",
-            "4": "Le méthane (CH4)"
-        },
-        "Quel est le pH neutre dans une échelle de pH ?": {
-            "1": "7",
-            "2": "0",
-            "3": "14",
-            "4": "1"
-        },
-        "Quel est le nom du processus chimique par lequel les plantes convertissent la lumière en énergie ?": {
-            "1": "La photosynthèse",
-            "2": "La respiration",
-            "3": "La fermentation",
-            "4": "La décomposition"
-        },
-        "Quel est le gaz qui donne la couleur bleue au gaz de ville ?": {
-            "1": "Le méthane (CH4)",
-            "2": "Le propane (C3H8)",
-            "3": "Le butane (C4H10)",
-            "4": "Le dihydrogène (H2)"
-        },
-        "Quel élément chimique a le numéro atomique 6 ?": {
-            "1": "Le carbone (C)",
-            "2": "L'azote (N)",
-            "3": "L'oxygène (O)",
-            "4": "L'hydrogène (H)"
-        }
-    }
-}
+    "questionnaire": [
+      {
+        "question": "Quel est le symbole chimique de l'oxygène ?",
+        "answers": ["O", "H", "C", "N"],
+        "correctAnswer": "O",
+        "explanation": "O est le symbole chimique de l'oxygène.",
+        "correctMessage": "Bien joué !",
+        "wrongMessage": "Continuez d'essayer !"
+      },
+      {
+        "question": "Quel est le gaz le plus abondant dans l'atmosphère terrestre ?",
+        "answers": ["Azote (N)", "Oxygène (O)", "Dioxyde de carbone (CO2)", "Hydrogène (H)"],
+        "correctAnswer": "Azote (N)",
+        "explanation": "L'azote est le gaz le plus abondant dans l'atmosphère terrestre.",
+        "correctMessage": "Correct !",
+        "wrongMessage": "Continuez d'essayer !"
+      },
+      {
+        "question": "Quelle est la formule chimique de l'eau ?",
+        "answers": ["H2O", "CO2", "NH3", "CH4"],
+        "correctAnswer": "H2O",
+        "explanation": "H2O est la formule chimique de l'eau.",
+        "correctMessage": "Bien joué !",
+        "wrongMessage": "Continuez d'essayer !"
+      },
+      {
+        "question": "Quel élément chimique est essentiel à la formation des os et des dents ?",
+        "answers": ["Calcium (Ca)", "Fer (Fe)", "Sodium (Na)", "Potassium (K)"],
+        "correctAnswer": "Calcium (Ca)",
+        "explanation": "Le calcium est essentiel à la formation des os et des dents.",
+        "correctMessage": "Correct !",
+        "wrongMessage": "Continuez d'essayer !"
+      },
+      {
+        "question": "Quel est le nom de la réaction chimique qui dégage de la chaleur et de la lumière ?",
+        "answers": ["La combustion", "L'évaporation", "La photosynthèse", "La décomposition"],
+        "correctAnswer": "La combustion",
+        "explanation": "La combustion est la réaction chimique qui dégage de la chaleur et de la lumière.",
+        "correctMessage": "Bien joué !",
+        "wrongMessage": "Continuez d'essayer !"
+      },
+      {
+        "question": "Quel gaz est généralement utilisé pour éteindre les incendies ?",
+        "answers": ["Le dioxyde de carbone (CO2)", "L'oxygène (O)", "L'azote (N)", "Le méthane (CH4)"],
+        "correctAnswer": "Le dioxyde de carbone (CO2)",
+        "explanation": "Le dioxyde de carbone est généralement utilisé pour éteindre les incendies.",
+        "correctMessage": "Correct !",
+        "wrongMessage": "Continuez d'essayer !"
+      },
+      {
+        "question": "Quel est le pH neutre dans une échelle de pH ?",
+        "answers": ["7", "0", "14", "1"],
+        "correctAnswer": "7",
+        "explanation": "7 est le pH neutre dans une échelle de pH.",
+        "correctMessage": "Bien joué !",
+        "wrongMessage": "Continuez d'essayer !"
+      },
+      {
+        "question": "Quel est le nom du processus chimique par lequel les plantes convertissent la lumière en énergie ?",
+        "answers": ["La photosynthèse", "La respiration", "La fermentation", "La décomposition"],
+        "correctAnswer": "La photosynthèse",
+        "explanation": "La photosynthèse est le processus par lequel les plantes convertissent la lumière en énergie.",
+        "correctMessage": "Correct !",
+        "wrongMessage": "Continuez d'essayer !"
+      },
+      {
+        "question": "Quel est le gaz qui donne la couleur bleue au gaz de ville ?",
+        "answers": ["Le méthane (CH4)", "Le propane (C3H8)", "Le butane (C4H10)", "Le dihydrogène (H2)"],
+        "correctAnswer": "Le méthane (CH4)",
+        "explanation": "Le méthane est le gaz qui donne la couleur bleue au gaz de ville.",
+        "correctMessage": "Bien joué !",
+        "wrongMessage": "Continuez d'essayer !"
+      },
+      {
+        "question": "Quel élément chimique a le numéro atomique 6 ?",
+        "answers": ["Le carbone (C)", "L'azote (N)", "L'oxygène (O)", "L'hydrogène (H)"],
+        "correctAnswer": "Le carbone (C)",
+        "explanation": "Le carbone a le numéro atomique 6.",
+        "correctMessage": "Correct !",
+        "wrongMessage": "Continuez d'essayer !"
+      }
+    ]
+  }
+  

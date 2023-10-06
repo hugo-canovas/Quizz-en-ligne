@@ -1,0 +1,84 @@
+{
+  "questionnaire": [
+    {
+      "question": "What is the capital of the United States?",
+      "answers": ["Washington, D.C.", "New York City", "Los Angeles", "Chicago"],
+      "correctAnswer": "Washington, D.C.",
+      "explanation": "Washington, D.C. is the capital of the United States.",
+      "correctMessage": "Correct!",
+      "wrongMessage": "Try again!"
+    },
+    {
+      "question": "How many continents are there in the world?",
+      "answers": ["7", "5", "6", "8"],
+      "correctAnswer": "7",
+      "explanation": "There are seven continents in the world.",
+      "correctMessage": "Correct!",
+      "wrongMessage": "Try again!"
+    },
+    {
+      "question": "What is the largest planet in our solar system?",
+      "answers": ["Jupiter", "Earth", "Mars", "Saturn"],
+      "correctAnswer": "Jupiter",
+      "explanation": "Jupiter is the largest planet in our solar system.",
+      "correctMessage": "Correct!",
+      "wrongMessage": "Try again!"
+    },
+    {
+      "question": "Which famous scientist is known for the theory of relativity?",
+      "answers": ["Albert Einstein", "Isaac Newton", "Galileo Galilei", "Charles Darwin"],
+      "correctAnswer": "Albert Einstein",
+      "explanation": "Albert Einstein is known for the theory of relativity.",
+      "correctMessage": "Correct!",
+      "wrongMessage": "Try again!"
+    },
+    {
+      "question": "What is the tallest mountain in the world?",
+      "answers": ["Mount Everest", "K2", "Makalu", "Annapurna"],
+      "correctAnswer": "Mount Everest",
+      "explanation": "Mount Everest is the tallest mountain in the world.",
+      "correctMessage": "Correct!",
+      "wrongMessage": "Try again!"
+    },
+    {
+      "question": "Which gas do plants absorb from the atmosphere during photosynthesis?",
+      "answers": ["Carbon dioxide (CO2)", "Oxygen (O2)", "Nitrogen (N2)", "Methane (CH4)"],
+      "correctAnswer": "Carbon dioxide (CO2)",
+      "explanation": "During photosynthesis, plants absorb carbon dioxide from the atmosphere.",
+      "correctMessage": "Correct!",
+      "wrongMessage": "Try again!"
+    },
+    {
+      "question": "What is the largest ocean on Earth?",
+      "answers": ["Pacific Ocean", "Atlantic Ocean", "Indian Ocean", "Arctic Ocean"],
+      "correctAnswer": "Pacific Ocean",
+      "explanation": "The Pacific Ocean is the largest ocean on Earth.",
+      "correctMessage": "Correct!",
+      "wrongMessage": "Try again!"
+    },
+    {
+      "question": "Who wrote the play 'Romeo and Juliet'?",
+      "answers": ["William Shakespeare", "Charles Dickens", "Jane Austen", "Mark Twain"],
+      "correctAnswer": "William Shakespeare",
+      "explanation": "William Shakespeare is the author of the play 'Romeo and Juliet'.",
+      "correctMessage": "Correct!",
+      "wrongMessage": "Try again!"
+    },
+    {
+      "question": "What is the main gas that makes up the Earth's atmosphere?",
+      "answers": ["Nitrogen (N2)", "Oxygen (O2)", "Carbon dioxide (CO2)", "Argon (Ar)"],
+      "correctAnswer": "Nitrogen (N2)",
+      "explanation": "Nitrogen is the main gas in Earth's atmosphere.",
+      "correctMessage": "Correct!",
+      "wrongMessage": "Try again!"
+    },
+    {
+      "question": "Which planet is often called the 'Red Planet'?",
+      "answers": ["Mars", "Venus", "Jupiter", "Saturn"],
+      "correctAnswer": "Mars",
+      "explanation": "Mars is often called the 'Red Planet'.",
+      "correctMessage": "Correct!",
+      "wrongMessage": "Try again!"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "questionnaire": [
+    {
+      "question": "Quelle guerre a eu lieu entre 1939 et 1945, impliquant de nombreux pays à travers le monde ?",
+      "answers": ["La Seconde Guerre mondiale", "La Première Guerre mondiale", "La Guerre froide", "La Guerre du Vietnam"],
+      "correctAnswer": "La Seconde Guerre mondiale",
+      "explanation": "La Seconde Guerre mondiale a eu lieu entre 1939 et 1945, impliquant de nombreux pays à travers le monde.",
+      "correctMessage": "Correct !",
+      "wrongMessage": "Essaie encore !"
+    },
+    {
+      "question": "Qui était le président des États-Unis pendant la Guerre de Sécession ?",
+      "answers": ["Abraham Lincoln", "George Washington", "Thomas Jefferson", "John F. Kennedy"],
+      "correctAnswer": "Abraham Lincoln",
+      "explanation": "Abraham Lincoln était le président des États-Unis pendant la Guerre de Sécession.",
+      "correctMessage": "Correct !",
+      "wrongMessage": "Essaie encore !"
+    },
+    {
+      "question": "Quel explorateur italien est célèbre pour avoir découvert l'Amérique en 1492 ?",
+      "answers": ["Christophe Colomb", "Marco Polo", "Amerigo Vespucci", "Ferdinand Magellan"],
+      "correctAnswer": "Christophe Colomb",
+      "explanation": "Christophe Colomb est célèbre pour avoir découvert l'Amérique en 1492.",
+      "correctMessage": "Correct !",
+      "wrongMessage": "Essaie encore !"
+    },
+    {
+      "question": "Quelle période de l'histoire est souvent appelée 'l'Âge des Ténèbres' en Europe ?",
+      "answers": ["Le Moyen Âge", "La Renaissance", "L'Antiquité", "L'Âge Moderne"],
+      "correctAnswer": "Le Moyen Âge",
+      "explanation": "Le Moyen Âge est souvent appelé 'l'Âge des Ténèbres' en Europe.",
+      "correctMessage": "Correct !",
+      "wrongMessage": "Essaie encore !"
+    },
+    {
+      "question": "Qui était le roi de France pendant la Révolution française et a été exécuté par la guillotine ?",
+      "answers": ["Louis XVI", "Napoléon Bonaparte", "Charles de Gaulle", "Louis XIV"],
+      "correctAnswer": "Louis XVI",
+      "explanation": "Louis XVI était le roi de France pendant la Révolution française et a été exécuté par la guillotine.",
+      "correctMessage": "Correct !",
+      "wrongMessage": "Essaie encore !"
+    },
+    {
+      "question": "Dans quelle guerre les États-Unis ont-ils combattu contre le Vietnam dans les années 1960 et 1970 ?",
+      "answers": ["La Guerre du Vietnam", "La Guerre de Corée", "La Guerre du Golfe", "La Guerre d'Irak"],
+      "correctAnswer": "La Guerre du Vietnam",
+      "explanation": "Les États-Unis ont combattu contre le Vietnam dans la Guerre du Vietnam dans les années 1960 et 1970.",
+      "correctMessage": "Correct !",
+      "wrongMessage": "Essaie encore !"
+    },
+    {
+      "question": "Quel événement majeur a eu lieu en 1776 aux États-Unis et a conduit à la déclaration d'indépendance ?",
+      "answers": ["La Révolution américaine", "La Guerre de Sécession", "La Guerre d'Indépendance", "La Révolution française"],
+      "correctAnswer": "La Révolution américaine",
+      "explanation": "La Révolution américaine a conduit à la déclaration d'indépendance en 1776 aux États-Unis.",
+      "correctMessage": "Correct !",
+      "wrongMessage": "Essaie encore !"
+    },
+    {
+      "question": "Qui était le dirigeant de l'Union soviétique pendant la majeure partie de la Guerre froide ?",
+      "answers": ["Joseph Staline", "Vladimir Poutine", "Leon Trotsky", "Mikhail Gorbatchev"],
+      "correctAnswer": "Joseph Staline",
+      "explanation": "Joseph Staline était le dirigeant de l'Union soviétique pendant la majeure partie de la Guerre froide.",
+      "correctMessage": "Correct !",
+      "wrongMessage": "Essaie encore !"
+    },
+    {
+      "question": "Dans quel pays européen a eu lieu la Première Guerre mondiale ?",
+      "answers": ["En Europe", "En Asie", "En Amérique", "En Afrique"],
+      "correctAnswer": "En Europe",
+      "explanation": "La Première Guerre mondiale a eu lieu en Europe.",
+      "correctMessage": "Correct !",
+      "wrongMessage": "Essaie encore !"
+    },
+    {
+      "question": "Quelle reine d'Angleterre est connue pour son long règne au XIXe siècle et l'ère qui porte son nom ?",
+      "answers": ["Reine Victoria", "Reine Elizabeth I", "Reine Marie-Antoinette", "Reine Anne"],
+      "correctAnswer": "Reine Victoria",
+      "explanation": "Reine Victoria est connue pour son long règne au XIXe siècle et l'ère qui porte son nom.",
+      "correctMessage": "Correct !",
+      "wrongMessage": "Essaie encore !"
+    }
+  ]
+}

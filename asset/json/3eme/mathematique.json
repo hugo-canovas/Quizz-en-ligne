@@ -1,0 +1,85 @@
+{
+    "questionnaire": [
+      {
+        "question": "Quelle est la formule de l'aire d'un rectangle ?",
+        "answers": ["Aire = Longueur x Largeur", "Aire = Côté x Côté", "Aire = 2 x (Longueur + Largeur)", "Aire = Pi x Rayon^2"],
+        "correctAnswer": "Aire = Longueur x Largeur",
+        "explanation": "L'aire d'un rectangle se calcule en multipliant la longueur par la largeur.",
+        "correctMessage": "Bravo!",
+        "wrongMessage": "Continuez d'essayer!"
+      },
+      {
+        "question": "Quelle est la valeur de Pi (π) ?",
+        "answers": ["3.14159265359", "2.71828182846", "1.61803398875", "4.66920160910"],
+        "correctAnswer": "3.14159265359",
+        "explanation": "La valeur de Pi (π) est une constante qui représente le rapport entre la circonférence d'un cercle et son diamètre.",
+        "correctMessage": "Correct!",
+        "wrongMessage": "Keep trying!"
+      },
+      {
+        "question": "Quelle est la formule de la circonférence d'un cercle ?",
+        "answers": ["Circonférence = 2 x Pi x Rayon", "Circonférence = Pi x Rayon^2", "Circonférence = Longueur x Largeur", "Circonférence = Côté x Côté"],
+        "correctAnswer": "Circonférence = 2 x Pi x Rayon",
+        "explanation": "La circonférence d'un cercle se calcule en multipliant le diamètre par Pi (π).",
+        "correctMessage": "Bien joué!",
+        "wrongMessage": "Continuez d'essayer!"
+      },
+      {
+        "question": "Combien de degrés a un angle droit ?",
+        "answers": ["90 degrés", "180 degrés", "45 degrés", "360 degrés"],
+        "correctAnswer": "90 degrés",
+        "explanation": "Un angle droit mesure 90 degrés.",
+        "correctMessage": "Bravo!",
+        "wrongMessage": "Continuez d'essayer!"
+      },
+      {
+        "question": "Quelle est la formule de la surface d'un triangle ?",
+        "answers": ["Surface = (Base x Hauteur) / 2", "Surface = Longueur x Largeur", "Surface = Côté x Côté", "Surface = Pi x Rayon^2"],
+        "correctAnswer": "Surface = (Base x Hauteur) / 2",
+        "explanation": "La surface d'un triangle se calcule en multipliant la base par la hauteur et en divisant le résultat par 2.",
+        "correctMessage": "Bien joué!",
+        "wrongMessage": "Continuez d'essayer!"
+      },
+      {
+        "question": "Quel est le résultat de 7 x 8 ?",
+        "answers": ["56", "49", "64", "42"],
+        "correctAnswer": "56",
+        "explanation": "7 multiplié par 8 égale 56.",
+        "correctMessage": "Correct!",
+        "wrongMessage": "Keep trying!"
+      },
+      {
+        "question": "Combien de côtés a un pentagone ?",
+        "answers": ["5 côtés", "6 côtés", "4 côtés", "7 côtés"],
+        "correctAnswer": "5 côtés",
+        "explanation": "Un pentagone a 5 côtés.",
+        "correctMessage": "Bravo!",
+        "wrongMessage": "Continuez d'essayer!"
+      },
+      {
+        "question": "Quelle est la formule de la surface d'un cercle ?",
+        "answers": ["Surface = Pi x Rayon^2", "Surface = 2 x Pi x Rayon", "Surface = Longueur x Largeur", "Surface = Côté x Côté"],
+        "correctAnswer": "Surface = Pi x Rayon^2",
+        "explanation": "La surface d'un cercle se calcule en multipliant Pi (π) par le carré du rayon.",
+        "correctMessage": "Bien joué!",
+        "wrongMessage": "Continuez d'essayer!"
+      },
+      {
+        "question": "Quelle est la valeur de la racine carrée de 25 ?",
+        "answers": ["5", "6", "4", "7"],
+        "correctAnswer": "5",
+        "explanation": "La racine carrée de 25 est 5 car 5 multiplié par lui-même donne 25.",
+        "correctMessage": "Bravo!",
+        "wrongMessage": "Continuez d'essayer!"
+      },
+      {
+        "question": "Quelle est la formule de la volume d'un cube ?",
+        "answers": ["Volume = Côté^3", "Volume = Longueur x Largeur x Hauteur", "Volume = Pi x Rayon^2 x Hauteur", "Volume = 2 x (Longueur + Largeur)"],
+        "correctAnswer": "Volume = Côté^3",
+        "explanation": "Le volume d'un cube se calcule en élevant le côté au cube.",
+        "correctMessage": "Bien joué!",
+        "wrongMessage": "Continuez d'essayer!"
+      }
+    ]
+  }
+  

@@ -1,64 +1,85 @@
 {
-    "question": {
-        "Quel est l'organe principal du système respiratoire humain ?": {
-            "1": "Les poumons",
-            "2": "Le cœur",
-            "3": "Le foie",
-            "4": "L'estomac"
-        },
-        "Quel processus permet aux plantes de fabriquer leur propre nourriture en utilisant la lumière du soleil ?": {
-            "1": "La photosynthèse",
-            "2": "La respiration cellulaire",
-            "3": "La fermentation",
-            "4": "La digestion"
-        },
-        "Quel est le rôle principal des globules rouges dans le sang ?": {
-            "1": "Transporter l'oxygène",
-            "2": "Combattre les infections",
-            "3": "Transporter les nutriments",
-            "4": "Produire des anticorps"
-        },
-        "Quel est l'organe chargé de la digestion chimique des aliments dans le système digestif humain ?": {
-            "1": "L'estomac",
-            "2": "Le côlon",
-            "3": "Le foie",
-            "4": "Le pancréas"
-        },
-        "Quel est le nom de la couche externe solide de la Terre ?": {
-            "1": "La croûte terrestre",
-            "2": "Le manteau",
-            "3": "Le noyau",
-            "4": "L'asthénosphère"
-        },
-        "Quelle partie de la fleur contient les organes reproducteurs mâles ?": {
-            "1": "Les étamines",
-            "2": "Le pistil",
-            "3": "Le pédoncule",
-            "4": "Les sépales"
-        },
-        "Quel est le plus grand organe du corps humain ?": {
-            "1": "La peau",
-            "2": "Le foie",
-            "3": "Le cerveau",
-            "4": "Le cœur"
-        },
-        "Quel gaz est essentiel à la photosynthèse des plantes ?": {
-            "1": "Le dioxyde de carbone (CO2)",
-            "2": "L'oxygène (O2)",
-            "3": "L'azote (N2)",
-            "4": "Le méthane (CH4)"
-        },
-        "Quel est le nom du processus par lequel les cellules du corps humain se divisent pour former de nouvelles cellules ?": {
-            "1": "La mitose",
-            "2": "La méiose",
-            "3": "La fécondation",
-            "4": "La diffusion"
-        },
-        "Quel organe est responsable de la filtration du sang et de l'élimination des déchets sous forme d'urine ?": {
-            "1": "Les reins",
-            "2": "Le foie",
-            "3": "Le cœur",
-            "4": "L'estomac"
-        }
-    }
-}
+    "questionnaire": [
+      {
+        "question": "Quel est l'organe principal du système respiratoire humain ?",
+        "answers": ["Les poumons", "Le cœur", "Le foie", "L'estomac"],
+        "correctAnswer": "Les poumons",
+        "explanation": "Les poumons sont l'organe principal du système respiratoire humain, responsables de la respiration.",
+        "correctMessage": "Correct !",
+        "wrongMessage": "Essaie encore !"
+      },
+      {
+        "question": "Quel processus permet aux plantes de fabriquer leur propre nourriture en utilisant la lumière du soleil ?",
+        "answers": ["La photosynthèse", "La respiration cellulaire", "La fermentation", "La digestion"],
+        "correctAnswer": "La photosynthèse",
+        "explanation": "La photosynthèse permet aux plantes de fabriquer leur propre nourriture en utilisant la lumière du soleil pour convertir le dioxyde de carbone et l'eau en glucose.",
+        "correctMessage": "Correct !",
+        "wrongMessage": "Essaie encore !"
+      },
+      {
+        "question": "Quel est le rôle principal des globules rouges dans le sang ?",
+        "answers": ["Transporter l'oxygène", "Combattre les infections", "Transporter les nutriments", "Produire des anticorps"],
+        "correctAnswer": "Transporter l'oxygène",
+        "explanation": "Les globules rouges transportent l'oxygène des poumons vers les cellules du corps.",
+        "correctMessage": "Correct !",
+        "wrongMessage": "Essaie encore !"
+      },
+      {
+        "question": "Quel est l'organe chargé de la digestion chimique des aliments dans le système digestif humain ?",
+        "answers": ["L'estomac", "Le côlon", "Le foie", "Le pancréas"],
+        "correctAnswer": "L'estomac",
+        "explanation": "L'estomac est responsable de la digestion chimique des aliments grâce à ses sucs gastriques.",
+        "correctMessage": "Correct !",
+        "wrongMessage": "Essaie encore !"
+      },
+      {
+        "question": "Quel est le nom de la couche externe solide de la Terre ?",
+        "answers": ["La croûte terrestre", "Le manteau", "Le noyau", "L'asthénosphère"],
+        "correctAnswer": "La croûte terrestre",
+        "explanation": "La croûte terrestre est la couche externe solide de la Terre.",
+        "correctMessage": "Correct !",
+        "wrongMessage": "Essaie encore !"
+      },
+      {
+        "question": "Quelle partie de la fleur contient les organes reproducteurs mâles ?",
+        "answers": ["Les étamines", "Le pistil", "Le pédoncule", "Les sépales"],
+        "correctAnswer": "Les étamines",
+        "explanation": "Les étamines sont les organes reproducteurs mâles des fleurs.",
+        "correctMessage": "Correct !",
+        "wrongMessage": "Essaie encore !"
+      },
+      {
+        "question": "Quel est le plus grand organe du corps humain ?",
+        "answers": ["La peau", "Le foie", "Le cerveau", "Le cœur"],
+        "correctAnswer": "La peau",
+        "explanation": "La peau est le plus grand organe du corps humain, assurant diverses fonctions essentielles.",
+        "correctMessage": "Correct !",
+        "wrongMessage": "Essaie encore !"
+      },
+      {
+        "question": "Quel gaz est essentiel à la photosynthèse des plantes ?",
+        "answers": ["Le dioxyde de carbone (CO2)", "L'oxygène (O2)", "L'azote (N2)", "Le méthane (CH4)"],
+        "correctAnswer": "Le dioxyde de carbone (CO2)",
+        "explanation": "Le dioxyde de carbone est essentiel à la photosynthèse des plantes, où il est converti en glucose.",
+        "correctMessage": "Correct !",
+        "wrongMessage": "Essaie encore !"
+      },
+      {
+        "question": "Quel est le nom du processus par lequel les cellules du corps humain se divisent pour former de nouvelles cellules ?",
+        "answers": ["La mitose", "La méiose", "La fécondation", "La diffusion"],
+        "correctAnswer": "La mitose",
+        "explanation": "La mitose est le processus de division cellulaire dans lequel une cellule mère donne naissance à deux cellules filles identiques.",
+        "correctMessage": "Correct !",
+        "wrongMessage": "Essaie encore !"
+      },
+      {
+        "question": "Quel organe est responsable de la filtration du sang et de l'élimination des déchets sous forme d'urine ?",
+        "answers": ["Les reins", "Le foie", "Le cœur", "L'estomac"],
+        "correctAnswer": "Les reins",
+        "explanation": "Les reins filtrent le sang et éliminent les déchets sous forme d'urine.",
+        "correctMessage": "Correct !",
+        "wrongMessage": "Essaie encore !"
+      }
+    ]
+  }
+  

@@ -1,0 +1,84 @@
+{
+  "questionnaire": [
+    {
+      "question": "Quel est le nom du gaz que nous respirons majoritairement dans l'atmosphère ?",
+      "answers": ["L'oxygène", "Le dioxyde de carbone", "L'azote", "Le méthane"],
+      "correctAnswer": "L'oxygène",
+      "explanation": "L'oxygène est le gaz que nous respirons majoritairement dans l'atmosphère.",
+      "correctMessage": "Correct !",
+      "wrongMessage": "Essaie encore !"
+    },
+    {
+      "question": "Quelle est la principale fonction du cœur dans le corps humain ?",
+      "answers": ["Pomper le sang", "Digestion des aliments", "Respiration", "Élimination des déchets"],
+      "correctAnswer": "Pomper le sang",
+      "explanation": "La principale fonction du cœur est de pomper le sang dans le corps.",
+      "correctMessage": "Correct !",
+      "wrongMessage": "Essaie encore !"
+    },
+    {
+      "question": "Quel est le plus grand organe du corps humain ?",
+      "answers": ["La peau", "Le cerveau", "Le cœur", "Les poumons"],
+      "correctAnswer": "La peau",
+      "explanation": "La peau est le plus grand organe du corps humain.",
+      "correctMessage": "Correct !",
+      "wrongMessage": "Essaie encore !"
+    },
+    {
+      "question": "Quel est l'organe responsable de la production d'insuline dans le corps humain ?",
+      "answers": ["Le pancréas", "Le foie", "Les reins", "Le cerveau"],
+      "correctAnswer": "Le pancréas",
+      "explanation": "Le pancréas est l'organe responsable de la production d'insuline.",
+      "correctMessage": "Correct !",
+      "wrongMessage": "Essaie encore !"
+    },
+    {
+      "question": "Quel est le processus par lequel les plantes convertissent la lumière du soleil en énergie chimique ?",
+      "answers": ["La photosynthèse", "La respiration", "La fermentation", "La digestion"],
+      "correctAnswer": "La photosynthèse",
+      "explanation": "La photosynthèse est le processus par lequel les plantes convertissent la lumière du soleil en énergie chimique.",
+      "correctMessage": "Correct !",
+      "wrongMessage": "Essaie encore !"
+    },
+    {
+      "question": "Quel est l'organe de l'appareil digestif responsable de la digestion des aliments ?",
+      "answers": ["L'estomac", "Les intestins", "Le foie", "Le cerveau"],
+      "correctAnswer": "L'estomac",
+      "explanation": "L'estomac est l'organe de l'appareil digestif responsable de la digestion des aliments.",
+      "correctMessage": "Correct !",
+      "wrongMessage": "Essaie encore !"
+    },
+    {
+      "question": "Quel est le nom du processus par lequel les êtres vivants se reproduisent et transmettent leurs caractéristiques génétiques à leur progéniture ?",
+      "answers": ["La reproduction", "La croissance", "L'alimentation", "La respiration"],
+      "correctAnswer": "La reproduction",
+      "explanation": "La reproduction est le processus par lequel les êtres vivants se reproduisent et transmettent leurs caractéristiques génétiques à leur progéniture.",
+      "correctMessage": "Correct !",
+      "wrongMessage": "Essaie encore !"
+    },
+    {
+      "question": "Quel est le nom de l'organe du système respiratoire où les échanges gazeux se produisent entre l'oxygène et le sang ?",
+      "answers": ["Les poumons", "Le nez", "La trachée", "Les bronches"],
+      "correctAnswer": "Les poumons",
+      "explanation": "Les poumons sont l'organe du système respiratoire où les échanges gazeux se produisent entre l'oxygène et le sang.",
+      "correctMessage": "Correct !",
+      "wrongMessage": "Essaie encore !"
+    },
+    {
+      "question": "Quelle est la plus petite unité de base de la vie ?",
+      "answers": ["La cellule", "L'organe", "Le tissu", "Le système"],
+      "correctAnswer": "La cellule",
+      "explanation": "La cellule est la plus petite unité de base de la vie.",
+      "correctMessage": "Correct !",
+      "wrongMessage": "Essaie encore !"
+    },
+    {
+      "question": "Quel est le processus par lequel les plantes perdent de l'eau sous forme de vapeur par leurs feuilles ?",
+      "answers": ["La transpiration", "La digestion", "La respiration", "L'excrétion"],
+      "correctAnswer": "La transpiration",
+      "explanation": "La transpiration est le processus par lequel les plantes perdent de l'eau sous forme de vapeur par leurs feuilles.",
+      "correctMessage": "Correct !",
+      "wrongMessage": "Essaie encore !"
+    }
+  ]
+}

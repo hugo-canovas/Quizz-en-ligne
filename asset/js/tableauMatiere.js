@@ -26,7 +26,7 @@ document.addEventListener("DOMContentLoaded", function () {
             const randomColor = colors[index % colors.length];
 
             // Création de la carte
-            let card = addElement('a', ["w-64", "h-64", randomColor, "rounded-lg", "text-white", "text-center", "text-2xl", "font-semibold", "p-4", "m-4", "hover:bg-blue-600", "hover:shadow-md", "transition", "duration-300", "ease-in-out", "flex", "items-center", "justify-center"], {href:`questionnaire.html?classe=${classe}&matiere=${matiere}`}, `${matiere}`);
+            let card = addElement('a', ["w-64", "h-64", randomColor, "rounded-lg", "text-white", "text-center", "text-2xl", "font-semibold", "p-4", "m-4", "hover:shadow-md", "transition", "duration-300", "ease-in-out", "flex", "items-center", "justify-center"], { href:`questionnaire.html?classe=${classe}&matiere=${matiere}`}, `${matiere}`);
             
             // Ajout de la carte au conteneur
             container.appendChild(card);

@@ -6,6 +6,7 @@ const matiere = url.searchParams.get("matiere");
 
 const quizContainer = document.getElementById("quiz-container");
 const btnNext = document.getElementById("btn-next");
+btnNext.disabled = true;
 const responseContainer = document.getElementById('blockResponse');
 const messageContainer = document.getElementById('message');
 const explicationContainer = document.getElementById('explication');
@@ -28,6 +29,18 @@ function getQuestionRandomly(questionnaire) {
   let i = Math.floor(Math.random() * questionnaire.length);
   let question = questionnaire[i];
   let answers = question.answers;
+
+  function shuffle(array){
+    for (let i = array.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        // Échanger les éléments array[i] et array[j]
+        [array[i], array[j]] = [array[j], array[i]];
+    }
+    return array;
+  }
+
+  shuffle(answers);
+
   let correctAnswer = question.correctAnswer;
   let correctMessage = question.correctMessage;
   let wrongMessage = question.wrongMessage;
@@ -50,6 +63,7 @@ function getQuestionRandomly(questionnaire) {
 
   function handleButtonClick(clickedButton) {
     questionAnswered = true;
+    btnNext.disabled = false;
 
     if (clickedButton.value == correctAnswer) {
       messageContainer.innerHTML = correctMessage;
@@ -93,14 +107,17 @@ async function main() {
 
   // TODO : Réagir aux clicks sur les boutons "Réponse apportée" / "Question suivante"
   btnNext.addEventListener("click", () => {
-    if (isGameOver(questionnaire)) {
-      // TODO : Gérer la fin du jeu
-      btnNext.innerHTML = "Terminer";
-      btnNext.addEventListener('click', () => {
-        document.location.href= `debrief.html?score=${score}`;
-      })  
-    } else {
-      applyNextQuestion(questionnaire);
+    if (!btnNext.disabled) {
+      if (isGameOver(questionnaire)) {
+        // TODO : Gérer la fin du jeu
+        btnNext.innerHTML = "Terminer";
+        btnNext.addEventListener('click', () => {
+          document.location.href= `debrief.html?score=${score}`;
+        })  
+      } else {
+        applyNextQuestion(questionnaire);
+        btnNext.disabled = true;
+      }
     }
   });
 }

@@ -10,10 +10,7 @@ btnNext.disabled = true;
 const responseContainer = document.getElementById('blockResponse');
 const messageContainer = document.getElementById('message');
 const explicationContainer = document.getElementById('explication');
-const responseContainer = document.getElementById("blockResponse");
-const blockAnswers = document.getElementById("blockAnswers");
-const messageContainer = document.getElementById("message");
-const explicationContainer = document.getElementById("explication");
+
 let score = 0;
 
 async function getQuestionsAndResponsesBySubject(subject) {
